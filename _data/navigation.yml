@@ -3,6 +3,9 @@ main:
   - title: "About Us"
     url: "/#intro"
 
+  - title: "About Us"
+    url: "/_pages/includes/intro"
+
   - title: "People"
     url: "/#-people"
 
