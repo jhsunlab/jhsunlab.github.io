@@ -7,8 +7,8 @@
 
 [Title Title and Title](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD036233) \\
 Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma \\
-2023 \\
-Journal of Geophysical Research: Atomspheres
+`2022` \\
+*Journal of Geophysical Research: Atomspheres*
 
 **New Findings:**
 
@@ -34,8 +34,8 @@ Journal of Geophysical Research: Atomspheres
 
 [Title Title and Title](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD036233) \\
 Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma \\
-2023 \\
-Journal of Geophysical Research: Atomspheres
+`2023` \\
+*Journal of Geophysical Research: Atomspheres*
 
 **Abstract:**
 
