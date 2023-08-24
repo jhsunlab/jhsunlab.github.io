@@ -5,6 +5,7 @@
 
 [Title Title and Title](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD036233) \\
 Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma
+
 **New Findings:**
 
 - New finding 1.
@@ -15,6 +16,7 @@ Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma
 
 - **AMS Style:** authors, year, title, journal, doi
 - **AGU Style:** authors, year, title, journal, doi
+
 [[PDF]](pdf/manuscript_JGR.pdf)
 </div>
 </div>
@@ -28,6 +30,7 @@ Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma
 
 [Title Title and Title](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD036233) \\
 Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma
+
 **New Findings:**
 
 - New finding 1.
@@ -38,6 +41,7 @@ Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma
 
 - **AMS Style:** authors, year, title, journal, doi
 - **AGU Style:** authors, year, title, journal, doi
+
 [[PDF]](pdf/manuscript_JGR.pdf)
 </div>
 </div>
