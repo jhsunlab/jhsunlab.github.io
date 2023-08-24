@@ -37,11 +37,9 @@ Yanan Fu, **Jianhua Sun\***, Shenming Fu, Yuanchuan Zhang, Zheng Ma \\
 2023 \\
 Journal of Geophysical Research: Atomspheres
 
-**New Findings:**
+**Abstract:**
 
-- New finding 1.
-- New finding 2.
-- New finding 3.
+- abstract text.
 
 **Citation:**
 
