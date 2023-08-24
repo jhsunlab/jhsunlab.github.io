@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "大气所孙建华课题组"
-description              : "中国科学院大气物理研究所孙建华研究员课题组"
+title                    : "孙建华课题组"
+description              : 
 repository               : "IAP-FuYaNan/iapsjhgroup.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "孙建华课题组"
   avatar           : "images/heying.jpg"
   bio              : "中国科学院大气物理研究所"
   location         : "北京"
