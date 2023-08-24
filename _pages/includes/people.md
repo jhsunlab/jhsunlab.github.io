@@ -1,7 +1,6 @@
 # People
 
-## 孙建华
-### 研究员
+### 孙建华 研究员
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sunjianhua.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -10,8 +9,7 @@
 </div>
 </div>
 
-## 傅慎明
-### 研究员
+### 傅慎明 研究员
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/fushenming.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
