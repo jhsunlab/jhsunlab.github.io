@@ -17,8 +17,14 @@ redirect_from:
 <span class='anchor' id='publications'></span>
 {% include_relative includes/publications.md %}
 
-<span class='anchor' id='talks'></span>
-{% include_relative includes/talks.md %}
+<div class="color-properties">
+  <span class='anchor' id='talks'></span>
+  {% include_relative includes/talks.md %}
+</div>
+.color-properties {
+  color: white;
+  background-color: #2ecc71;
+}
 
 <span class='anchor' id='alumni'></span>
 {% include_relative includes/alumni.md %}
