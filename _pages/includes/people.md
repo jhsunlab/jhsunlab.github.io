@@ -1,4 +1,4 @@
-# People
+# 课题组成员
 
 ### 孙建华 研究员
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sunjianhua.jpg' alt="sym" width="100%"></div></div>
