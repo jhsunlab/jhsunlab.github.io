@@ -1,4 +1,4 @@
-# Featured Publications
+# 代表性论文
 
 [[All Publications]](https://www.researchgate.net/profile/Jianhua-Sun-8)
 
