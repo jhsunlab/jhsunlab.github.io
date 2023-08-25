@@ -1,3 +1,5 @@
+<div class="color-properties">
+
 # 报告
 
 - 2023.08&emsp;第五届全国中尺度气象学论坛&emsp;宁夏银川
@@ -10,3 +12,9 @@
   - 孙建华&emsp;报告题目（特邀）[[PDF]](pdf/)
   - 傅慎明&emsp;报告题目（特邀）[[PDF]](pdf/)
   - 张元春&emsp;报告题目  [[PDF]](pdf/)
+
+</div>
+.color-properties {
+  color: white;
+  background-color: #2ecc71;
+}
