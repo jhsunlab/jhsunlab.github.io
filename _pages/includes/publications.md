@@ -1,6 +1,5 @@
 # 代表性论文
-
-[[All Publications]](https://www.researchgate.net/profile/Jianhua-Sun-8)
+[[全部论文]](https://www.researchgate.net/profile/Jianhua-Sun-8)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR 2021</div><img src='images/AR_2021_maruoyun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
