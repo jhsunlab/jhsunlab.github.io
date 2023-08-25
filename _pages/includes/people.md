@@ -22,3 +22,4 @@
   <img src='images/fushenming.jpg' alt="fsm" width="100%" style="border-radius: 50%;">
   中国科学院大气物理研究所研究员，博士生导师。
 </div>
+[[CV]](/pdf/cv_sunjianhua.pdf)
