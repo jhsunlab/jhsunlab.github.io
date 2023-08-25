@@ -11,7 +11,7 @@
 
 ### 傅慎明 研究员
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fushenming.jpg' alt="fsm" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fushenming.jpg' alt="fsm" width="100%" style="padding: 5px;"></div></div>
 <div class='paper-box-text' markdown="1">
 中国科学院大气物理研究所研究员，博士生导师。 [[CV]](/pdf/cv_sunjianhua.pdf)
 </div>
