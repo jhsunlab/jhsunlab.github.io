@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "孙建华课题组"
-description              : 
+description              : #
 repository               : "IAP-FuYaNan/iapsjhgroup.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/heying.jpg"
   bio              : "中国科学院大气物理研究所"
   location         : "北京"
-  employer         : "大气所"
+  employer         : # "大气所"
   pubmed           : 
   googlescholar    : 
   email            : "sjh@mail.iap.ac.cn"
