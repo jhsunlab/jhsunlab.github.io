@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h2 id="about-us"> About us</h2>
+<span class='anchor' id='about-us'></span>
 {% include_relative includes/about-us.md %}
 
 <span class='anchor' id='people'></span>
