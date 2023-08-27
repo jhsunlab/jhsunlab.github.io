@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<nav>
-    <ul>
-        <li><a href="#about-us" style="color:white;">简介</a></li>
-        <li><a href="#people" style="color:white;">成员</a></li>
-        <li><a href="#publications" style="color:white;">论文</a></li>
-        <li><a href="#talks" style="color:white;">报告</a></li>
-        <li><a href="#alumni" style="color:white;">毕业生</a></li>
-    </ul>
-</nav>
-
 <span class='anchor' id='about-us'></span>
 {% include_relative includes/about-us.md %}
 
