@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "团队简介"
-    url: /#about-us
+    url: "/#-about-us"
 
   - title: "团队成员"
-    url: /#people
+    url: "/#-people"
 
   - title: "代表作"
-    url: /#publications
+    url: "/#-publications"
 
   - title: "报告"
-    url: /#talks
+    url: "/#-talks"
 
   - title: "毕业生"
-    url: /#alumni
+    url: "/#alumni"
 
