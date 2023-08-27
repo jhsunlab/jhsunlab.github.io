@@ -1,4 +1,4 @@
-<h1>团队成员</h1>
+<h1 id="people">团队成员</h1>
 
 <h2>孙建华 研究员</h2>
 <div style="display: flex; align-items: center; padding: 10px;">
