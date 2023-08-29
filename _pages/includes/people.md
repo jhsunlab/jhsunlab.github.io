@@ -1,4 +1,4 @@
-![image](https://github.com/IAP-FuYaNan/iapsjhgroup.github.io/assets/93980062/5adb2c26-6f5b-40fa-b728-627da410566e)![image](https://github.com/IAP-FuYaNan/iapsjhgroup.github.io/assets/93980062/6f05d144-996c-4778-83e2-9c664d985bb4)<h1 id="people">团队成员</h1>
+<h1 id="people">团队成员</h1>
 
 <h2 style="text-indent: 2em;">孙建华 研究员</h2>
 <div style="display: flex; align-items: center; padding: 10px;">
