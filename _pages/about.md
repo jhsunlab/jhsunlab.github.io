@@ -23,7 +23,7 @@ redirect_from:
 		border-radius: 6px;
 	}
 	button:hover {
-		background-color: #c2c2c2;
+		background-color: #f0f0f0;
 	}
 </style>
 
