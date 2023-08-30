@@ -60,7 +60,7 @@
 <p style="text-indent: 1.5em; font-size: 17px;">硕士研究生</p>
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/huangyue.jpg" alt="hy" width="200" style="border-radius: 10%; margin-right: 10px">
-  <p style="text-indent: 2em; font-size: 16px;">个人简介。<button><a href="/pdf" style="text-decoration: none; color: blue;">CV</a></button></p>
+  <p style="text-indent: 2em; font-size: 16px;">个人简介。<button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
 </div>
 <br>
 
