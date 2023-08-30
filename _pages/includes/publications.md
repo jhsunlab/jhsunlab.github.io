@@ -6,11 +6,9 @@
 Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of the warm-season severe thunderstorm environments over North China. *Atmospheric Research*, 254, 105519. https://doi.org/10.1016/j.atmosres.2021.105519 
 
 <button><a href="https://www.sciencedirect.com/science/article/pii/S0169809521000715" style="text-decoration: none; color: blue;">Link</a></button>
-<button stype="border:2px solid #3F50B6;"><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6; border:2px solid #3F50B6; padding: 4px 8px; border-radius: 8px;">Poster</a></button>
+<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">Poster</a></button>
 <button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">Talk</a></button>
-<button onclick="location.href='/pdf/AR_2021_maruoyun.pdf'" style="border: 2px solid #3F50B6; padding: 2px 6px; text-decoration: none; color: #3F50B6; border-radius: 4px;">Talk</button>
-<button onclick="location.href='/pdf/AR_2021_maruoyun.pdf'" style="border: 2px solid #3F50B6; padding: 4px 8px; text-decoration: none; color: #3F50B6; border-radius: 8px;">按钮</button>
 
 **科学贡献:**
 
@@ -30,8 +28,8 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 
 Jianhua Sun, Shenming Fu, Huijie Wang, Yuanchun Zhang, Yun Chen, Aifang Su, Yaqiang Wang, Huan Tang, Ruoyun Ma. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. *Atmospheric Science Letters*, 24(1), e1131. https://doi.org/10.1002/asl.1131
 
-<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1131" style="text-decoration: none; color: blue;">Link</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: blue;">PDF</a></button>
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1131" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 **科学贡献:**
 
