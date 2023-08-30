@@ -7,9 +7,9 @@
 - 2023.08&emsp;会议名称&emsp;南非开普敦
   - 张元春&emsp;报告题目 <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 - 2023.04&emsp;2023暴雨东湖论坛&emsp;湖北武汉
-  - 孙建华&emsp;报告题目（特邀）<button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-  - 傅慎明&emsp;报告题目（特邀）<button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-  - 张元春&emsp;报告题目 <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+  - 孙建华&emsp;长江中游复杂地形对强对流系统和降水分布的影响（特邀）<button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+  - 傅慎明&emsp;高原涡的关键统计特征与共性形成机理（特邀）<button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+  - 张元春&emsp;长江中游二级地形附近MCS的触发和演变特征 <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
   <br><br><br>
