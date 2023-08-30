@@ -18,7 +18,7 @@ redirect_from:
   			text-align: center;
   			text-decoration: none;
   			display: inline-block;
-  			font-size: 16px;
+  			font-size: 14px;
   			margin-bottom: 20px;
   			cursor: pointer;
 			border-radius: 6px;
