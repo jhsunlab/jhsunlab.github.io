@@ -6,9 +6,9 @@
 Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of the warm-season severe thunderstorm environments over North China. *Atmospheric Research*, 254, 105519. https://doi.org/10.1016/j.atmosres.2021.105519 
 
 <button><a href="https://www.sciencedirect.com/science/article/pii/S0169809521000715" style="text-decoration: none; color: blue;">Link</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: blue;">PDF</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: blue;">Poster</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: blue;">Talk</a></button>
+<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6; border:2px solid #3F50B6;">PDF</a></button>
+<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6; border:2px solid #3F50B6; padding: 4px 8px;">Poster</a></button>
+<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">Talk</a></button>
 
 **科学贡献:**
 
