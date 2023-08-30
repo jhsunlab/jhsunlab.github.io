@@ -72,7 +72,7 @@
 
 <h2 style="text-indent: 2em;">肖雪 硕士研究生</h2>
 <div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/huangtingting.jpg" alt="xx" width="200" style="border-radius: 10%; margin-right: 10px">
+  <img src="images/avatar/xiaoxue.jpg" alt="xx" width="200" style="border-radius: 10%; margin-right: 10px">
   <p style="text-indent: 2em; font-size: 16px;">个人简介。<button><a href="/pdf" style="text-decoration: none; color: blue;">CV</a></button></p>
 </div>
 <br>
