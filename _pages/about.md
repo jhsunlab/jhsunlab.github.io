@@ -25,7 +25,7 @@ redirect_from:
 		}
 		button:hover {
 			background-color: #3F50B6;
-			color: white;
+			color: #FFFFFF;
 		}
 	</style>
 </head>
