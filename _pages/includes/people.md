@@ -97,48 +97,39 @@
 
 <br><br><br>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+  <figure style=" text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
-  <figure style="margin-right: 10px; text-align:center;">
-    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;"><br>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
   </figure>
-  
 </div>
 
 <br><br><br>
