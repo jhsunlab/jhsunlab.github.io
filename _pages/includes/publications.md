@@ -67,14 +67,14 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 
 
 <br>
-汤欢, **傅慎明\***, 孙建华, 周象贤. (2023). 基于高分辨率再分析风场的高原涡三维识别技术及应用. *大气科学*, 47(3): 698−712. https://10.3878/j.issn.10069895.2112.21127
+- 汤欢, **傅慎明\***, 孙建华, 周象贤. (2023). 基于高分辨率再分析风场的高原涡三维识别技术及应用. *大气科学*, 47(3): 698−712. https://10.3878/j.issn.10069895.2112.21127
 
 <button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=DQXK202303008&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2023_JAS-C_tanghuan.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 <br>
-Ma, Z., Li, Z., Li, J., Min, M., Sun, J., Wei, X., et al. (2023). An Enhanced Storm Warning and Nowcasting Model in Pre-Convection Environments. Remote Sensing, 15(10), 2672. https://doi.org/10.3390/rs15102672
+- Ma, Z., Li, Z., Li, J., Min, M., Sun, J., Wei, X., et al. (2023). An Enhanced Storm Warning and Nowcasting Model in Pre-Convection Environments. Remote Sensing, 15(10), 2672. https://doi.org/10.3390/rs15102672
 
 <button><a href="https://www.mdpi.com/2072-4292/15/10/2672" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2023_RS_mazheng.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
@@ -83,7 +83,7 @@ Ma, Z., Li, Z., Li, J., Min, M., Sun, J., Wei, X., et al. (2023). An Enhanced St
 
 
 <br>
-Fu, Y., Sun, J., Fu, S., & Zhang, Y. (2023). Comparison between warm-sector and frontal heavy rainfall events in South China and the objective classification of warm-sector heavy rainfall events. Meteorology and Atmospheric Physics, 135(1), 11. https://doi.org/10.1007/s00703-022-00949-8
+- Fu, Y., Sun, J., Fu, S., & Zhang, Y. (2023). Comparison between warm-sector and frontal heavy rainfall events in South China and the objective classification of warm-sector heavy rainfall events. Meteorology and Atmospheric Physics, 135(1), 11. https://doi.org/10.1007/s00703-022-00949-8
 
 <button><a href="https://link.springer.com/10.1007/s00703-022-00949-8" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2023_MAP_fuyanan.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
@@ -91,7 +91,7 @@ Fu, Y., Sun, J., Fu, S., & Zhang, Y. (2023). Comparison between warm-sector and 
 
 
 <br>
-Yang, W., Fu, S., Sun, J., Wang, H., Fu, Y., & Zeng, C. (2023). Moisture transport and associated background circulation for the regional extreme precipitation events over South China in recent 40 Years. Journal of Tropical Meteorology, 29(1), 101–114. https://doi.org/10.46267/j.1006-8775.2023.008
+- Yang, W., Fu, S., Sun, J., Wang, H., Fu, Y., & Zeng, C. (2023). Moisture transport and associated background circulation for the regional extreme precipitation events over South China in recent 40 Years. Journal of Tropical Meteorology, 29(1), 101–114. https://doi.org/10.46267/j.1006-8775.2023.008
 
 <button><a href="http://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2023.008" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2023_JTM_yangwenting.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
@@ -100,7 +100,7 @@ Yang, W., Fu, S., Sun, J., Wang, H., Fu, Y., & Zeng, C. (2023). Moisture transpo
 
 
 <br>
-Zhang, Y., Lu, R., Sun, J., & Yang, X. (2023). Organizational modes and environmental conditions of the severe convective weathers produced by the mesoscale convective systems in South China. Journal of Tropical Meteorology, 29(1), 26–38. https://doi.org/10.46267/j.1006-8775.2023.003
+- Zhang, Y., Lu, R., Sun, J., & Yang, X. (2023). Organizational modes and environmental conditions of the severe convective weathers produced by the mesoscale convective systems in South China. Journal of Tropical Meteorology, 29(1), 26–38. https://doi.org/10.46267/j.1006-8775.2023.003
 
 <button><a href="http://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2023.003" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2023_JTM_zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
