@@ -6,10 +6,10 @@ main:
   - title: "团队成员"
     url: "/#-people"
 
-  - title: "代表作"
+  - title: "论文"
     url: "/#-publications"
 
-  - title: "报告"
+  - title: "会议报告"
     url: "/#-talks"
 
   - title: "毕业生"
