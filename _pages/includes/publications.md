@@ -26,7 +26,7 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASL 2022</div><img src='images/ASL_2022_sunjianhua.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Jianhua Sun, Shenming Fu, Huijie Wang, Yuanchun Zhang, Yun Chen, Aifang Su, Yaqiang Wang, Huan Tang, Ruoyun Ma. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. *Atmospheric Science Letters*, 24(1), e1131. https://doi.org/10.1002/asl.1131
+**Jianhua Sun\***, Shenming Fu, Huijie Wang, Yuanchun Zhang, Yun Chen, Aifang Su, Yaqiang Wang, Huan Tang, Ruoyun Ma. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. *Atmospheric Science Letters*, 24(1), e1131. https://doi.org/10.1002/asl.1131
 
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1131" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
