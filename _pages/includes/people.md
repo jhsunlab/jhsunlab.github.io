@@ -141,6 +141,42 @@
   
 </div>
 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+  <figure style=" text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/avatar/fuyanan.jp" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b><br>博士研究生</figcaption>
+  </figure>
+</div>
+
+
 
 
 
