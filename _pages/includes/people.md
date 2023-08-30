@@ -95,4 +95,86 @@
   <p style="text-indent: 2em; font-size: 16px;">个人简介。<button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
 </div>
 
+
+<style type="text/css">
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start; /* Updated */
+  }
+  .student {
+    margin: 10px;
+    text-align: center;
+    width: 150px;
+  }
+  img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+          vertical-align: top; /* Updated */
+  }
+  button {
+    background-color: white; /* Green */
+      border: 2px solid #3F50B6;
+      color: #3F50B6;
+      padding: 2px 6px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    border-radius: 6px;
+  }
+</style>
+
+<div class="container">
+  <div class="student">
+    <img src="images/avatar/fuyanan.jpg" alt="Member 1">
+    <p>John Doe</p>
+    <p>CEO</p>
+  </div>
+  <div class="student">
+    <img src="images/avatar/fuyanan.jpg" alt="Member 2">
+    <p>Jane Doe</p>
+    <p>CTO</p>
+    <p><button onclick="window.location.href='https://www.example.com/janedoe'">CV</button></p>
+  </div>
+      <div class="student">
+          <img src="images/avatar/fuyanan.jpg" alt="Member 3">
+          <p>John Smith</p>
+          <p>COO</p>
+      </div>
+      <div class="student">
+          <img src="images/avatar/fuyanan.jpg" alt="Member 4">
+          <p>Jane Smith</p>
+          <p>CFO</p>
+      </div>
+      <div class="student">
+          <img src="images/avatar/fuyanan.jpg" alt="Member 5">
+          <p>John Johnson</p>
+          <p>CMO</p>
+      </div>
+      <div class="student">
+          <img src="images/avatar/fuyanan.jpg" alt="Member 6">
+          <p>Jane Johnson</p>
+          <p>CTO</p>
+      </div>
+      <div class="member">
+          <img src="images/avatar/fuyanan.jpg" alt="Member 7">
+          <p>John Williams</p>
+          <p>CIO</p>
+      </div>
+      <div class="student">
+          <img src="images/avatar/fuyanan.jpg" alt="Member 8">
+          <p>Jane Williams</p>
+          <p>COO</p>
+      </div>
+
+  </div>
+
+
+
+
 <br><br><br>
