@@ -1,6 +1,6 @@
 # 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">大气科学 2023</div><img src='images//article_figs/2023_JAS-C_zhangyuanchun.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">大气科学 2023</div><img src='images/article_figs/2023_JAS-C_zhangyuanchun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **张元春\***, 孙建华, 傅慎明, 汪汇洁, 付亚男, 汤欢, 魏倩. (2023).  “21.7”河南特大暴雨的中尺度系统活动特征. *大气科学*, 47(4): 1196−1216.https://doi.org/10.3878/j.issn.1006-9895.2302.22135
@@ -24,7 +24,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR 2021</div><img src='images/AR_2021_maruoyun.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR 2021</div><img src='images/article_figs/AR_2021_maruoyun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of the warm-season severe thunderstorm environments over North China. *Atmospheric Research*, 254, 105519. https://doi.org/10.1016/j.atmosres.2021.105519 
@@ -47,7 +47,7 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASL 2022</div><img src='images/ASL_2022_sunjianhua.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASL 2022</div><img src='images/article_figs/ASL_2022_sunjianhua.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Jianhua Sun\***, Shenming Fu, Huijie Wang, Yuanchun Zhang, Yun Chen, Aifang Su, Yaqiang Wang, Huan Tang, Ruoyun Ma. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. *Atmospheric Science Letters*, 24(1), e1131. https://doi.org/10.1002/asl.1131
