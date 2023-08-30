@@ -1,7 +1,7 @@
 # 毕业生及去向
 
 - 张敬萍，2023届博士毕业生
-  -《大别山地区中尺度涡旋的统计特征及影响因子研究》
+  - 《大别山地区中尺度涡旋的统计特征及影响因子研究》
 - 杨雯婷，2023届博士毕业生
 - 马铮，2022届博士毕业生，Cooperative Institute for Meteorological Satellite Studies, University of Wisconsin-Madison
 - 刘翠，2022届博士毕业生，中国气象局 国家卫星气象中心
