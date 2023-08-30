@@ -8,27 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-	<style>
-		button {
-			background-color: white;
-  			border: 2px solid #3F50B6;
-  			color: #3F50B6;
-  			padding: 2px 6px;
-  			text-align: center;
-  			text-decoration: none;
-  			display: inline-block;
-  			font-size: 14px;
-  			margin-bottom: 0;
-  			cursor: pointer;
-			border-radius: 6px;
-		}
-		button:hover {
-			background-color: #3F50B6;
-			color: #FFFFFF;
-		}
-	</style>
-</head>
+<style>
+	button {
+		background-color: white;
+		border: 2px solid #3F50B6;
+		color: #3F50B6;
+		padding: 2px 6px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 14px;
+		margin-bottom: 0;
+		cursor: pointer;
+		border-radius: 6px;
+	}
+	button:hover {
+		background-color: #3F50B6;
+		color: #FFFFFF;
+	}
+</style>
 
 <span class='anchor' id='about-us'></span>
 {% include_relative includes/about-us.md %}
