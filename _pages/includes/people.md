@@ -97,7 +97,7 @@
 
 <br><br><br>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center;">
   <figure style="margin-right: 10px; text-align:center;">
     <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
     <figcaption><b>付亚男</b><br>博士研究生</figcaption>
