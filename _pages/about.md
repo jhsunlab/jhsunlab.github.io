@@ -8,6 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+<head>
+	<style>
+		button {
+			background-color: white;
+  			border: 2px solid black;
+  			color: #3F50B6;
+  			padding: 2px 6px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 16px;
+  			margin-bottom: 20px;
+  			cursor: pointer;
+			border-radius: 6px;
+		}
+	</style>
+</head>
+
 <span class='anchor' id='about-us'></span>
 {% include_relative includes/about-us.md %}
 
