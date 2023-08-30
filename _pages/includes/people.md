@@ -98,19 +98,19 @@
 <br><br><br>
 
 <div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="200" style="border-radius: 10%; margin-right: 10px">
+  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
   <p style="font-size: 16px;">程宝洋</p>
   <p style="font-size: 16px;">硕士研究生</p>
   <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="200" style="border-radius: 10%; margin-right: 10px">
+  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
   <p style="font-size: 16px;">程宝洋</p>
   <p style="font-size: 16px;">硕士研究生</p>
   <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="200" style="border-radius: 10%; margin-right: 10px">
+  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
   <p style="font-size: 16px;">程宝洋</p>
   <p style="font-size: 16px;">硕士研究生</p>
   <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="200" style="border-radius: 10%; margin-right: 10px">
+  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
   <p style="font-size: 16px;">程宝洋</p>
   <p style="font-size: 16px;">硕士研究生</p>
   <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
