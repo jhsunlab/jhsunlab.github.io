@@ -97,23 +97,33 @@
 
 <br><br><br>
 
-<div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
-  <p style="font-size: 16px;">程宝洋</p>
-  <p style="font-size: 16px;">硕士研究生</p>
-  <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
-  <p style="font-size: 16px;">程宝洋</p>
-  <p style="font-size: 16px;">硕士研究生</p>
-  <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
-  <p style="font-size: 16px;">程宝洋</p>
-  <p style="font-size: 16px;">硕士研究生</p>
-  <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
-  <img src="images/avatar/chengbaoyang.jpg" alt="cby" width="100" style="border-radius: 10%; margin-right: 10px">
-  <p style="font-size: 16px;">程宝洋</p>
-  <p style="font-size: 16px;">硕士研究生</p>
-  <button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button>
+<div style="display: flex; justify-content: center;">
+  <figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure>
+  <figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure><figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure><figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure><figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure><figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure><figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure><figure style="margin-right: 10px; text-align:center;">
+    <img src="images/avatar/fuyanan.jpg" alt="图片1" style="width:100px; border-radius: 10%; margin-bottom: 10px;">
+    <figcaption><b>付亚男</b>博士研究生</figcaption>
+  </figure>
 </div>
 
 
