@@ -22,6 +22,9 @@ redirect_from:
 		cursor: pointer;
 		border-radius: 6px;
 	}
+	button:hover {
+		background-color: #d2f5f9;
+	}
 </style>
 
 <span class='anchor' id='about-us'></span>
