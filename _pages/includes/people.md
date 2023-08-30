@@ -34,35 +34,35 @@
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <figure style="text-align:left;">
-    <img src="images/avatar/weiqian.jpg" alt="wq" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/weiqian.jpg" alt="wq" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>魏倩</b><br>博士研究生</p>
   </figure>
   <figure style=" text-align:left;">
-    <img src="images/avatar/fuyanan.jpg" alt="fyn" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/fuyanan.jpg" alt="fyn" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>付亚男</b><br>博士研究生<br><button><a href="/pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/huangtingting.jpg" alt="htt" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/huangtingting.jpg" alt="htt" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>黄婷婷</b><br>博士研究生</p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/huangyue.jpg" alt="hy" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/huangyue.jpg" alt="hy" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>黄玥</b><br>硕士研究生</p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/lizirui.jpg" alt="lzr" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/lizirui.jpg" alt="lzr" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>李梓睿</b><br>硕士研究生</p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/xixuejie.jpg" alt="xxj" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/xixuejie.jpg" alt="xxj" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>席雪洁</b><br>硕士研究生</p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/xiaoxue.jpg" alt="xx" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/xiaoxue.jpg" alt="xx" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>肖雪</b><br>硕士研究生</p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/chengbaoyang.jpg" alt="cby" style="width:100px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/chengbaoyang.jpg" alt="cby" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>程宝洋</b><br>硕士研究生</p>
   </figure>
 </div>
