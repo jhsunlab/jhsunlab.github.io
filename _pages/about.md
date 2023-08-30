@@ -19,7 +19,7 @@ redirect_from:
   			text-decoration: none;
   			display: inline-block;
   			font-size: 14px;
-  			margin-bottom: 20px;
+  			margin-bottom: 0;
   			cursor: pointer;
 			border-radius: 6px;
 		}
