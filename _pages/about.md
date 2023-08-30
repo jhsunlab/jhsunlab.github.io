@@ -12,7 +12,7 @@ redirect_from:
 	<style>
 		button {
 			background-color: white;
-  			border: 2px solid black;
+  			border: 2px solid #3F50B6;
   			color: #3F50B6;
   			padding: 2px 6px;
   			text-align: center;
