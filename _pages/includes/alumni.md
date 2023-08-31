@@ -28,13 +28,15 @@
   - 博士论文 《题目》
   - 福建省气象局 气象科学研究所
 
-<img src="images/avatar/zhangyuanchun.jpg" alt="sjh" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;"">
-<ul>
-  <li>姜立智，2021届博士毕业生</li>
+<div style="display: flex; align-items: center; padding: 10px;">
+  <img src="images/avatar/zhangyuanchun.jpg" alt="sjh" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
   <ul>
-    <li>博士论文 《题目》</li>
-    <li> 福建省气象局 气象科学研究所</li>
+    <li>姜立智，2021届博士毕业生</li>
+    <ul>
+      <li>博士论文 《题目》</li>
+      <li> 福建省气象局 气象科学研究所</li>
+    </ul>
   </ul>
-</ul>
+</div>
 
 <br><br><br>
