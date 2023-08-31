@@ -1,26 +1,36 @@
 # 毕业生及去向
 
-<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid grey;">
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
 - 张敬萍，2023届博士毕业生
   - 博士论文 《大别山地区中尺度涡旋的统计特征及影响因子研究》
   - 毕业去向 
-<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 10%; margin-right: 10px">
+  
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
 - 杨雯婷，2023届博士毕业生
   - 博士论文 《题目》
   - 毕业去向 
-<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 10%; margin-right: 10px">
+  
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
 - 马铮，2022届博士毕业生
   - 博士论文 《题目》
   - Cooperative Institute for Meteorological Satellite Studies, University of Wisconsin-Madison
-- 刘翠，2022届博士毕业生，
+
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
+- 刘翠，2022届博士毕业生
   - 博士论文 《题目》
   - 中国气象局 国家卫星气象中心
+
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
 - 汤欢，2022届博士毕业生
   - 博士论文 《题目》
   - 中国气象局 气象干部培训学院
+
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
 - 马若赟，2022届博士毕业生
   - 博士论文 《华北地区暖季强对流的触发、组织类型及环境条件研究》
   - 中国气象局 地球系统数值预报中心
+
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
 - 姜立智，2021届博士毕业生
   - 博士论文 《题目》
   - 福建省气象局 气象科学研究所
