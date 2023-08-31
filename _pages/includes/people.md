@@ -12,7 +12,7 @@
 <p style="text-indent: 1.5em; font-size: 17px;">研究员</p>
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/fushenming.jpg" alt="fsm" width="200" style="border-radius: 10%; margin-right: 10px">
-  <p style="text-indent: 2em; font-size: 16px;">中国科学院大气物理研究所研究员，博士生导师，中国科学院青年促进会成员。主要从事中尺度气象学、大气动力学、多尺度相互作用的研究，发表学术论文100余篇（SCI收录40余篇），并担任《大气科学》期刊编委，Sustainability期刊编辑、Frontiers in Earth Science期刊客座编辑，先后主持国家自然科学基金青年项目1项、面上项目2项，并作为子课题负责任参与国家重点研发项目3项。<button><a href="/pdf/" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
+  <p style="text-indent: 2em; font-size: 16px;">中国科学院大气物理研究所研究员，博士生导师，中国科学院青年促进会成员。主要从事中尺度气象学、大气动力学、多尺度相互作用的研究，发表学术论文100余篇（SCI收录40余篇），并担任《大气科学》期刊编委，Sustainability期刊编辑、Frontiers in Earth Science期刊客座编辑，先后主持国家自然科学基金青年项目1项、面上项目2项，并作为子课题负责人参与国家重点研发项目3项。<button><a href="/pdf/" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
 </div>
 <br>
 
