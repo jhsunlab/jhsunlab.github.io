@@ -28,7 +28,7 @@
 <p style="text-indent: 1.5em; font-size: 17px;">工程师</p>
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/wanghuijie.jpg" alt="whj" width="200" style="border-radius: 10%; margin-right: 10px">
-  <p style="text-indent: 2em; font-size: 16px;">工程师，长期从事中尺度海气耦合数值预报技术、海气资料同化技术的研究。中国人民解放军空军某部航空数值预报业务系统工程骨干，重点海区中尺度海气耦合数值预报分系统负责人，拥有12年航站气象预报一线业务经验。<button><a href="/pdf/" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
+  <p style="text-indent: 2em; font-size: 16px;">工程师，长期从事中尺度海气耦合数值预报技术、海气资料同化技术的研究。某部航空数值预报业务系统工程骨干，重点海区中尺度海气耦合数值预报分系统负责人，拥有12年航站气象预报一线业务经验。<button><a href="/pdf/" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
 </div>
 <br>
 
