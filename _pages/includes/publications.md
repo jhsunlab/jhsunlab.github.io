@@ -66,7 +66,10 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 
 
 <br>
-- 汤欢, **傅慎明\***, 孙建华, 周象贤. (2023). 基于高分辨率再分析风场的高原涡三维识别技术及应用. *大气科学*, 47(3): 698−712. https://10.3878/j.issn.10069895.2112.21127
+
+### 2023
+
+- 汤欢, 傅慎明, 孙建华, 周象贤. (2023). 基于高分辨率再分析风场的高原涡三维识别技术及应用. *大气科学*, 47(3): 698−712. https://10.3878/j.issn.10069895.2112.21127
 <button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=DQXK202303008&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2023_JAS-C_tanghuan.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
@@ -85,6 +88,26 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 - Zhang, Y., Lu, R., Sun, J., & Yang, X. (2023). Organizational modes and environmental conditions of the severe convective weathers produced by the mesoscale convective systems in South China. Journal of Tropical Meteorology, 29(1), 26–38. https://doi.org/10.46267/j.1006-8775.2023.003
 <button><a href="http://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2023.003" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2023_JTM_zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+### 2022
+
+- 田付友, 张小玲, 曹艳察, 孙建华, 郑永光, 杨新林, et al. (2022). 中国中低海拔地区三类强对流天气环境条件的基本气候特征. 高原气象, 41(6), 1446–1459.
+- 杨雯婷, 傅慎明, 孙建华, 郑飞, & 卫捷. (2022). 近32年泰国降水的主要变化趋势研究. 大气科学, 46(2), 263–274.
+- Chen, H., Xu, W., Liu, N., Sun, J., & Fu, J. (2022). Climatologies of Mesoscale Convective Systems over China Observed by Spaceborne Radars. Monthly Weather Review, 150, 2697–2717. https://doi.org/10.1175/MWR-D-22-0002.1
+- Fu, S., Tang, H., Sun, J., Zhao, T., & Li, W. (2022). Historical Rankings and Vortices’ Activities of the Extreme Mei-yu Seasons: Contrast 2020 to Previous Mei-yu Seasons. Geophysical Research Letters, 49(2), e2021GL096590. https://doi.org/10.1029/2021GL096590
+- Fu, S., Zhang, Y., Wang, H., Tang, H., Li, W., & Sun, J. (2022). On the Evolution of a Long-Lived Mesoscale Convective Vortex that Acted as a Crucial Condition for the Extremely Strong Hourly Precipitation in Zhengzhou. Journal of Geophysical Research: Atmospheres, 127(11), e2021JD036233. https://doi.org/10.1029/2021JD036233
+- Fu, S., Zhang, J., Luo, Y., Yang, W., & Sun, J. (2022). Energy Paths That Sustain the Warm-Sector Torrential Rainfall over South China and Their Contrasts to the Frontal Rainfall: A Case Study. Advances in Atmospheric Sciences, 39(9), 1519–1535. https://doi.org/10.1007/s00376-021-1336-z
+- Jiang, L., Fu, S., Sun, J., Fu, R., Li, W., Zhao, S., & Wang, H. (2022). Surface wind and vertical extent features of the explosive cyclones in the Northern Hemisphere based on the ERA-I reanalysis data. International Journal of Climatology, 42(2), 993–1014. https://doi.org/10.1002/joc.7284
+- Sun, J., Fu, S., Wang, H., Zhang, Y., Chen, Y., Su, A., et al. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. Atmos. Sci. Lett., 24(1), e1131. https://doi.org/10.1002/asl.1131
+- Tian, F., Zhang, X., Xia, K., Sun, J., & Zheng, Y. (2022). Probability Forecasting of Short-Term Short-Duration Heavy Rainfall Combining Ingredients-Based Methodology and Fuzzy Logic Approach. Atmosphere, 13(7), 1074. https://doi.org/10.3390/atmos13071074
+- Zhang, Y., Sun, J., Yang, R., & Ma, R. (2022). Initiation and Evolution of Long-Lived Eastward-Propagating Mesoscale Convective Systems over the Second-Step Terrain along Yangtze-Huaihe River Valley. Advances in Atmospheric Sciences, 39(5), 763–781. https://doi.org/10.1007/s00376-022-1303-3
+
+
+
+
+
+
+
 
 
 
