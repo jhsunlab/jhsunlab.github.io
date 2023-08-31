@@ -178,6 +178,69 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 <button><a href="https://www.sciencedirect.com/science/article/pii/S1674283421000684" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2021_AOSL_zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
+<h2 style="text-indent: 1em;">2020</h2>
+
+Feng S, Jin S, Fu S, Sun J, Zhang Y (2020) Formation of a kind of heavy-precipitation-producing mesoscale vortex around the Sichuan Basin: An along-track vorticity budget analysis. Atmospheric Science Letters 21(1):e949. https://doi.org/10.1002/asl2.949
+https://onlinelibrary.wiley.com/doi/abs/10.1002/asl2.949
+<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+Fu S, Jin S, Shen W, Li D, Liu B, Sun J (2020) A kinetic energy budget on the severe wind production that causes a serious state grid failure in Southern Xinjiang China. Atmospheric Science Letters 21(7):e977. https://doi.org/10.1002/asl.977
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.977" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_ASL_fushenming.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+Fu S, Zhang J, Tang H, Jiang L, Sun J (2020) A new mesoscale-vortex identification metric: restricted vorticity and its application. Environmental Research Letters 15(12):124053. https://doi.org/10.1088/1748-9326/abcac6
+<button><a href="https://dx.doi.org/10.1088/1748-9326/abcac6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_ERL_fushenming.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+Jiang L, Fu S, Sun J (2020) New method for detecting extratropical cyclones: the eight-section slope detecting method. Atmospheric and Oceanic Science Letters 13(5):436–442. https://doi.org/10.1080/16742834.2020.1754124
+<button><a href="https://doi.org/10.1080/16742834.2020.1754124" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_AOSL_jianglizhi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+Jin S, Feng S, Shen W, Fu S, Jiang L, Sun J (2020) Energetics characteristics accounting for the low-level wind’s rapid enhancement associated with an extreme explosive extratropical cyclone over the western North Pacific Ocean. Atmospheric and Oceanic Science Letters 13(5):426–435. https://doi.org/10.1080/16742834.2020.1763153
+<button><a href="https://doi.org/10.1080/16742834.2020.1763153" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_AOSL_jinshuanglong.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+Meng Y, Sun J, Zhang Y, Fu S (2020) A 10-year climatology of mesoscale convective systems and their synoptic circulations in the southwest mountain area of China. Journal of Hydrometeorology 22(1):23–41. https://doi.org/10.1175/JHM-D-20-0167.1
+<button><a href="https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0167.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_JH_mengyanan.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+
+
+
+Yang R, Zhang Y, Sun J, Li J (2020) The comparison of statistical features and synoptic circulations between the eastward-propagating and quasi-stationary MCSs during the warm season around the second-step terrain along the middle reaches of the Yangtze River. Science China Earth Sciences 63(8):1209–1222. https://doi.org/10.1007/s11430-018-9385-3
+<button><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086093698&doi=10.1007%2fs11430-018-9385-3&partnerID=40&md5=0ff6478f31931fd9ee387441ff6c66ee" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_SCES_yangruyi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Yang Y, Sun J, Zhu Y, Zhang T (2020) Examination of the impacts of ice nuclei aerosol particles on microphysics, precipitation and electrification in a 1.5D aerosol-cloud bin model. Journal of Aerosol Science 140:105440. https://doi.org/10.1016/j.jaerosci.2019.105440
+<button><a href="https://www.sciencedirect.com/science/article/pii/S0021850219305361" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_JAeroS_yangyi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Zhang X, Sun J, Zheng Y, Zhang Y, Ma R, Yang X, Zhou K, Han X (2020) Progress in severe convective weather forecasting in China since the 1950s. Journal of Meteorological Research 34(4):699–719. https://doi.org/10.1007/s13351-020-9146-2
+<button><a href="https://doi.org/10.1007/s13351-020-9146-2" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_JMR_zhangxiaoling.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Zheng L, Sun J, Qiu X, Yang Z (2020) Five-year climatology of local convections in the dabie mountains. Atmosphere 11(11). https://doi.org/10.3390/atmos11111246
+<button><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85096529749&doi=10.3390%2fatmos11111246&partnerID=40&md5=9134ebccda6e7eed9bcd6ace60968d25" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_Atmos_zhenglinlin.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Zheng L, Sun J, Zhang J, Qiu X, Yao C (2020) Squall line and its vertical motion under different moisture profiles in Eastern China. Journal of Tropical Meteorology 26(3):321–335. https://doi.org/10.46267/j.1006-8775.2020.029
+<button><a href="http://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2020.029" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2020_JRM_zhenglinlin.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+
+
+
+
+
+
 
 
 
