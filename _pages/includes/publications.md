@@ -143,8 +143,7 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 <button><a href="/pdf/article/2021_Atmos_fushenming.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Fu S, Mai Z, Sun J, Li W, Zhong Q, Sun J, Zhang Y (2021) A semi-idealized modeling study on the long-lived eastward propagating mesoscale convective system over the Tibetan Plateau. Science China Earth Sciences 64(11):1996–2014. https://doi.org/10.1007/s11430-020-9772-1
-https://doi.org/10.1007/s11430-020-9772-1
-<button><a href="h" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="https://doi.org/10.1007/s11430-020-9772-1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2021_SCES_fushenming.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Jiang L, Yu H, Dong L, Fu S, Sun J, Zheng F, Yi K, Ma H (2021) On the vertical extending of the explosive extratropical cyclone: A case study. Atmospheric Science Letters 22(5):e1028. https://doi.org/10.1002/asl.1028
