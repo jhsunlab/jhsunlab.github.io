@@ -1,11 +1,14 @@
 # 毕业生及去向
 
-- <img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 10%; margin-right: 10px">张敬萍，2023届博士毕业生
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 10%; margin-right: 10px">
+- 张敬萍，2023届博士毕业生
   - 博士论文 《大别山地区中尺度涡旋的统计特征及影响因子研究》
   - 毕业去向 
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 10%; margin-right: 10px">
 - 杨雯婷，2023届博士毕业生
   - 博士论文 《题目》
   - 毕业去向 
+<img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="100" style="border-radius: 10%; margin-right: 10px">
 - 马铮，2022届博士毕业生
   - 博士论文 《题目》
   - Cooperative Institute for Meteorological Satellite Studies, University of Wisconsin-Madison
