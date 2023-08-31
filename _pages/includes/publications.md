@@ -136,5 +136,66 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 <button><a href="https://doi.org/10.1007/s00376-022-1303-3" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2022_AAS_zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
+## 2021
+
+Fu S, Tang H, Li Y, Ma H, Sun J (2021) On the relationship of a low-level jet and the formation of a heavy-rainfall-producing mesoscale vortex over the Yangtze River Basin. Atmosphere 12(2):156. https://doi.org/10.3390/atmos12020156
+<button><a href="https://www.mdpi.com/2073-4433/12/2/156" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_Atmos_fushenming.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Fu S, Mai Z, Sun J, Li W, Zhong Q, Sun J, Zhang Y (2021) A semi-idealized modeling study on the long-lived eastward propagating mesoscale convective system over the Tibetan Plateau. Science China Earth Sciences 64(11):1996–2014. https://doi.org/10.1007/s11430-020-9772-1
+https://doi.org/10.1007/s11430-020-9772-1
+<button><a href="h" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_SCES_fushenming.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Jiang L, Yu H, Dong L, Fu S, Sun J, Zheng F, Yi K, Ma H (2021) On the vertical extending of the explosive extratropical cyclone: A case study. Atmospheric Science Letters 22(5):e1028. https://doi.org/10.1002/asl.1028
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1028" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_ASL_jianglizhi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Liu C, Sun J, Yang X, Jin S, Fu S (2021) Evaluation of ECMWF precipitation predictions in China during 2015–18. Weather and Forecasting 36(3):1043–1060. https://doi.org/10.1175/WAF-D-20-0143.1
+https://journals.ametsoc.org/view/journals/wefo/36/3/WAF-D-20-0143.1.xml
+<button><a href="h" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Ma R, Feng S, Jin S, Sun J, Fu S, Sun S, Han H (2021) Statistical characteristics and environmental conditions of the warm-season severe convective events over North China. Atmosphere 12(1):52. https://doi.org/10.3390/atmos12010052
+<button><a href="https://www.mdpi.com/2073-4433/12/1/52" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_Atmos_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Ma R, Sun J, Yang X (2021) An eight-year climatology of the warm-season severe thunderstorm environments over North China. Atmos Res 254:105519. https://doi.org/10.1016/j.atmosres.2021.105519
+https://www.sciencedirect.com/science/article/pii/S0169809521000715
+<button><a href="h" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Mai Z, Fu S, Sun J, Hu L, Wang X (2021) Key statistical characteristics of the mesoscale convective systems generated over the Tibetan Plateau and their relationship to precipitation and southwest vortices. International Journal of Climatology 41(S1):E875–E896. https://doi.org/10.1002/joc.6735
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.6735" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_IJC_maizi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Wang H, Sun J, Fu S, Zhang Y (2021) Typical circulation patterns and associated mechanisms for persistent heavy rainfall events over Yangtze-Huaihe River Valley during 1981–2020. Advance in Atmospheric Sciences 38(12):2167–2182. https://doi.org/10.1007/s00376-021-1194-8
+<button><a href="https://doi.org/10.1007/s00376-021-1194-8" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_AAS_wanghuijie.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Yang W, Fu S, Sun J, Zheng F, Wei J, Ma Z (2021) Comparative evaluation of the performances of TRMM-3B42 and climate prediction centre morphing technique (CMORPH) precipitation estimates over Thailand. Journal of the Meteorological Society of Japan Ser II 99(6):1525–1546. https://doi.org/10.2151/jmsj.2021-074
+<button><a href="https://www.jstage.jst.go.jp/article/jmsj/advpub/0/advpub_2021-074/_article" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_JMSJ_yangwenting.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+Zhang Y, Sun J, Zhu L, Tang H, Jin S, Liu X (2021) Comparison of two types of persistent heavy rainfall events during sixteen warm seasons in the Sichuan Basin. Atmospheric and Oceanic Science Letters 14(6):100094. https://doi.org/10.1016/j.aosl.2021.100094
+<button><a href="https://www.sciencedirect.com/science/article/pii/S1674283421000684" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_AOSL_zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br><br>
