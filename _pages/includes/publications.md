@@ -151,18 +151,16 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 <button><a href="/pdf/article/2021_ASL_jianglizhi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Liu C, Sun J, Yang X, Jin S, Fu S (2021) Evaluation of ECMWF precipitation predictions in China during 2015–18. Weather and Forecasting 36(3):1043–1060. https://doi.org/10.1175/WAF-D-20-0143.1
-https://journals.ametsoc.org/view/journals/wefo/36/3/WAF-D-20-0143.1.xml
-<button><a href="h" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2021_.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+<button><a href="https://journals.ametsoc.org/view/journals/wefo/36/3/WAF-D-20-0143.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_WF_liucui.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Ma R, Feng S, Jin S, Sun J, Fu S, Sun S, Han H (2021) Statistical characteristics and environmental conditions of the warm-season severe convective events over North China. Atmosphere 12(1):52. https://doi.org/10.3390/atmos12010052
 <button><a href="https://www.mdpi.com/2073-4433/12/1/52" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2021_Atmos_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
-- Ma R, Sun J, Yang X (2021) An eight-year climatology of the warm-season severe thunderstorm environments over North China. Atmos Res 254:105519. https://doi.org/10.1016/j.atmosres.2021.105519
-https://www.sciencedirect.com/science/article/pii/S0169809521000715
-<button><a href="h" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2021_.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+- Ma R, Sun J, Yang X (2021) An eight-year climatology of the warm-season severe thunderstorm environments over North China. Atmospheric Research 254:105519. https://doi.org/10.1016/j.atmosres.2021.105519
+<button><a href="https://www.sciencedirect.com/science/article/pii/S0169809521000715" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2021_AR_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Mai Z, Fu S, Sun J, Hu L, Wang X (2021) Key statistical characteristics of the mesoscale convective systems generated over the Tibetan Plateau and their relationship to precipitation and southwest vortices. International Journal of Climatology 41(S1):E875–E896. https://doi.org/10.1002/joc.6735
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.6735" style="text-decoration: none; color: #3F50B6;">Link</a></button>
