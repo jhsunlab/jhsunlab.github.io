@@ -1,20 +1,21 @@
 # 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">大气科学 2023</div><img src='images/article_figs/2023_JAS-C_zhangyuanchun.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">大气科学 2023</div><img src='images/article_figs/2022-zhangyuanchun-aas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**张元春\***, 孙建华, 傅慎明, 汪汇洁, 付亚男, 汤欢, 魏倩. (2023).  “21.7”河南特大暴雨的中尺度系统活动特征. *大气科学*, 47(4): 1196−1216. https://doi.org/10.3878/j.issn.1006-9895.2302.22135
+**Yuanchun Zhang\***, Jianhua Sun, Ruyi Yang, Ruoyun Ma. (2022). Initiation and evolution of long-Lived eastward-propagating mesoscale convective systems over the second-step terrain along Yangtze-Huaihe River Valley. *Advances in Atmospheric Sciences*, 39(5), 763–781. https://doi.org/10.1007/s00376-022-1303-3
 
-<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=DQXK202304022&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2023_JAS-C_zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">Talk</a></button>
+
+<button><a href="https://doi.org/10.1007/s00376-022-1303-3" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2022-zhangyuanchun-aas.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+<button><a href="/pdf/article/2022-zhangyuanchun-aas.pdf" style="text-decoration: none; color: #3F50B6;">Talk</a></button>
 
 **科学贡献:**
 
-- 河南“21.7”特大暴雨过程主要分为三个阶段，其主要的中尺度系统包括黄淮气旋、中尺度对流系统（MCS）以及与MCS伴随的中尺度对流涡旋（MCV）
-- 第一阶段主要为分散性降雨，水汽来自于近距离输送，主要的影响系统为黄淮气旋
-- 第二阶段二级地形东部的局地对流发展为MCS，强上升运动有利于低层气旋性切变增强，从而诱发MCV生成
-- 第三阶段水汽主要来自于西北太平洋，主要影响系统是MCS
+- Eight representative long-lived eastward-propagating MCSs are selected for model-based sensitivity testing to investigate the initiation and evolution of these types of MCSs as well as their impact on downstream areas.
+- Convection forms in the region downstream of a shortwave trough typified by persistent southwesterly winds in the low-to midtroposphere.
+- Upon merging with other convective systems, moist convection develops into an MCS, which propagates eastward under the influence of midtropospheric westerlies, and moves out of the second-step terrain.
+- In the absence of eastward-propagating MCSs, moist convection and mesoscale vortices still appear in the plains, but the vortex strength and precipitation intensity are significantly weakened.
 
 </div>
 </div>
