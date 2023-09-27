@@ -61,32 +61,6 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR 2021</div><img src='images/article_figs/AR_2021_maruoyun.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of the warm-season severe thunderstorm environments over North China. *Atmospheric Research*, 254, 105519. https://doi.org/10.1016/j.atmosres.2021.105519 
-
-<button><a href="https://www.sciencedirect.com/science/article/pii/S0169809521000715" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">Poster</a></button>
-<button><a href="/pdf/AR_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">Talk</a></button>
-
-**科学贡献:**
-
-- The environments of severe thunderstorms over the plains, compared with those over the mountains, are generally characterized by stronger instability, more moisture, and higher vertical wind shear.
-- Over both mountains and plains, the precipitable water (PW) shows the greatest skill overall in discriminating between various categories.
-- Probability distributions in two-parameter spaces reveal that great variations exist regarding the environments under which different weather types are most likely to occur.
-
-</div>
-</div>
-
-
-
-
-
-
-
-
 
 <br>
 <h2 style="text-indent: 1em;">2023</h2>
