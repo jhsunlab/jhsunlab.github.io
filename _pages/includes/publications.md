@@ -69,7 +69,11 @@
 <button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=DQXK202303008&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 张元春, 孙建华, 傅慎明, 汪汇洁, 付亚男, 汤欢, 魏倩 (2023) “21·7”河南特大暴雨的中尺度系统活动特征. 大气科学 47(4):1196–1216
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=KiAZ1SjiA-5fg6jvYz3bD4uXwy5ZM9LCOfR-F4Ug0_4gtQEOunORZJ8OSNO9y8Ix-hi6fbg6rCsXF_ahYHt6MaWxsB7ZnB43clzbA8uW-bezOYxCqYtS8BLPUwc5dvcrD7MhVnCfsM7Kx_OKTgQNVw==&uniplatform=NZKPT&language=CHS" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 周晓敏, 田付友, 郑永光, 孙建华, 王超 (2023). 中国短时强降雨对暴雨的贡献特征. 气象, 49(3), 267–278.
 <button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=DQXK202304022&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 - Fu Y, Sun J, Fu S, Zhang Y (2023) Comparison between warm-sector and frontal heavy rainfall events in South China and the objective classification of warm-sector heavy rainfall events. Meteorology and Atmospheric Physics 135(1):11. https://doi.org/10.1007/s00703-022-00949-8
 <button><a href="https://link.springer.com/10.1007/s00703-022-00949-8" style="text-decoration: none; color: #3F50B6;">Link</a></button>
