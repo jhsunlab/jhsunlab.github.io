@@ -213,6 +213,12 @@
 - Zheng L, Sun J, Zhang J, Qiu X, Yao C (2020) Squall line and its vertical motion under different moisture profiles in Eastern China. Journal of Tropical Meteorology 26(3):321–335. https://doi.org/10.46267/j.1006-8775.2020.029
 <button><a href="http://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2020.029" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- 麦子, 傅慎明, 孙建华 (2020). 近16年暖季青藏高原东部两类中尺度对流系统(MCS)的统计特征. 气候与环境研究, 25(4), 385–398.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXogtAEVH7LBKtePRiE-ZWdmI1BHWnfY9NUlruq0weRMYw&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 汤欢, 傅慎明, 孙建华, 麦子, 靳双龙, 张元春 (2020). 一次高原东移MCS与下游西南低涡作用并产生强降水事件的研究. 大气科学, 44(6), 1275–1290.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXokr9uh7kYa-IZwOkFkOiS1HV7VKAHvRy7MXhqvkNp4MD&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 
 
