@@ -307,13 +307,13 @@
 <button><a href="https://journals.ametsoc.org/view/journals/wefo/32/4/waf-d-16-0101_1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Zhang B, Tian X, Zhang L, Sun J (2017). The Radar Data Assimilation System Based on NLS-4DVar and Its Application in Heavy Rain Forecast. Chinese Journal of Atmospheric Sciences, 41(2), 321–332. https://doi.org/10.3878/j.issn.1006-9895.1605.16107
-<button><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050453848&doi=10.3878%2fj.issn.1006-9895.1605.16107&partnerID=40&md5=6c90f7416dc61f651648db9a0eec01f4" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="[https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050453848&doi=10.3878%2fj.issn.1006-9895.1605.16107&partnerID=40&md5=6c90f7416dc61f651648db9a0eec01f4](https://doi.org/10.3878/j.issn.1006-9895.1605.16107)" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Zhang B, Tian X, Zhang L, Sun J (2017). Handling non-linearity in radar data assimilation using the non-linear least squares enhanced POD-4DVar. Science China Earth Sciences, 60(3), 478–490. https://doi.org/10.1007/s11430-015-0271-4
 <button><a href="https://doi.org/10.1007/s11430-015-0271-4" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Zhang Y, Sun J, Fu S (2017). Main energy paths and energy cascade processes of the two types of persistent heavy rainfall events over the Yangtze River–Huaihe River Basin. Advances in Atmospheric Sciences, 34(2), 129–143. https://doi.org/10.1007/s00376-016-6117-8
-<button><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85008950962&doi=10.1007%2fs00376-016-6117-8&partnerID=40&md5=1d8ca66602a0c9cbeeea84686d54ba46" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="[https://www.scopus.com/inward/record.uri?eid=2-s2.0-85008950962&doi=10.1007%2fs00376-016-6117-8&partnerID=40&md5=1d8ca66602a0c9cbeeea84686d54ba46](https://doi.org/10.1007/s00376-016-6117-8)" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Zhang Y, Sun J (2017). Comparison of the diurnal variations of precipitation east of the Tibetan Plateau among sub-periods of Meiyu season. Meteorology and Atmospheric Physics, 129(5), 539–554. https://doi.org/10.1007/s00703-016-0484-7
 <button><a href="https://doi.org/10.1007/s00703-016-0484-7" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -327,7 +327,38 @@
 <br>
 <h2 style="text-indent: 1em;">2016</h2>
 
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+- Fu S, Li D, Sun J, Si D, Ling J, Tian F (2016). A 31-year trend of the hourly precipitation over South China and the underlying mechanisms. Atmospheric Science Letters, 17(3), 216–222. https://doi.org/10.1002/asl.645
+<button><a href="https://doi.org/10.1002/asl.645" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Fu S, Wang H, Sun J, Zhang Y (2016). Energy budgets on the interactions between the mean and eddy flows during a persistent heavy rainfall event over the Yangtze River valley in summer 2010. Journal of Meteorological Research, 30(4), 513–527. https://doi.org/10.1007/s13351-016-5121-3
+<button><a href="https://doi.org/10.1007/s13351-016-5121-3" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Fu, S, Sun J, Ling J, Wang H, Zhang Y (2016). Scale interactions in sustaining persistent torrential rainfall events during the Mei-yu season. Journal of Geophysical Research: Atmospheres, 121(21), 12,856-12,876. https://doi.org/10.1002/2016JD025446
+<button><a href="https://doi.org/10.1002/2016JD025446" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Fu S, Zhang J, Sun J, Zhao T (2016). Composite analysis of long-lived mesoscale vortices over the middle reaches of the Yangtze River valley: Octant features and evolution mechanisms. Journal of Climate, 29(2), 761–781. https://doi.org/10.1175/JCLI-D-15-0175.1
+<button><a href="https://doi.org/10.1175/JCLI-D-15-0175.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Li D, Sun J, Fu S, Wei J, Wang S, Tian F (2016). Spatiotemporal characteristics of hourly precipitation over central eastern China during the warm season of 1982–2012. International Journal of Climatology, 36(8), 3148–3160. https://doi.org/10.1002/joc.4543
+<button><a href="https://doi.org/10.1002/joc.4543" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Liu R, Sun J, Wei J, Fu S (2016). Classification of persistent heavy rainfall events over South China and associated moisture source analysis. Journal of Meteorological Research, 30(5), 678–693. https://doi.org/10.1007/s13351-016-6042-x
+<button><a href="https://doi.org/10.1007/s13351-016-6042-x" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Wang H, Sun J, Zhao S, Wei J (2016). The multiscale factors favorable for a persistent heavy rain event over Hainan Island in October 2010. Journal of Meteorological Research, 30(4), 496–512. https://doi.org/10.1007/s13351-016-6005-2
+<button><a href="https://doi.org/10.1007/s13351-016-6005-2" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Zhao S, Sun J, Lu R (2016). Analysis of ‘9.4’ unusual rainfall in Beijing during autumn 2015. Atmospheric and Oceanic Science Letters, 9(3), 219–225. https://doi.org/10.1080/16742834.2016.1162083
+<button><a href="https://doi.org/10.1080/16742834.2016.1162083" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 孙建华, 汪汇洁, 卫捷, 齐琳琳 (2016). 江淮区域持续性暴雨过程的水汽源地和输送特征. 气象学报, 74(4), 542–555.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ijP0rjQD-AVm8oHBO0FTadi3MSYTQ2Ifl6HenaOnFAjo2UkYrkFmbEwXZYlOK8bee&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 李娟, 孙建华, 张元春, 沈新勇 (2016). 四川盆地西部与东部持续性暴雨过程的对比分析. 高原气象, 35(1), 64–76.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ijP0rjQD-AVm8oHBO0FTadu7p9doPbhu2Kjag4jffc3zLfUCiX2ePdilt9gD_tl7N&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 郑淋淋, 孙建华 (2016). 风切变对中尺度对流系统强度和组织结构影响的数值试验. 大气科学, 40(2), 324–340.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ijP0rjQD-AVm8oHBO0FTadlIGgCgIHIpf4k8ZP2NoM9faof78kXUzR7y_kAeU3w3f&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
@@ -335,26 +366,37 @@
 <br>
 <h2 style="text-indent: 1em;">2015</h2>
 
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
+Fu S, Li W, Sun J, Zhang J, Zhang, Y (2015). Universal evolution mechanisms and energy conversion characteristics of long-lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters, 16(2), 127–134. https://doi.org/10.1002/asl2.533
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl2.533" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+Gao S, Tan Z, Zhao S, Luo Z, Lu H, Wang D, et al. (2015). Mesoscale dynamics and its application in torrential rainfall systems in China. Advances in Atmospheric Sciences, 32(2), 192–205. https://doi.org/10.1007/s00376-014-0005-x
+<button><a href="https://doi.org/10.1007/s00376-014-0005-x" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-<br>
-<h2 style="text-indent: 1em;">2014</h2>
+Li D, Sun J, Fu S, Wei J, Wang S, Tian F. (2016). Spatiotemporal characteristics of hourly precipitation over central eastern China during the warm season of 1982–2012. International Journal of Climatology, 36(8), 3148–3160. https://doi.org/10.1002/joc.4543
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.4543" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+Tian F, Zheng Y, Zhang T, Zhang X, Mao D, Sun J, Zhao S (2015). Statistical characteristics of environmental parameters for warm season short-duration heavy rainfall over central and eastern China. Journal of Meteorological Research, 29(3), 370–384. https://doi.org/10.1007/s13351-014-4119-y
+<button><a href="https://doi.org/10.1007/s13351-014-4119-y" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+Yang X, Sun J, Li W (2015). An Analysis of Cloud-to-Ground Lightning in China during 2010–13. Weather and Forecasting, 30(6), 1537–1550. https://doi.org/10.1175/WAF-D-14-00132.1
+<button><a href="https://journals.ametsoc.org/view/journals/wefo/30/6/waf-d-14-00132_1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+Zhang B, Tian X, Sun J, Chen F, Zhang Y, Zhang L, Fu S (2015). PODEn4DVar-based radar data assimilation scheme: formulation and preliminary results from real-data experiments with advanced research WRF (ARW). Tellus A: Dynamic Meteorology and Oceanography, 67(1), 26045. https://doi.org/10.3402/tellusa.v67.26045
+<button><a href="http://a.tellusjournals.se/article/10.3402/tellusa.v67.26045/" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+傅慎明, 孙建华, 张敬萍,  李崴 (2015). 一次引发强降水的东北冷涡的演变机理及能量特征研究. 气象, 41(5), 554–565.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtec_phSQrXGSlVtnQA0m5su8DhfG3ln0rnuhEZNX7_nt&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-<br>
-<h2 style="text-indent: 1em;">2013</h2>
+孙建华, 李娟, 沈新勇, 康岚 (2015). 2013年7月四川盆地一次特大暴雨的中尺度系统演变特征. 气象, 41(5), 533–543.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtec_phSQrXGSUpDukApzqf321jnUDnJHor7ORbn_xxR-&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+张敬萍, 傅慎明, 孙建华, 沈新勇, 张元春 (2015). 夏季长江流域两类中尺度涡旋的统计与合成研究. 气候与环境研究, 20(3), 319–336.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtRwCh3Gmx-NFCwBp2gevi-eQwh24DwHxTPRY-iY1DeQe&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-
-
+王璐璐, 孙建华, 陈潇潇, 钱昊钟, 周彬, 沈雨辰, 查书瑶 (2015). 梅雨期一次线状对流系统的结构特征研究. 热带气象学报, 31(6), 766–781. https://doi.org/10.16032/j.issn.1004-4965.2015.06.005
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ijP0rjQD-AVm8oHBO0FTadtX1qWMnRqV05tVHi23pURI-JIQL6WqYri4_p5D-N3St&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
