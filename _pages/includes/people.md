@@ -43,7 +43,7 @@
   </figure>
   <figure style="text-align:left;">
     <img src="images/avatar/huangtingting.jpg" alt="htt" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
-    <p><br><b>黄婷婷</b><br>博士研究生</p>
+    <p><br><b>黄婷婷</b><br>博士研究生<br><button><a href="/pdf/cv_huangtingting.pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
   </figure>
   <figure style="text-align:left;">
     <img src="images/avatar/huangyue.jpg" alt="hy" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
