@@ -1,6 +1,45 @@
 # 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">大气科学 2023</div><img src='images/article_figs/2022-zhangyuanchun-aas.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASL 2022</div><img src='images/article_figs/ASL_2022_sunjianhua.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Jianhua Sun\***, Shenming Fu, Huijie Wang, Yuanchun Zhang, Yun Chen, Aifang Su, Yaqiang Wang, Huan Tang, Ruoyun Ma. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. *Atmospheric Science Letters*, 24(1), e1131. https://doi.org/10.1002/asl.1131
+
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1131" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/ASL_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+**科学贡献:**
+
+- Favorable configurations of various synoptic weather systems acted as crucial background conditions for the occurrence of the “21.7” HRE.
+- A 21-h long-lived mesoscale convective vortex (MCV), mainly located in the middle and lower troposphere west of Zhengzhou city, was a key system that produced the extreme hourly rainfall of 201.9 mm/h. 
+- Lagrangian moisture transport analysis showed that moisture for the extreme heavy rainfall in Zhengzhou on July 20 mainly came from levels below 2200 m, driven by airflows on the peripheries of tropical cyclones IN-FA and CEMPAKA.
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-Atmos 2022</div><img src='images/article_figs/2022-fushenming-jgr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Shenming Fu\***, Yuanchun Zhang, Huijie Wang, Huan Tang, Wanli Li, Jianhua Sun. (2022). On the evolution of a long-lived mesoscale convective vortex that acted as a crucial condition for the extremely strong hourly precipitation in Zhengzhou. *Journal of Geophysical Research: Atmospheres*, 127(11), e2021JD036233. https://doi.org/10.1029/2021JD036233
+
+
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1029/2021JD036233" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2022-fushenming-jgr.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+**科学贡献:**
+
+- The appearance of a long-lived (21-hr) northwestward-moving mesoscale convective vortex (MCV) and its interaction with its parent mesoscale convective system (MCS) was crucial to produce the extremely strong heavy rainfall in Zhengzhou.
+- The backward trajectory analysis indicates that air particles in the lower troposphere beneath the MCS over Henan contributed mostly to the MCV's formation. These air particles experienced notable ascending motions and condensation with their strong cyclonic vorticity mostly produced 1-hr before the MCV's formation.
+- Vorticity budget denotes that strong upward transport of cyclonic vorticity and convergencerelated vertical stretching, both of which were mainly due to convection associated with the parent MCS, acted as dominant factors for the MCV's formation.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAS 2022</div><img src='images/article_figs/2022-zhangyuanchun-aas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Yuanchun Zhang\***, Jianhua Sun, Ruyi Yang, Ruoyun Ma. (2022). Initiation and evolution of long-Lived eastward-propagating mesoscale convective systems over the second-step terrain along Yangtze-Huaihe River Valley. *Advances in Atmospheric Sciences*, 39(5), 763–781. https://doi.org/10.1007/s00376-022-1303-3
@@ -46,23 +85,7 @@ Ruoyun Ma, **Jianhua Sun\***, Xinlin Yang. (2021). An eight-year climatology of 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASL 2022</div><img src='images/article_figs/ASL_2022_sunjianhua.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Jianhua Sun\***, Shenming Fu, Huijie Wang, Yuanchun Zhang, Yun Chen, Aifang Su, Yaqiang Wang, Huan Tang, Ruoyun Ma. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. *Atmospheric Science Letters*, 24(1), e1131. https://doi.org/10.1002/asl.1131
-
-<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1131" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/ASL_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-
-**科学贡献:**
-
-- Favorable configurations of various synoptic weather systems acted as crucial background conditions for the occurrence of the “21.7” HRE.
-- A 21-h long-lived mesoscale convective vortex (MCV), mainly located in the middle and lower troposphere west of Zhengzhou city, was a key system that produced the extreme hourly rainfall of 201.9 mm/h. 
-- Lagrangian moisture transport analysis showed that moisture for the extreme heavy rainfall in Zhengzhou on July 20 mainly came from levels below 2200 m, driven by airflows on the peripheries of tropical cyclones IN-FA and CEMPAKA.
-
-
-</div>
-</div>
 
 
 
