@@ -368,34 +368,34 @@
 
 
 
-Fu S, Li W, Sun J, Zhang J, Zhang, Y (2015). Universal evolution mechanisms and energy conversion characteristics of long-lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters, 16(2), 127–134. https://doi.org/10.1002/asl2.533
+- Fu S, Li W, Sun J, Zhang J, Zhang, Y (2015). Universal evolution mechanisms and energy conversion characteristics of long-lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters, 16(2), 127–134. https://doi.org/10.1002/asl2.533
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl2.533" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Gao S, Tan Z, Zhao S, Luo Z, Lu H, Wang D, et al. (2015). Mesoscale dynamics and its application in torrential rainfall systems in China. Advances in Atmospheric Sciences, 32(2), 192–205. https://doi.org/10.1007/s00376-014-0005-x
+- Gao S, Tan Z, Zhao S, Luo Z, Lu H, Wang D, et al. (2015). Mesoscale dynamics and its application in torrential rainfall systems in China. Advances in Atmospheric Sciences, 32(2), 192–205. https://doi.org/10.1007/s00376-014-0005-x
 <button><a href="https://doi.org/10.1007/s00376-014-0005-x" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Li D, Sun J, Fu S, Wei J, Wang S, Tian F. (2016). Spatiotemporal characteristics of hourly precipitation over central eastern China during the warm season of 1982–2012. International Journal of Climatology, 36(8), 3148–3160. https://doi.org/10.1002/joc.4543
+- Li D, Sun J, Fu S, Wei J, Wang S, Tian F. (2016). Spatiotemporal characteristics of hourly precipitation over central eastern China during the warm season of 1982–2012. International Journal of Climatology, 36(8), 3148–3160. https://doi.org/10.1002/joc.4543
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.4543" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Tian F, Zheng Y, Zhang T, Zhang X, Mao D, Sun J, Zhao S (2015). Statistical characteristics of environmental parameters for warm season short-duration heavy rainfall over central and eastern China. Journal of Meteorological Research, 29(3), 370–384. https://doi.org/10.1007/s13351-014-4119-y
+- Tian F, Zheng Y, Zhang T, Zhang X, Mao D, Sun J, Zhao S (2015). Statistical characteristics of environmental parameters for warm season short-duration heavy rainfall over central and eastern China. Journal of Meteorological Research, 29(3), 370–384. https://doi.org/10.1007/s13351-014-4119-y
 <button><a href="https://doi.org/10.1007/s13351-014-4119-y" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Yang X, Sun J, Li W (2015). An Analysis of Cloud-to-Ground Lightning in China during 2010–13. Weather and Forecasting, 30(6), 1537–1550. https://doi.org/10.1175/WAF-D-14-00132.1
+- Yang X, Sun J, Li W (2015). An Analysis of Cloud-to-Ground Lightning in China during 2010–13. Weather and Forecasting, 30(6), 1537–1550. https://doi.org/10.1175/WAF-D-14-00132.1
 <button><a href="https://journals.ametsoc.org/view/journals/wefo/30/6/waf-d-14-00132_1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Zhang B, Tian X, Sun J, Chen F, Zhang Y, Zhang L, Fu S (2015). PODEn4DVar-based radar data assimilation scheme: formulation and preliminary results from real-data experiments with advanced research WRF (ARW). Tellus A: Dynamic Meteorology and Oceanography, 67(1), 26045. https://doi.org/10.3402/tellusa.v67.26045
+- Zhang B, Tian X, Sun J, Chen F, Zhang Y, Zhang L, Fu S (2015). PODEn4DVar-based radar data assimilation scheme: formulation and preliminary results from real-data experiments with advanced research WRF (ARW). Tellus A: Dynamic Meteorology and Oceanography, 67(1), 26045. https://doi.org/10.3402/tellusa.v67.26045
 <button><a href="http://a.tellusjournals.se/article/10.3402/tellusa.v67.26045/" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-傅慎明, 孙建华, 张敬萍,  李崴 (2015). 一次引发强降水的东北冷涡的演变机理及能量特征研究. 气象, 41(5), 554–565.
+- 傅慎明, 孙建华, 张敬萍,  李崴 (2015). 一次引发强降水的东北冷涡的演变机理及能量特征研究. 气象, 41(5), 554–565.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtec_phSQrXGSlVtnQA0m5su8DhfG3ln0rnuhEZNX7_nt&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 李娟, 沈新勇, 康岚 (2015). 2013年7月四川盆地一次特大暴雨的中尺度系统演变特征. 气象, 41(5), 533–543.
+- 孙建华, 李娟, 沈新勇, 康岚 (2015). 2013年7月四川盆地一次特大暴雨的中尺度系统演变特征. 气象, 41(5), 533–543.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtec_phSQrXGSUpDukApzqf321jnUDnJHor7ORbn_xxR-&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张敬萍, 傅慎明, 孙建华, 沈新勇, 张元春 (2015). 夏季长江流域两类中尺度涡旋的统计与合成研究. 气候与环境研究, 20(3), 319–336.
+- 张敬萍, 傅慎明, 孙建华, 沈新勇, 张元春 (2015). 夏季长江流域两类中尺度涡旋的统计与合成研究. 气候与环境研究, 20(3), 319–336.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtRwCh3Gmx-NFCwBp2gevi-eQwh24DwHxTPRY-iY1DeQe&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-王璐璐, 孙建华, 陈潇潇, 钱昊钟, 周彬, 沈雨辰, 查书瑶 (2015). 梅雨期一次线状对流系统的结构特征研究. 热带气象学报, 31(6), 766–781. https://doi.org/10.16032/j.issn.1004-4965.2015.06.005
+- 王璐璐, 孙建华, 陈潇潇, 钱昊钟, 周彬, 沈雨辰, 查书瑶 (2015). 梅雨期一次线状对流系统的结构特征研究. 热带气象学报, 31(6), 766–781. https://doi.org/10.16032/j.issn.1004-4965.2015.06.005
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ijP0rjQD-AVm8oHBO0FTadtX1qWMnRqV05tVHi23pURI-JIQL6WqYri4_p5D-N3St&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
