@@ -7,7 +7,7 @@
 **Jianhua Sun\***, Shenming Fu, Huijie Wang, Yuanchun Zhang, Yun Chen, Aifang Su, Yaqiang Wang, Huan Tang, Ruoyun Ma. (2022). Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. *Atmospheric Science Letters*, 24(1), e1131. https://doi.org/10.1002/asl.1131
 
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1131" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/ASL_2021_maruoyun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+<button><a href="/pdf/article/2022-sunjianhua-asl.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 **科学贡献:**
 
@@ -47,7 +47,6 @@
 
 <button><a href="https://doi.org/10.1007/s00376-022-1303-3" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2022-zhangyuanchun-aas.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-<button><a href="/pdf/article/2022-zhangyuanchun-aas.pdf" style="text-decoration: none; color: #3F50B6;">Talk</a></button>
 
 **科学贡献:**
 
