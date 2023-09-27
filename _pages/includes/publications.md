@@ -225,44 +225,43 @@
 <br>
 <h2 style="text-indent: 1em;">2019</h2>
 
-FU S, MAI Z, SUN J, TANG H (2019). On the physical significance and use of a set of horizontal and vertical helicity budget equations. Atmospheric and Oceanic Science Letters, 12(6), 417–423. https://doi.org/10.1080/16742834.2019.1661755
+- FU S, MAI Z, SUN J, TANG H (2019). On the physical significance and use of a set of horizontal and vertical helicity budget equations. Atmospheric and Oceanic Science Letters, 12(6), 417–423. https://doi.org/10.1080/16742834.2019.1661755
 <button><a href="https://journals.ametsoc.org/view/journals/atsc/76/12/jas-d-18-0331.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Mai Z, Sun J, Li W, Ding Y, Wang Y (2019). Impacts of Convective Activity over the Tibetan Plateau on Plateau Vortex, Southwest Vortex, and Downstream Precipitation. Journal of the Atmospheric Sciences, 76(12), 3803–3830. https://doi.org/10.1175/JAS-D-18-0331.1
+- Fu S, Mai Z, Sun J, Li W, Ding Y, Wang Y (2019). Impacts of Convective Activity over the Tibetan Plateau on Plateau Vortex, Southwest Vortex, and Downstream Precipitation. Journal of the Atmospheric Sciences, 76(12), 3803–3830. https://doi.org/10.1175/JAS-D-18-0331.1
 <button><a href="https://doi.org/10.1080/16742834.2019.1661755" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Li W, Xia R, Sun J, Fu S, Jiang L, Chen B, Tian F (2019). Layer-Wise Formation Mechanisms of an Entire-Troposphere-Thick Extratropical Cyclone That Induces a Record-Breaking Catastrophic Rainstorm in Beijing. Journal of Geophysical Research: Atmospheres, 124(20), 10567–10591. https://doi.org/10.1029/2019JD030868
+- Li W, Xia R, Sun J, Fu S, Jiang L, Chen B, Tian F (2019). Layer-Wise Formation Mechanisms of an Entire-Troposphere-Thick Extratropical Cyclone That Induces a Record-Breaking Catastrophic Rainstorm in Beijing. Journal of Geophysical Research: Atmospheres, 124(20), 10567–10591. https://doi.org/10.1029/2019JD030868
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1029/2019JD030868" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Meng Z, Zhang F, Luo D, Tan Z, Fang J, Sun J, et al. (2019). Review of Chinese atmospheric science research over the past 70 years: Synoptic meteorology. Science China Earth Sciences, 62(12), 1946–1991. https://doi.org/10.1007/s11430-019-9534-6
+- Meng Z, Zhang F, Luo D, Tan Z, Fang J, Sun J, et al. (2019). Review of Chinese atmospheric science research over the past 70 years: Synoptic meteorology. Science China Earth Sciences, 62(12), 1946–1991. https://doi.org/10.1007/s11430-019-9534-6
 <button><a href="https://doi.org/10.1007/s11430-019-9534-6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Sun J, Zhang Y, Liu R, Fu S, Tian F (2019). A Review of Research on Warm-Sector Heavy Rainfall in China. Advances in Atmospheric Sciences, 36(12), 1299–1307. https://doi.org/10.1007/s00376-019-9021-1
+- Sun J, Zhang Y, Liu R, Fu S, Tian F (2019). A Review of Research on Warm-Sector Heavy Rainfall in China. Advances in Atmospheric Sciences, 36(12), 1299–1307. https://doi.org/10.1007/s00376-019-9021-1
 <button><a href="https://link.springer.com/article/10.1007/s00376-019-9021-1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Yang R, Zhang Y, Sun J, Fu S,  Li J (2019). The characteristics and classification of eastward-propagating mesoscale convective systems generated over the second-step terrain in the Yangtze River Valley. Atmospheric Science Letters, 20(1), e874. https://doi.org/10.1002/asl.874
+- Yang R, Zhang Y, Sun J, Fu S,  Li J (2019). The characteristics and classification of eastward-propagating mesoscale convective systems generated over the second-step terrain in the Yangtze River Valley. Atmospheric Science Letters, 20(1), e874. https://doi.org/10.1002/asl.874
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.874" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Zhang Y, Fu S, Sun J, Fu R, Jin S, Ji D (2019). A 14-year statistics-based semi-idealized modeling study on the formation of a type of heavy rain–producing southwest vortex. Atmospheric Science Letters, 20(5), e894. https://doi.org/10.1002/asl.894
+- Zhang Y, Fu S, Sun J, Fu R, Jin S, Ji D (2019). A 14-year statistics-based semi-idealized modeling study on the formation of a type of heavy rain–producing southwest vortex. Atmospheric Science Letters, 20(5), e894. https://doi.org/10.1002/asl.894
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.894" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-刘瑞鑫, 孙建华, 陈鲍发 (2019). 华南暖区暴雨事件的筛选与分类研究. 大气科学, 43(1), 119–130.
+- 刘瑞鑫, 孙建华, 陈鲍发 (2019). 华南暖区暴雨事件的筛选与分类研究. 大气科学, 43(1), 119–130.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoCa0psMaYebC8ZlejAMYVVVg3okwQngPjxbfDSqsplNt&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-姜立智, 傅慎明, 孙建华, 刘靓珂, 沈新勇 (2019). 2014年11月上旬西北太平洋一次极端强度爆发气旋的数值模拟和分片位涡反演分析. 气候与环境研究, 24(2), 152–168.
+- 姜立智, 傅慎明, 孙建华, 刘靓珂, 沈新勇 (2019). 2014年11月上旬西北太平洋一次极端强度爆发气旋的数值模拟和分片位涡反演分析. 气候与环境研究, 24(2), 152–168.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoJ6n7BrI_bwFPZXhgYlZMGpWm7nedXlyRc4_H7GPmr9h&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孟亚楠, 孙建华, 卫捷, 赵琳娜 (2019). 1981～2015年华北地区持续霾事件的特征及其环流分类研究. 气候与环境研究, 24(3), 341–358.
+- 孟亚楠, 孙建华, 卫捷, 赵琳娜 (2019). 1981～2015年华北地区持续霾事件的特征及其环流分类研究. 气候与环境研究, 24(3), 341–358.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoJ6n7BrI_bwF13nxzyWVZvQsWt7wHoMuou7PvadWUgB0&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张元春, 李娟,  孙建华 (2019). 青藏高原热力对四川盆地西部一次持续性暴雨影响的数值模拟. 气候与环境研究, 24(1), 37–49.
+- 张元春, 李娟,  孙建华 (2019). 青藏高原热力对四川盆地西部一次持续性暴雨影响的数值模拟. 气候与环境研究, 24(1), 37–49.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoJ6n7BrI_bwFkqs_o5ztDCxYrgklCrTixZlZrfhk1AoP&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵思雄, 孙建华 (2019). 我国暴雨机理与预报研究进展及其相关问题思考. 暴雨灾害, 38(5), 422–430.
+- 赵思雄, 孙建华 (2019). 我国暴雨机理与预报研究进展及其相关问题思考. 暴雨灾害, 38(5), 422–430.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoBb-0kSa2PGYznAjvcxNUkkytOqWr10ssb8Ty_09Nvx2&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-鲁蓉, 孙建华, 李德帅 (2019). 初值水汽场对华南春季一次强飑线触发和维持影响的数值试验. 热带气象学报, 35(1), 37–50. https://doi.org/10.16032/j.issn.1004-4965.2019.004
+- 鲁蓉, 孙建华, 李德帅 (2019). 初值水汽场对华南春季一次强飑线触发和维持影响的数值试验. 热带气象学报, 35(1), 37–50. https://doi.org/10.16032/j.issn.1004-4965.2019.004
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoDe4VzPC_Hy3fhR2kvqos8u32VZe6UJUK9Yk-OiF9NfA&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -271,11 +270,56 @@ Zhang Y, Fu S, Sun J, Fu R, Jin S, Ji D (2019). A 14-year statistics-based semi-
 <br>
 <h2 style="text-indent: 1em;">2018</h2>
 
+- Fu S, Sun J, Li W,  Zhang Y (2018). Investigating the Mechanisms Associated With the Evolutions of Twin Extratropical Cyclones Over the Northwest Pacific Ocean in Mid-January 2011. Journal of Geophysical Research: Atmospheres, 123(8), 4088–4109. https://doi.org/10.1002/2017JD027852
+<button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/2017JD027852" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Fu S, Liu R,  Sun J (2018). On the Scale Interactions that Dominate the Maintenance of a Persistent Heavy Rainfall Event: A Piecewise Energy Analysis. Journal of the Atmospheric Sciences, 75(3), 907–925. https://doi.org/10.1175/JAS-D-17-0294.1
+<button><a href="https://journals.ametsoc.org/view/journals/atsc/75/3/jas-d-17-0294.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Yang X, Sun J (2018). Organizational Modes of Severe Wind-producing Convective Systems over North China. ADVANCES IN ATMOSPHERIC SCIENCES, 35(5), 540–549. https://doi.org/10.1007/s00376-017-7114-2
+<button><a href="http://www.iapjournals.ac.cn/aas/en/article/doi/10.1007/s00376-017-7114-2" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Zhang Y, Zhang F, Davis C. A.,  Sun J (2018). Diurnal Evolution and Structure of Long-Lived Mesoscale Convective Vortices along the Mei-Yu Front over the East China Plains. Journal of the Atmospheric Sciences, 75(3), 1005–1025. https://doi.org/10.1175/JAS-D-17-0197.1
+<button><a href="https://journals.ametsoc.org/view/journals/atsc/75/3/jas-d-17-0197.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 孙建华, 卫捷, 傅慎明, 张元春, 汪汇洁 (2018). 江淮流域持续性强降水过程的多尺度物理模型. 大气科学, 42(04), 741–754.
+<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=DQXK201804003&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 赵思雄, 孙建华, 鲁蓉, 傅慎明 (2018). “7·20”华北和北京大暴雨过程的分析. 气象, 44(3), 351–360.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i0-kJR0HYBJ80QN9L51zrP0K5M2FSoHLda8iKwXlpxtCakf5e2xGa-UULk-NVVwj9&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 鲁蓉, 孙建华, 傅慎明 (2018). 近海水汽初值和对流影响一次华南前汛期沿海强降水对流系统发展过程的机理研究. 大气科学, 42(1), 1–15.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XSavCI-tGXlP1g-QA50JD4dFNdKeOIc6rriALDMmEDZS&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 
 
 <br>
 <h2 style="text-indent: 1em;">2017</h2>
+
+- Fu S, Cao J, Jiang X, Sun J (2017). On the variation of divergent flow: an eddy-flux form equation based on the quasi-geostrophic balance and its application. Advances in Atmospheric Sciences, 34(5), 599–612. https://doi.org/10.1007/s00376-016-6212-x
+<button><a href="https://doi.org/10.1007/s00376-016-6212-x" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Fu S, Sun J, Luo Y, Zhang Y (2017). Formation of Long-Lived Summertime Mesoscale Vortices over Central East China:Semi-Idealized Simulations Based on a 14-Year Vortex Statistic. Journal of the Atmospheric Sciences, 74(12), 3955–3979. https://doi.org/10.1175/JAS-D-16-0328.1
+<button><a href="https://journals.ametsoc.org/view/journals/atsc/74/12/jas-d-16-0328.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Yang X, Sun J, Zheng Y (2017). A 5-yr Climatology of Severe Convective Wind Events over China. Weather and Forecasting, 32(4), 1289–1299. https://doi.org/10.1175/WAF-D-16-0101.1
+<button><a href="https://journals.ametsoc.org/view/journals/wefo/32/4/waf-d-16-0101_1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Zhang B, Tian X, Zhang L, Sun J (2017). The Radar Data Assimilation System Based on NLS-4DVar and Its Application in Heavy Rain Forecast. Chinese Journal of Atmospheric Sciences, 41(2), 321–332. https://doi.org/10.3878/j.issn.1006-9895.1605.16107
+<button><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050453848&doi=10.3878%2fj.issn.1006-9895.1605.16107&partnerID=40&md5=6c90f7416dc61f651648db9a0eec01f4" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Zhang B, Tian X, Zhang L, Sun J (2017). Handling non-linearity in radar data assimilation using the non-linear least squares enhanced POD-4DVar. Science China Earth Sciences, 60(3), 478–490. https://doi.org/10.1007/s11430-015-0271-4
+<button><a href="https://doi.org/10.1007/s11430-015-0271-4" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Zhang Y, Sun J, Fu S (2017). Main energy paths and energy cascade processes of the two types of persistent heavy rainfall events over the Yangtze River–Huaihe River Basin. Advances in Atmospheric Sciences, 34(2), 129–143. https://doi.org/10.1007/s00376-016-6117-8
+<button><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85008950962&doi=10.1007%2fs00376-016-6117-8&partnerID=40&md5=1d8ca66602a0c9cbeeea84686d54ba46" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Zhang Y, Sun J (2017). Comparison of the diurnal variations of precipitation east of the Tibetan Plateau among sub-periods of Meiyu season. Meteorology and Atmospheric Physics, 129(5), 539–554. https://doi.org/10.1007/s00703-016-0484-7
+<button><a href="https://doi.org/10.1007/s00703-016-0484-7" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 杨新林, 孙建华, 鲁蓉, 张弦 (2017). 华南雷暴大风天气的环境条件分布特征. 气象, 43(7), 769–780.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iAEhECQAQ9aTiC5BjCgn0RhhPmec9T-AYWPS_2ps2rgX61VVyKzBwMGOuXfSdQr1v&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
@@ -283,11 +327,15 @@ Zhang Y, Fu S, Sun J, Fu R, Jin S, Ji D (2019). A 14-year statistics-based semi-
 <br>
 <h2 style="text-indent: 1em;">2016</h2>
 
+<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 
 
 <br>
 <h2 style="text-indent: 1em;">2015</h2>
+
+<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
@@ -295,11 +343,15 @@ Zhang Y, Fu S, Sun J, Fu R, Jin S, Ji D (2019). A 14-year statistics-based semi-
 <br>
 <h2 style="text-indent: 1em;">2014</h2>
 
+<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 
 
 <br>
 <h2 style="text-indent: 1em;">2013</h2>
+
+<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
