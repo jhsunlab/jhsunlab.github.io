@@ -65,15 +65,6 @@
 <br>
 <h2 style="text-indent: 1em;">2023</h2>
 
-- 汤欢, 傅慎明, 孙建华, 周象贤 (2023) 基于高分辨率再分析风场的高原涡三维识别技术及应用. 大气科学 47(3):698–712
-<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=DQXK202303008&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
-- 张元春, 孙建华, 傅慎明, 汪汇洁, 付亚男, 汤欢, 魏倩 (2023) “21·7”河南特大暴雨的中尺度系统活动特征. 大气科学 47(4):1196–1216
-<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=KiAZ1SjiA-5fg6jvYz3bD4uXwy5ZM9LCOfR-F4Ug0_4gtQEOunORZJ8OSNO9y8Ix-hi6fbg6rCsXF_ahYHt6MaWxsB7ZnB43clzbA8uW-bezOYxCqYtS8BLPUwc5dvcrD7MhVnCfsM7Kx_OKTgQNVw==&uniplatform=NZKPT&language=CHS" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
-- 周晓敏, 田付友, 郑永光, 孙建华, 王超 (2023). 中国短时强降雨对暴雨的贡献特征. 气象, 49(3), 267–278.
-<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=DQXK202304022&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
 - Fu Y, Sun J, Fu S, Zhang Y (2023) Comparison between warm-sector and frontal heavy rainfall events in South China and the objective classification of warm-sector heavy rainfall events. Meteorology and Atmospheric Physics 135(1):11. https://doi.org/10.1007/s00703-022-00949-8
 <button><a href="https://link.springer.com/10.1007/s00703-022-00949-8" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
@@ -86,16 +77,19 @@
 - Zhang Y, Lu R, Sun J, Yang X (2023) Organizational modes and environmental conditions of the severe convective weathers produced by the mesoscale convective systems in South China. Journal of Tropical Meteorology 29(1):26–38. https://doi.org/10.46267/j.1006-8775.2023.003
 <button><a href="http://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2023.003" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- 汤欢, 傅慎明, 孙建华, 周象贤 (2023) 基于高分辨率再分析风场的高原涡三维识别技术及应用. 大气科学 47(3):698–712
+<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=DQXK202303008&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 张元春, 孙建华, 傅慎明, 汪汇洁, 付亚男, 汤欢, 魏倩 (2023) “21·7”河南特大暴雨的中尺度系统活动特征. 大气科学 47(4):1196–1216
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=KiAZ1SjiA-5fg6jvYz3bD4uXwy5ZM9LCOfR-F4Ug0_4gtQEOunORZJ8OSNO9y8Ix-hi6fbg6rCsXF_ahYHt6MaWxsB7ZnB43clzbA8uW-bezOYxCqYtS8BLPUwc5dvcrD7MhVnCfsM7Kx_OKTgQNVw==&uniplatform=NZKPT&language=CHS" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 周晓敏, 田付友, 郑永光, 孙建华, 王超 (2023). 中国短时强降雨对暴雨的贡献特征. 气象, 49(3), 267–278.
+<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=DQXK202304022&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 
 <br>
 <h2 style="text-indent: 1em;">2022</h2>
-
-- 田付友, 张小玲, 曹艳察, 孙建华, 郑永光, 杨新林, 韩旭卿, 麦子 (2022) 中国中低海拔地区三类强对流天气环境条件的基本气候特征. 高原气象 41(6):1446–1459
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
-- 杨雯婷, 傅慎明, 孙建华, 郑飞, 卫捷 (2022) 近32年泰国降水的主要变化趋势研究. 大气科学 46(2):263–274
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Chen H, Xu W, Liu N, Sun J, Fu J (2022) Climatologies of mesoscale convective systems over China observed by spaceborne radars. Monthly Weather Review 150:2697–2717. https://doi.org/10.1175/MWR-D-22-0002.1
 <button><a href="https://journals.ametsoc.org/view/journals/mwre/150/10/MWR-D-22-0002.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -121,11 +115,20 @@
 - Zhang Y, Sun J, Yang R, Ma R (2022) Initiation and evolution of long-Lived eastward-propagating mesoscale convective systems over the second-step terrain along Yangtze-Huaihe River Valley. Advances in Atmospheric Sciences 39(5):763–781. https://doi.org/10.1007/s00376-022-1303-3
 <button><a href="https://doi.org/10.1007/s00376-022-1303-3" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- 田付友, 张小玲, 曹艳察, 孙建华, 郑永光, 杨新林, 韩旭卿, 麦子 (2022) 中国中低海拔地区三类强对流天气环境条件的基本气候特征. 高原气象 41(6):1446–1459
+<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 杨雯婷, 傅慎明, 孙建华, 郑飞, 卫捷 (2022) 近32年泰国降水的主要变化趋势研究. 大气科学 46(2):263–274
+<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 
 
 <br>
 <h2 style="text-indent: 1em;">2021</h2>
+
+- Clark R T, Dong X, Ho C, Sun J, Yuan H, Takemi T (2021). Preface to the Special Issue on Summer 2020: Record Rainfall in Asia — Mechanisms, Predictability and Impacts. Advances in Atmospheric Sciences, 38(12), 1977–1979. https://doi.org/10.1007/s00376-021-1010-5
+<button><a href="irect.com/science/article/pii/S1674283421000684" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Fu S, Tang H, Li Y, Ma H, Sun J (2021) On the relationship of a low-level jet and the formation of a heavy-rainfall-producing mesoscale vortex over the Yangtze River Basin. Atmosphere 12(2):156. https://doi.org/10.3390/atmos12020156
 <button><a href="https://www.mdpi.com/2073-4433/12/2/156" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -136,6 +139,9 @@
 - Jiang L, Yu H, Dong L, Fu S, Sun J, Zheng F, Yi K, Ma H (2021) On the vertical extending of the explosive extratropical cyclone: A case study. Atmospheric Science Letters 22(5):e1028. https://doi.org/10.1002/asl.1028
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1028" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- Li W, Bi X, Sheng L, Luo Y, Sun J (2021). Modulations of Synoptic Weather Patterns on Warm-Sector Heavy Rainfall in South China: Insights From High-Density Observations With Principal Component Analysis. Frontiers in Earth Science, 9. https://doi.org/10.3389/feart.2021.678230
+<button><a href="https://doi.org/10.3389/feart.2021.678230" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 - Liu C, Sun J, Yang X, Jin S, Fu S (2021) Evaluation of ECMWF precipitation predictions in China during 2015–18. Weather and Forecasting 36(3):1043–1060. https://doi.org/10.1175/WAF-D-20-0143.1
 <button><a href="https://journals.ametsoc.org/view/journals/wefo/36/3/WAF-D-20-0143.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
@@ -144,6 +150,9 @@
 
 - Ma R, Sun J, Yang X (2021) An eight-year climatology of the warm-season severe thunderstorm environments over North China. Atmospheric Research 254:105519. https://doi.org/10.1016/j.atmosres.2021.105519
 <button><a href="https://www.sciencedirect.com/science/article/pii/S0169809521000715" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Ma R, Sun J, Yang X (2021). A 7-Yr Climatology of the Initiation, Decay, and Morphology of Severe Convective Storms during the Warm Season over North China. Monthly Weather Review, 149(8), 2599–2612. https://doi.org/10.1175/MWR-D-20-0087.1
+<button><a href="https://doi.org/10.1175/MWR-D-20-0087.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Mai Z, Fu S, Sun J, Hu L, Wang X (2021) Key statistical characteristics of the mesoscale convective systems generated over the Tibetan Plateau and their relationship to precipitation and southwest vortices. International Journal of Climatology 41(S1):E875–E896. https://doi.org/10.1002/joc.6735
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.6735" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -157,6 +166,14 @@
 - Zhang Y, Sun J, Zhu L, Tang H, Jin S, Liu X (2021) Comparison of two types of persistent heavy rainfall events during sixteen warm seasons in the Sichuan Basin. Atmospheric and Oceanic Science Letters 14(6):100094. https://doi.org/10.1016/j.aosl.2021.100094
 <button><a href="https://www.sciencedirect.com/science/article/pii/S1674283421000684" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- 傅慎明, 麦子, 孙建华, 李万莉, 钟琦, 孙家仁, 张元春 (2021). 长生命史青藏高原东移对流系统的半理想模拟研究. 中国科学:地球科学, 51(12), 2079–2097.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHYtmwNjnEyiJUss9jC4nfHbYJOMK3Knh9jHZchd54ZLy&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 刘瑞鑫, 孙建华, 傅慎明 (2021). 不同类型华南暖区暴雨过程的环流特征. 气候与环境研究, 26(4), 359–373. https://doi.org/10.3878/j.issn.1006-9585.2021.20105
+<button><a href="1674283421000684" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 李国平, 孙建华, 王晓芳 (2021). 中国西南山地突发性暴雨特征与机理研究的新进展. 气象科技进展, 11(4), 57–63.
+<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHQBqAuD7pRkVmyzYHbrbPe_TQYvZimgbNiMk3IcTPYwd&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
