@@ -4,7 +4,7 @@
 <p style="text-indent: 1.5em; font-size: 17px;">研究员</p>
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/sunjianhua.jpg" alt="sjh" width="200" style="border-radius: 10%; margin-right: 10px">
-  <p style="text-indent: 2em; font-size: 16px;">中国科学院大气物理研究所研究员，博士生导师，中国科学院大学岗位教授，中国科学院云降水物理与强风暴重点实验室副主任，南京信息工程大学气象灾害预报预警与评估协同创新中心成员。长期从事中尺度气象学和灾害天气的研究，发表学术论文200余篇（SCI收录70余篇），并担任《气象》副主编，《热带气象学报》及Advance in Atmospheric Sciences责任编委，《大气科学》、《气象学报》、《暴雨灾害》编委，先后获批国家自然科学基金8项。<button><a href="/pdf/" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
+  <p style="text-indent: 2em; font-size: 16px;">中国科学院大气物理研究所研究员，博士生导师，中国科学院大学岗位教授，中国科学院云降水物理与强风暴重点实验室副主任，南京信息工程大学气象灾害预报预警与评估协同创新中心成员。主要研究我国的灾害天气，包括暴雨、强对流、暴雪（包括冻雨）和沙尘暴等，在国内外重要学术期刊上发表论文200余篇（SCI收录70余篇），并担任《气象》副主编，《热带气象学报》及Advance in Atmospheric Sciences责任编委，《大气科学》、《气象学报》、《暴雨灾害》编委，先后获批国家自然科学基金8项。在中国科学院大学讲授“中小尺度天气动力学”课程。<button><a href="/pdf/" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
 </div>
 <br>
 
