@@ -366,9 +366,7 @@
 <br>
 <h2 style="text-indent: 1em;">2015</h2>
 
-
-
-- Fu S, Li W, Sun J, Zhang J, Zhang, Y (2015). Universal evolution mechanisms and energy conversion characteristics of long-lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters, 16(2), 127–134. https://doi.org/10.1002/asl2.533
+- Fu S, Li W, Sun J, Zhang J, Zhang Y (2015). Universal evolution mechanisms and energy conversion characteristics of long-lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters, 16(2), 127–134. https://doi.org/10.1002/asl2.533
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl2.533" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Gao S, Tan Z, Zhao S, Luo Z, Lu H, Wang D, et al. (2015). Mesoscale dynamics and its application in torrential rainfall systems in China. Advances in Atmospheric Sciences, 32(2), 192–205. https://doi.org/10.1007/s00376-014-0005-x
@@ -404,37 +402,34 @@
 <br>
 <h2 style="text-indent: 1em;">2014</h2>
 
-Fu S, Li W, Sun J, Zhang J, Zhang Y (2015) Universal evolution mechanisms and energy conversion characteristics of long-lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters 16(2):127–134. https://doi.org/10.1002/asl2.533
-<button><a href="https://doi.org/10.1002/asl2.533" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
-Fu S, Sun J, Sun J (2014) Accelerating two-stage explosive development of an extratropical cyclone over the northwestern Pacific Ocean: a piecewise potential vorticity diagnosis. Tellus A: Dynamic Meteorology and Oceanography 66(1):23210. https://doi.org/10.3402/tellusa.v66.23210
+- Fu S, Sun J, Sun J (2014) Accelerating two-stage explosive development of an extratropical cyclone over the northwestern Pacific Ocean: a piecewise potential vorticity diagnosis. Tellus A: Dynamic Meteorology and Oceanography 66(1):23210. https://doi.org/10.3402/tellusa.v66.23210
 <button><a href="https://doi.org/10.3402/tellusa.v66.23210" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Sun J, Qi L (2014) Study on the Evolution of a Northeast China Cold Vortex during the Spring of 2010. Atmospheric and Oceanic Science Letters 7(2):149–156. https://doi.org/10.3878/j.issn.1674-2834.13.0077
+- Fu S, Sun J, Qi L (2014) Study on the Evolution of a Northeast China Cold Vortex during the Spring of 2010. Atmospheric and Oceanic Science Letters 7(2):149–156. https://doi.org/10.3878/j.issn.1674-2834.13.0077
 <button><a href="https://doi.org/10.3878/j.issn.1674-2834.13.0077" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Zhang J, Sun J, Shen X (2014) A fourteen-year climatology of the Southwest Vortex in summer. Atmospheric and Oceanic Science Letters 7(6):510–514. https://doi.org/10.3878/AOSL20140047
+- Fu S, Zhang J, Sun J, Shen X (2014) A fourteen-year climatology of the Southwest Vortex in summer. Atmospheric and Oceanic Science Letters 7(6):510–514. https://doi.org/10.3878/AOSL20140047
 <button><a href="https://doi.org/10.3878/AOSL20140047" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Yang X, Sun J (2014) The characteristics of cloud-to-ground lightning activity with severe thunderstorm wind in South and North China. Atmospheric and Oceanic Science Letters 7(6):571–576. https://doi.org/10.3878/AOSL20140046
+- Yang X, Sun J (2014) The characteristics of cloud-to-ground lightning activity with severe thunderstorm wind in South and North China. Atmospheric and Oceanic Science Letters 7(6):571–576. https://doi.org/10.3878/AOSL20140046
 <button><a href="https://doi.org/10.3878/AOSL20140046" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Zhang Y, Sun J, Fu S (2014) Impacts of diurnal variation of mountain-plain solenoid circulations on precipitation and vortices east of the Tibetan Plateau during the mei-yu season. Advance in Atmospheric Sciences 31(1):139–153. https://doi.org/10.1007/s00376-013-2052-0
+- Zhang Y, Sun J, Fu S (2014) Impacts of diurnal variation of mountain-plain solenoid circulations on precipitation and vortices east of the Tibetan Plateau during the mei-yu season. Advance in Atmospheric Sciences 31(1):139–153. https://doi.org/10.1007/s00376-013-2052-0
 <button><a href="https://doi.org/10.1007/s00376-013-2052-0" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Zhang Y, Zhang F, Sun J (2014) Comparison of the diurnal variations of warm-season precipitation for East Asia vs. North America downstream of the Tibetan Plateau vs. the Rocky Mountains. Atmos Chem Phys 14(19):10741–10759. https://doi.org/10.5194/acp-14-10741-2014
+- Zhang Y, Zhang F, Sun J (2014) Comparison of the diurnal variations of warm-season precipitation for East Asia vs. North America downstream of the Tibetan Plateau vs. the Rocky Mountains. Atmos Chem Phys 14(19):10741–10759. https://doi.org/10.5194/acp-14-10741-2014
 <button><a href="https://doi.org/10.5194/acp-14-10741-2014" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 郑淋淋, 赵思雄 (2014) 水汽含量对飑线组织结构和强度影响的数值试验. 大气科学 38(4):742–755
+- 孙建华, 郑淋淋, 赵思雄 (2014) 水汽含量对飑线组织结构和强度影响的数值试验. 大气科学 38(4):742–755
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-汪汇洁, 孙建华, 卫捷, 赵思雄 (2014) 近30年我国南方区域持续性暴雨过程的分类研究. 气候与环境研究 19(6):713–725
+- 汪汇洁, 孙建华, 卫捷, 赵思雄 (2014) 近30年我国南方区域持续性暴雨过程的分类研究. 气候与环境研究 19(6):713–725
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-汪汇洁, 孙建华, 赵思雄, 傅慎明 (2014) 2010年秋季一次海南东海岸特大暴雨的中尺度分析. 热带气象学报 30(3):518–532
+- 汪汇洁, 孙建华, 赵思雄, 傅慎明 (2014) 2010年秋季一次海南东海岸特大暴雨的中尺度分析. 热带气象学报 30(3):518–532
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-王璐璐, 孙建华, 沈新勇, 黄伟 (2014) 江淮流域无层状云线状对流系统发生的环境条件和地面特征分析. 热带气象学报 30(3):551–558
+- 王璐璐, 孙建华, 沈新勇, 黄伟 (2014) 江淮流域无层状云线状对流系统发生的环境条件和地面特征分析. 热带气象学报 30(3):551–558
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -443,19 +438,19 @@ Zhang Y, Zhang F, Sun J (2014) Comparison of the diurnal variations of warm-seas
 <br>
 <h2 style="text-indent: 1em;">2013</h2>
 
-Zheng L, Sun J, Zhang X, Liu C (2013) Organizational modes of mesoscale convective systems over central East China. Weather and Forecasting 28(5):1081–1098. https://doi.org/10.1175/WAF-D-12-00088.1
+- Zheng L, Sun J, Zhang X, Liu C (2013) Organizational modes of mesoscale convective systems over central East China. Weather and Forecasting 28(5):1081–1098. https://doi.org/10.1175/WAF-D-12-00088.1
 <button><a href="https://doi.org/10.1175/WAF-D-12-00088.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵思雄, 傅慎明, 汪汇洁, 郑淋淋 (2013) 2012年7月21日北京特大暴雨的多尺度特征. 大气科学 37(3):705–718
+- 孙建华, 赵思雄, 傅慎明, 汪汇洁, 郑淋淋 (2013) 2012年7月21日北京特大暴雨的多尺度特征. 大气科学 37(3):705–718
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张元春, 孙建华, 徐广阔, 齐琳琳 (2013) 江淮流域两次中尺度对流涡旋的结构特征研究. 气候与环境研究 18(3):271–287
+- 张元春, 孙建华, 徐广阔, 齐琳琳 (2013) 江淮流域两次中尺度对流涡旋的结构特征研究. 气候与环境研究 18(3):271–287
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵思雄, 孙建华 (2013) 近年来灾害天气机理和预测研究的进展. 大气科学 37(2):297–312
+- 赵思雄, 孙建华 (2013) 近年来灾害天气机理和预测研究的进展. 大气科学 37(2):297–312
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-郑淋淋, 孙建华 (2013) 干、湿环境下中尺度对流系统发生的环流背景和地面特征分析. 大气科学 37(4):891–904
+- 郑淋淋, 孙建华 (2013) 干、湿环境下中尺度对流系统发生的环流背景和地面特征分析. 大气科学 37(4):891–904
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -464,31 +459,31 @@ Zheng L, Sun J, Zhang X, Liu C (2013) Organizational modes of mesoscale convecti
 <br>
 <h2 style="text-indent: 1em;">2012</h2>
 
-Yu F, Fu S, Zhao S, Sun J (2012) Study on the dynamic characteristics of an eastward-offshore mesoscale vortex along the Meiyu-Baiu front. Atmospheric and Oceanic Science Letters 5(5):360–366. https://doi.org/10.1080/16742834.2012.11447016
+- Yu F, Fu S, Zhao S, Sun J (2012) Study on the dynamic characteristics of an eastward-offshore mesoscale vortex along the Meiyu-Baiu front. Atmospheric and Oceanic Science Letters 5(5):360–366. https://doi.org/10.1080/16742834.2012.11447016
 <button><a href="https://doi.org/10.1080/16742834.2012.11447016" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Sun J (2012) Circulation and eddy kinetic energy budget analyses on the evolution of a Northeast China Cold Vortex (NCCV) in May 2010. Journal of the Meteorological Society of Japan Ser II 90(4):553–573. https://doi.org/10.2151/jmsj.2012-408
+- Fu S, Sun J (2012) Circulation and eddy kinetic energy budget analyses on the evolution of a Northeast China Cold Vortex (NCCV) in May 2010. Journal of the Meteorological Society of Japan Ser II 90(4):553–573. https://doi.org/10.2151/jmsj.2012-408
 <button><a href="https://doi.org/10.2151/jmsj.2012-408" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Sun J, Zhang F (2012) Impacts of mountain–plains solenoid on diurnal variations of rainfalls along the Mei-Yu front over the East China Plains. Monthly Weather Review 140(2):379–397. https://doi.org/10.1175/MWR-D-11-00041.1
+- Sun J, Zhang F (2012) Impacts of mountain–plains solenoid on diurnal variations of rainfalls along the Mei-Yu front over the East China Plains. Monthly Weather Review 140(2):379–397. https://doi.org/10.1175/MWR-D-11-00041.1
 <button><a href="https://doi.org/10.1175/MWR-D-11-00041.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Xia R, Wang D, Sun J, Wang G, Xia G (2012) An observational analysis of a derecho in South China. Acta Meteorol Sin 26(6):773–787. https://doi.org/10.1007/s13351-012-0608-z
+- Xia R, Wang D, Sun J, Wang G, Xia G (2012) An observational analysis of a derecho in South China. Acta Meteorol Sin 26(6):773–787. https://doi.org/10.1007/s13351-012-0608-z
 <button><a href="https://doi.org/10.1007/s13351-012-0608-z" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-傅慎明, 孙建华, 赵思雄, 齐琳琳 (2012) 2004年冬季风期间一次强寒潮过程的能量收支研究1. 气候与环境研究 17(5):549–562
+- 傅慎明, 孙建华, 赵思雄, 齐琳琳 (2012) 2004年冬季风期间一次强寒潮过程的能量收支研究1. 气候与环境研究 17(5):549–562
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华 (2012) 2008年6月广东沿海一次对流线的演变与结构特征. 暴雨灾害 31(3):201–209
+- 孙建华 (2012) 2008年6月广东沿海一次对流线的演变与结构特征. 暴雨灾害 31(3):201–209
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张元春, 孙建华, 傅慎明 (2012) 冬季一次引发华北暴雪的低涡涡度分析. 高原气象 31(2):387–399
+- 张元春, 孙建华, 傅慎明 (2012) 冬季一次引发华北暴雪的低涡涡度分析. 高原气象 31(2):387–399
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-梁建宇, 孙建华 (2012) 2009年6月一次飑线过程灾害性大风的形成机制. 大气科学 36(2):316–336
+- 梁建宇, 孙建华 (2012) 2009年6月一次飑线过程灾害性大风的形成机制. 大气科学 36(2):316–336
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵思雄, 孙建华 (2012) 陶诗言院士对暴雨科学研究与预报的若干重大贡献. 暴雨灾害 31(4):293–297
+- 赵思雄, 孙建华 (2012) 陶诗言院士对暴雨科学研究与预报的若干重大贡献. 暴雨灾害 31(4):293–297
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -497,31 +492,31 @@ Xia R, Wang D, Sun J, Wang G, Xia G (2012) An observational analysis of a derech
 <br>
 <h2 style="text-indent: 1em;">2011</h2>
 
-Bao X, Zhang F, Sun J (2011) Diurnal variations of warm-season precipitation east of the Tibetan Plateau over China. Monthly Weather Review 139(9):2790–2810. https://doi.org/10.1175/MWR-D-11-00006.1
+- Bao X, Zhang F, Sun J (2011) Diurnal variations of warm-season precipitation east of the Tibetan Plateau over China. Monthly Weather Review 139(9):2790–2810. https://doi.org/10.1175/MWR-D-11-00006.1
 <button><a href="https://doi.org/10.1175/MWR-D-11-00006.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Cui L, Sun J, Qi L, Lei T (2011) Application of ATOVS radiance-bias correction to typhoon track prediction with Ensemble Kalman Filter data assimilation. Advance in Atmospheric Sciences 28(1):178–186. https://doi.org/10.1007/s00376-010-9145-9
+- Cui L, Sun J, Qi L, Lei T (2011) Application of ATOVS radiance-bias correction to typhoon track prediction with Ensemble Kalman Filter data assimilation. Advance in Atmospheric Sciences 28(1):178–186. https://doi.org/10.1007/s00376-010-9145-9
 <button><a href="https://doi.org/10.1007/s00376-010-9145-9" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Sun J, Zhao S, Li W (2011) The energy budget of a southwest vortex with heavy rainfall over south China. Advance in Atmospheric Sciences 28(3):709–724. https://doi.org/10.1007/s00376-010-0026-z
+- Fu S, Sun J, Zhao S, Li W (2011) The energy budget of a southwest vortex with heavy rainfall over south China. Advance in Atmospheric Sciences 28(3):709–724. https://doi.org/10.1007/s00376-010-0026-z
 <button><a href="https://doi.org/10.1007/s00376-010-0026-z" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Sun J (2011) On the Significance and Use of the Generalized Moist Potential Vorticity Equation. Atmospheric and Oceanic Science Letters 4(3):131–135. https://doi.org/10.1080/16742834.2011.11446917
+- Fu S, Sun J (2011) On the Significance and Use of the Generalized Moist Potential Vorticity Equation. Atmospheric and Oceanic Science Letters 4(3):131–135. https://doi.org/10.1080/16742834.2011.11446917
 <button><a href="https://doi.org/10.1080/16742834.2011.11446917" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Li W, Sun J, Xia R (2011) A budget analysis of a long-lived tropical mesoscale vortex over Hainan in October 2010. Meteorology and Atmospheric Physics 114(1):51. https://doi.org/10.1007/s00703-011-0156-6
+- Fu S, Li W, Sun J, Xia R (2011) A budget analysis of a long-lived tropical mesoscale vortex over Hainan in October 2010. Meteorology and Atmospheric Physics 114(1):51. https://doi.org/10.1007/s00703-011-0156-6
 <button><a href="https://doi.org/10.1007/s00703-011-0156-6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-傅慎明, 孙建华, 赵思雄, 李万莉, 李博 (2011) 梅雨期青藏高原东移对流系统影响江淮流域降水的研究. 气象学报 69(4):581–600
+- 傅慎明, 孙建华, 赵思雄, 李万莉, 李博 (2011) 梅雨期青藏高原东移对流系统影响江淮流域降水的研究. 气象学报 69(4):581–600
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 卫捷, 赵思雄, 陶诗言 (2011) 2009年夏季异常天气及其环流分析. 气候与环境研究 16(2):209–220
+- 孙建华, 卫捷, 赵思雄, 陶诗言 (2011) 2009年夏季异常天气及其环流分析. 气候与环境研究 16(2):209–220
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 黄翠银 (2011) 山东半岛一次暴雪过程的海岸锋三维结构特征. 大气科学 35(1):1–15
+- 孙建华, 黄翠银 (2011) 山东半岛一次暴雪过程的海岸锋三维结构特征. 大气科学 35(1):1–15
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-郑淋淋, 孙建华, 卫捷 (2011) 我国雷暴的日变化特征. 暴雨灾害 30(2):137–144
+- 郑淋淋, 孙建华, 卫捷 (2011) 我国雷暴的日变化特征. 暴雨灾害 30(2):137–144
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -530,28 +525,28 @@ Fu S, Li W, Sun J, Xia R (2011) A budget analysis of a long-lived tropical mesos
 <br>
 <h2 style="text-indent: 1em;">2010</h2>
 
-Cui L, Sun J, Qi L (2010) Two bias correction dchemes for ATOVS radiance data. Journal of Tropical Meteorology 16(1):71–76
+- Cui L, Sun J, Qi L (2010) Two bias correction dchemes for ATOVS radiance data. Journal of Tropical Meteorology 16(1):71–76
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Zheng L, Sun J, Wei J (2010) Thunder events in China: 1980-2008. Atmospheric and Oceanic Science Letters 3(4):181–188. https://doi.org/10.1080/16742834.2010.11446866
+- Zheng L, Sun J, Wei J (2010) Thunder events in China: 1980-2008. Atmospheric and Oceanic Science Letters 3(4):181–188. https://doi.org/10.1080/16742834.2010.11446866
 <button><a href="https://doi.org/10.1080/16742834.2010.11446866" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Sun J, Zhao S, Li W (2010) The impact of the eastward propagation of convective systems over the Tibetan Plateau on the Southwest Vortex formation in summer. Atmospheric and Oceanic Science Letters 3(1):51–57. https://doi.org/10.1080/16742834.2010.11446836
+- Fu S, Sun J, Zhao S, Li W (2010) The impact of the eastward propagation of convective systems over the Tibetan Plateau on the Southwest Vortex formation in summer. Atmospheric and Oceanic Science Letters 3(1):51–57. https://doi.org/10.1080/16742834.2010.11446836
 <button><a href="https://doi.org/10.1080/16742834.2010.11446836" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Sun J, Zhao S (2010) The impacts of multiscale weather systems on freezing rain and snowstorms over southern China. Weather and Forecasting 25(2):388–407. https://doi.org/10.1175/2009WAF2222253.1
+- Sun J, Zhao S (2010) The impacts of multiscale weather systems on freezing rain and snowstorms over southern China. Weather and Forecasting 25(2):388–407. https://doi.org/10.1175/2009WAF2222253.1
 <button><a href="https://doi.org/10.1175/2009WAF2222253.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Sun J, Zhao S, Xu G, Meng Q (2010) Study on a mesoscale convective vortex causing heavy rainfall during the mei-yu season in 2003. Advance in Atmospheric Sciences 27(5):1193–1209. https://doi.org/10.1007/s00376-009-9156-6
+- Sun J, Zhao S, Xu G, Meng Q (2010) Study on a mesoscale convective vortex causing heavy rainfall during the mei-yu season in 2003. Advance in Atmospheric Sciences 27(5):1193–1209. https://doi.org/10.1007/s00376-009-9156-6
 <button><a href="https://doi.org/10.1007/s00376-009-9156-6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-傅慎明, 赵思雄, 孙建华, 李万莉 (2010) 一类低涡切变型华南前汛期致洪暴雨的分析研究. 大气科学 34(2):235–252
+- 傅慎明, 赵思雄, 孙建华, 李万莉 (2010) 一类低涡切变型华南前汛期致洪暴雨的分析研究. 大气科学 34(2):235–252
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张小玲, 陶诗言, 孙建华 (2010) 基于“配料”的暴雨预报. 大气科学 34(4):754–766
+- 张小玲, 陶诗言, 孙建华 (2010) 基于“配料”的暴雨预报. 大气科学 34(4):754–766
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-齐琳琳, 王晓丹, 宁应惠, 孙建华 (2010) 耦合模式在局地辐射雾三维数值模拟研究中的应用. 气候与环境研究 15(1):53–63
+- 齐琳琳, 王晓丹, 宁应惠, 孙建华 (2010) 耦合模式在局地辐射雾三维数值模拟研究中的应用. 气候与环境研究 15(1):53–63
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -560,22 +555,22 @@ Sun J, Zhao S, Xu G, Meng Q (2010) Study on a mesoscale convective vortex causin
 <br>
 <h2 style="text-indent: 1em;">2009</h2>
 
-Sun J, Zhao S (2009) The freezing precipitation over the middle-lower reaches of the Yangtze River during February-March 2009. Atmospheric and Oceanic Science Letters 2(3):177–182. https://doi.org/10.1080/16742834.2009.11446797
+- Sun J, Zhao S (2009) The freezing precipitation over the middle-lower reaches of the Yangtze River during February-March 2009. Atmospheric and Oceanic Science Letters 2(3):177–182. https://doi.org/10.1080/16742834.2009.11446797
 <button><a href="https://doi.org/10.1080/16742834.2009.11446797" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Fu S, Sun J, Zhao S, Li W (2009) An analysis of the eddy kinetic energy budget of a Southwest Vortex during heavy rainfall over South China. Atmospheric and Oceanic Science Letters 2(3):135–141. https://doi.org/10.1080/16742834.2009.11446791
+- Fu S, Sun J, Zhao S, Li W (2009) An analysis of the eddy kinetic energy budget of a Southwest Vortex during heavy rainfall over South China. Atmospheric and Oceanic Science Letters 2(3):135–141. https://doi.org/10.1080/16742834.2009.11446791
 <button><a href="https://doi.org/10.1080/16742834.2009.11446791" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孟庆涛, 孙建华, 乔枫雪 (2009) 20世纪90年代以来东北暴雨过程特征分析. 气候与环境研究 14(6):596–612
+- 孟庆涛, 孙建华, 乔枫雪 (2009) 20世纪90年代以来东北暴雨过程特征分析. 气候与环境研究 14(6):596–612
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-徐广阔, 孙建华, 赵思雄 (2009a) 基于雷达资料同化的2003年7月一次暴雨过程的数值模拟及分析. 热带气象学报 25(4):427–434
+- 徐广阔, 孙建华, 赵思雄 (2009) 基于雷达资料同化的2003年7月一次暴雨过程的数值模拟及分析. 热带气象学报 25(4):427–434
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-徐广阔, 孙建华, 雷霆, 赵思雄 (2009b) 多普勒天气雷达资料同化对暴雨模拟的影响. 应用气象学报 20(1):36–46
+- 徐广阔, 孙建华, 雷霆, 赵思雄 (2009) 多普勒天气雷达资料同化对暴雨模拟的影响. 应用气象学报 20(1):36–46
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-陶诗言, 卫捷, 孙建华, 赵思雄 (2009) 2008/2009年秋冬季我国东部严重干旱分析. 气象 35(4):3–10
+- 陶诗言, 卫捷, 孙建华, 赵思雄 (2009) 2008/2009年秋冬季我国东部严重干旱分析. 气象 35(4):3–10
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -583,19 +578,19 @@ Fu S, Sun J, Zhao S, Li W (2009) An analysis of the eddy kinetic energy budget o
 <br>
 <h2 style="text-indent: 1em;">2008</h2>
 
-Sun J, Zhao L (2008) Numerical simulation of two East Asian dust storms in spring 2006. Earth Surface Processes and Landforms 33(12):1892–1911. https://doi.org/10.1002/esp.1734
+- Sun J, Zhao L (2008) Numerical simulation of two East Asian dust storms in spring 2006. Earth Surface Processes and Landforms 33(12):1892–1911. https://doi.org/10.1002/esp.1734
 <button><a href="https://doi.org/10.1002/esp.1734" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵思雄 (2008a) 2008年初南方雨雪冰冻灾害天气静止锋与层结结构分析. 气候与环境研究 (4):368–384
+- 孙建华, 赵思雄 (2008) 2008年初南方雨雪冰冻灾害天气静止锋与层结结构分析. 气候与环境研究 (4):368–384
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵思雄 (2008b) 2008年初南方雨雪冰冻灾害天气的大气层结和地面特征的数值模拟. 气候与环境研究 (4):510–519
+- 孙建华, 赵思雄 (2008) 2008年初南方雨雪冰冻灾害天气的大气层结和地面特征的数值模拟. 气候与环境研究 (4):510–519
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵思雄, 孙建华 (2008) 2008年初南方雨雪冰冻天气的环流场与多尺度特征. 气候与环境研究 (4):351–367
+- 赵思雄, 孙建华 (2008) 2008年初南方雨雪冰冻天气的环流场与多尺度特征. 气候与环境研究 (4):351–367
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-黄翠银, 沈新勇, 孙建华, 齐琳琳 (2008) 一次由海岸锋引发山东半岛暴雪过程的研究. 气候与环境研究 (4):567–583
+- 黄翠银, 沈新勇, 孙建华, 齐琳琳 (2008) 一次由海岸锋引发山东半岛暴雪过程的研究. 气候与环境研究 (4):567–583
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -603,37 +598,37 @@ Sun J, Zhao L (2008) Numerical simulation of two East Asian dust storms in sprin
 <br>
 <h2 style="text-indent: 1em;">2007</h2>
 
-Zhao S, Bei N, Sun J (2007) Mesoscale analysis of a heavy rainfall event over Hong Kong during a pre-rainy season in South China. Advance in Atmospheric Sciences 24(4):555–572. https://doi.org/10.1007/s00376-007-0555-2
+- Zhao S, Bei N, Sun J (2007) Mesoscale analysis of a heavy rainfall event over Hong Kong during a pre-rainy season in South China. Advance in Atmospheric Sciences 24(4):555–572. https://doi.org/10.1007/s00376-007-0555-2
 <button><a href="https://doi.org/10.1007/s00376-007-0555-2" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Zhao S, Sun J (2007) Study on cut-off low-pressure systems with floods over Northeast Asia. Meteorol Atmos Phys 96(1):159–180. https://doi.org/10.1007/s00703-006-0226-3
+- Zhao S, Sun J (2007) Study on cut-off low-pressure systems with floods over Northeast Asia. Meteorol Atmos Phys 96(1):159–180. https://doi.org/10.1007/s00703-006-0226-3
 <button><a href="https://doi.org/10.1007/s00703-006-0226-3" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-乔枫雪, 赵思雄, 孙建华 (2007) 一次引发暴雨的东北低涡的涡度和水汽收支分析. 气候与环境研究 (3):397–412
+- 乔枫雪, 赵思雄, 孙建华 (2007) 一次引发暴雨的东北低涡的涡度和水汽收支分析. 气候与环境研究 (3):397–412
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-卫捷, 孙建华 (2007) 华北地区夏季高温闷热天气特征的分析. 气候与环境研究 (3):453–463
+- 卫捷, 孙建华 (2007) 华北地区夏季高温闷热天气特征的分析. 气候与环境研究 (3):453–463
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-卫捷, 陈红, 孙建华, 陶诗言, 张庆云, 赵思雄 (2007) 2006年夏季中国的异常气候——中国科学院大气物理研究所短期气候预测检验. 气候与环境研究 (1):1–7
+- 卫捷, 陈红, 孙建华, 陶诗言, 张庆云, 赵思雄 (2007) 2006年夏季中国的异常气候——中国科学院大气物理研究所短期气候预测检验. 气候与环境研究 (1):1–7
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵琳娜, 赵思雄 (2007a) 2006年春季一次引起华北地区强沉降的沙尘暴过程的模拟研究. 气候与环境研究 (3):339–349
+- 孙建华, 赵琳娜, 赵思雄 (2007) 2006年春季一次引起华北地区强沉降的沙尘暴过程的模拟研究. 气候与环境研究 (3):339–349
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 齐琳琳, 朱江, 赵思雄 (2007b) 三维变分系统在我国夏季降雨预测中的应用试验. 气候与环境研究 (3):413–425
+- 孙建华, 齐琳琳, 朱江, 赵思雄 (2007) 三维变分系统在我国夏季降雨预测中的应用试验. 气候与环境研究 (3):413–425
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张立生, 孙建华, 赵思雄, 亓翠云 (2007) 长江中游暖切变型暴雨的分析研究. 气候与环境研究 (2):165–180
+- 张立生, 孙建华, 赵思雄, 亓翠云 (2007) 长江中游暖切变型暴雨的分析研究. 气候与环境研究 (2):165–180
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵思雄, 张立生, 孙建华 (2007a) 2007年淮河流域致洪暴雨及其中尺度系统特征的分析. 气候与环境研究 (6):713–727
+- 赵思雄, 张立生, 孙建华 (2007) 2007年淮河流域致洪暴雨及其中尺度系统特征的分析. 气候与环境研究 (6):713–727
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵琳娜, 孙建华, 王超, 赵思雄 (2007b) 2006年春季最强沙尘暴过程的数值分析. 气候与环境研究 (3):309–319
+- 赵琳娜, 孙建华, 王超, 赵思雄 (2007) 2006年春季最强沙尘暴过程的数值分析. 气候与环境研究 (3):309–319
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-陈红, 卫捷, 孙建华, 赵思雄, 陶诗言 (2007) 2006年夏季主要天气系统及环流特征分析. 气候与环境研究 (1):8–19
+- 陈红, 卫捷, 孙建华, 赵思雄, 陶诗言 (2007) 2006年夏季主要天气系统及环流特征分析. 气候与环境研究 (1):8–19
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -641,28 +636,28 @@ Zhao S, Sun J (2007) Study on cut-off low-pressure systems with floods over Nort
 <br>
 <h2 style="text-indent: 1em;">2006</h2>
 
-Qi L, Sun J (2006) Application of ATOVS microwave radiance assimilation to rainfall prediction in Summer 2004. Advance in Atmospheric Sciences 23(5):815–830. https://doi.org/10.1007/s00376-006-0815-6
+- Qi L, Sun J (2006) Application of ATOVS microwave radiance assimilation to rainfall prediction in Summer 2004. Advance in Atmospheric Sciences 23(5):815–830. https://doi.org/10.1007/s00376-006-0815-6
 <button><a href="https://doi.org/10.1007/s00376-006-0815-6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Sun J, Zhao L, Zhao S, Zhang R (2006) An integrated dust storm prediction system suitable for east Asia and its simulation results. Global and Planetary Change 52(1):71–87. https://doi.org/10.1016/j.gloplacha.2006.02.005
+- Sun J, Zhao L, Zhao S, Zhang R (2006) An integrated dust storm prediction system suitable for east Asia and its simulation results. Global and Planetary Change 52(1):71–87. https://doi.org/10.1016/j.gloplacha.2006.02.005
 <button><a href="https://doi.org/10.1016/j.gloplacha.2006.02.005" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-卫捷, 孙建华, 陶诗言, 张庆云 (2006) 2005年夏季中国东部气候异常分析——中国科学院大气物理研究所短期气候预测检验. 气候与环境研究 (2):155–168
+- 卫捷, 孙建华, 陶诗言, 张庆云 (2006) 2005年夏季中国东部气候异常分析——中国科学院大气物理研究所短期气候预测检验. 气候与环境研究 (2):155–168
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-夏茹娣, 赵思雄, 孙建华 (2006) 一类华南锋前暖区暴雨β中尺度系统环境特征的分析研究. 大气科学 (5):988–1008
+- 夏茹娣, 赵思雄, 孙建华 (2006) 一类华南锋前暖区暴雨β中尺度系统环境特征的分析研究. 大气科学 (5):988–1008
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 卫捷, 赵思雄, 陶诗言 (2006a) 2005年夏季的主要天气及其环流分析. 气候与环境研究 (2):138–154
+- 孙建华, 卫捷, 赵思雄, 陶诗言 (2006) 2005年夏季的主要天气及其环流分析. 气候与环境研究 (2):138–154
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 周海光, 赵思雄 (2006b) 2003年7月4~5日淮河流域大暴雨中尺度对流系统的观测分析. 大气科学 (6):1103–1118
+- 孙建华, 周海光, 赵思雄 (2006) 2003年7月4~5日淮河流域大暴雨中尺度对流系统的观测分析. 大气科学 (6):1103–1118
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 齐琳琳, 赵思雄 (2006c) “9608”号台风登陆北上引发北方特大暴雨的中尺度对流系统研究. 气象学报 (1):57–71
+- 孙建华, 齐琳琳, 赵思雄 (2006) “9608”号台风登陆北上引发北方特大暴雨的中尺度对流系统研究. 气象学报 (1):57–71
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-齐琳琳, 孙建华, 连樱, 马环宇 (2006) 热带气旋“蒲公英”两次登陆过程的灾害与结构特征. 气候与环境研究 (4):499–513
+- 齐琳琳, 孙建华, 连樱, 马环宇 (2006) 热带气旋“蒲公英”两次登陆过程的灾害与结构特征. 气候与环境研究 (4):499–513
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -670,22 +665,22 @@ Sun J, Zhao L, Zhao S, Zhang R (2006) An integrated dust storm prediction system
 <br>
 <h2 style="text-indent: 1em;">2005</h2>
 
-Sun J, Zhang X, Qi L, Zhao S (2005) An analysis of a meso-β system in a mei-yu front using the intensive observation data during CHeRES 2002. Advance in Atmospheric Sciences 22(2):278–289. https://doi.org/10.1007/BF02918517
+- Sun J, Zhang X, Qi L, Zhao S (2005) An analysis of a meso-β system in a mei-yu front using the intensive observation data during CHeRES 2002. Advance in Atmospheric Sciences 22(2):278–289. https://doi.org/10.1007/BF02918517
 <button><a href="https://doi.org/10.1007/BF02918517" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-Zhang R, Arimoto R, An J, Yabuki S, Sun J (2005) Ground observations of a strong dust storm in Beijing in March 2002. Journal of Geophysical Research: Atmospheres 110(D18). https://doi.org/10.1029/2004JD004589
+- Zhang R, Arimoto R, An J, Yabuki S, Sun J (2005) Ground observations of a strong dust storm in Beijing in March 2002. Journal of Geophysical Research: Atmospheres 110(D18). https://doi.org/10.1029/2004JD004589
 <button><a href="https://doi.org/10.1029/2004JD004589" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 卫捷, 张小玲, 赵思雄, 陶诗言 (2005a) 2004年夏季的天气及预测试验. 气候与环境研究 (1):1–18
+- 孙建华, 卫捷, 张小玲, 赵思雄, 陶诗言 (2005) 2004年夏季的天气及预测试验. 气候与环境研究 (1):1–18
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 张小玲, 卫捷, 赵思雄 (2005b) 20世纪90年代华北大暴雨过程特征的分析研究. 气候与环境研究 (3):214–228
+- 孙建华, 张小玲, 卫捷, 赵思雄 (2005) 20世纪90年代华北大暴雨过程特征的分析研究. 气候与环境研究 (3):214–228
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-雷航, 林朝晖, 孙建华 (2005) 一个改进的沙尘天气数值预测系统及其模拟试验. 气候与环境研究 (3):391–405
+- 雷航, 林朝晖, 孙建华 (2005) 一个改进的沙尘天气数值预测系统及其模拟试验. 气候与环境研究 (3):391–405
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-齐琳琳, 孙建华, 张小玲, 赵思雄 (2005) ATOVS资料在长江流域一次暴雨过程模拟中的应用. 大气科学 (5):780–794
+- 齐琳琳, 孙建华, 张小玲, 赵思雄 (2005) ATOVS资料在长江流域一次暴雨过程模拟中的应用. 大气科学 (5):780–794
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -693,25 +688,25 @@ Zhang R, Arimoto R, An J, Yabuki S, Sun J (2005) Ground observations of a strong
 <br>
 <h2 style="text-indent: 1em;">2004</h2>
 
-孙建华, 卫捷, 张小玲, 陈红, 赵思雄, 陶诗言 (2004a) 2003年夏季的异常天气及预测试验. 气候与环境研究 (1):203–217
+- 孙建华, 卫捷, 张小玲, 陈红, 赵思雄, 陶诗言 (2004) 2003年夏季的异常天气及预测试验. 气候与环境研究 (1):203–217
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 张小玲, 齐琳琳, 张高英, 赵思雄, 陶诗言 (2004b) 2002年中国暴雨试验期间一次低涡切变上发生发展的中尺度对流系统研究. 大气科学 (5):675–691
+- 孙建华, 张小玲, 齐琳琳, 张高英, 赵思雄, 陶诗言 (2004) 2002年中国暴雨试验期间一次低涡切变上发生发展的中尺度对流系统研究. 大气科学 (5):675–691
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 张小玲, 齐琳琳, 张高英, 赵思雄, 陶诗言 (2004c) 2002年6月20～24日梅雨锋中尺度对流系统发生发展分析. 气象学报 (4):423–438
+- 孙建华, 张小玲, 齐琳琳, 张高英, 赵思雄, 陶诗言 (2004) 2002年6月20～24日梅雨锋中尺度对流系统发生发展分析. 气象学报 (4):423–438
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵琳娜, 赵思雄 (2004d) 华北强沙尘暴的数值模拟及沙源分析. 气候与环境研究 (1):139–154
+- 孙建华, 赵琳娜, 赵思雄 (2004) 华北强沙尘暴的数值模拟及沙源分析. 气候与环境研究 (1):139–154
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张小玲, 孙建华, 陶诗言, 赵思雄 (2004a) 2002年8月湖南致洪强降水过程与成因分析. 气候与环境研究 (3):475–493
+- 张小玲, 孙建华, 陶诗言, 赵思雄 (2004) 2002年8月湖南致洪强降水过程与成因分析. 气候与环境研究 (3):475–493
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-张高英, 赵思雄, 孙建华 (2004b) 近年来强沙尘暴天气气候特征的分析研究. 气候与环境研究 (1):101–115
+- 张高英, 赵思雄, 孙建华 (2004) 近年来强沙尘暴天气气候特征的分析研究. 气候与环境研究 (1):101–115
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵琳娜, 孙建华, 赵思雄 (2004) 2002年3月20日沙尘暴天气的影响系统、起沙和输送的数值模拟. 干旱区资源与环境 (S1):72–80
+- 赵琳娜, 孙建华, 赵思雄 (2004) 2002年3月20日沙尘暴天气的影响系统、起沙和输送的数值模拟. 干旱区资源与环境 (S1):72–80
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -720,16 +715,16 @@ Zhang R, Arimoto R, An J, Yabuki S, Sun J (2005) Ground observations of a strong
 <br>
 <h2 style="text-indent: 1em;">2003</h2>
 
-孙建华, 赵思维 (2003a) 华北地区“12·7”降雪过程的数值模拟研究. 气候与环境研究 (4):387–401
+- 孙建华, 赵思维 (2003) 华北地区“12·7”降雪过程的数值模拟研究. 气候与环境研究 (4):387–401
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵思雄 (2003b) 1998年夏季长江流域梅雨期环流演变的特殊性探讨. 气候与环境研究 (3):291–306
+- 孙建华, 赵思雄 (2003) 1998年夏季长江流域梅雨期环流演变的特殊性探讨. 气候与环境研究 (3):291–306
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵琳娜, 赵思雄 (2003) 一个适用于我国北方的沙尘暴天气数值预测系统及其应用试验. 气候与环境研究 (2):125–142
+- 孙建华, 赵琳娜, 赵思雄 (2003) 一个适用于我国北方的沙尘暴天气数值预测系统及其应用试验. 气候与环境研究 (2):125–142
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-林朝晖, 孙建华, 卫捷, 周广庆, 张小玲, 陈红, 郎咸梅 (2003) 2002年夏季气候及汛期实时预测与检验. 气候与环境研究 (3):241–257
+- 林朝晖, 孙建华, 卫捷, 周广庆, 张小玲, 陈红, 郎咸梅 (2003) 2002年夏季气候及汛期实时预测与检验. 气候与环境研究 (3):241–257
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -738,22 +733,22 @@ Zhang R, Arimoto R, An J, Yabuki S, Sun J (2005) Ground observations of a strong
 <br>
 <h2 style="text-indent: 1em;">2002</h2>
 
-Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convection band over the Korean Peninsula. Journal of the Meteorological Society of Japan 80(5):1221–1245. https://doi.org/10.2151/jmsj.80.1221
+- Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convection band over the Korean Peninsula. Journal of the Meteorological Society of Japan 80(5):1221–1245. https://doi.org/10.2151/jmsj.80.1221
 <button><a href="https://doi.org/10.2151/jmsj.80.1221" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵思雄 (2002a) 华南“94·6”特大暴雨的中尺度对流系统及其环境场研究 Ⅱ.物理过程、环境场以及地形对中尺度对流系统的作用. 大气科学 (5):633–646
+- 孙建华, 赵思雄 (2002) 华南“94·6”特大暴雨的中尺度对流系统及其环境场研究 Ⅱ.物理过程、环境场以及地形对中尺度对流系统的作用. 大气科学 (5):633–646
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵思雄 (2002b) 华南“94·6”特大暴雨的中尺度对流系统及其环境场研究 Ⅰ.引发暴雨的β中尺度对流系统的数值模拟研究. 大气科学 (4):541–557
+- 孙建华, 赵思雄 (2002) 华南“94·6”特大暴雨的中尺度对流系统及其环境场研究 Ⅰ.引发暴雨的β中尺度对流系统的数值模拟研究. 大气科学 (4):541–557
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵思雄, 孙建华, 陈红, 齐琳琳, 赵翼浚, 李爱国, 李云云 (2002a) 北京“12·7”降雪过程的分析研究. 气候与环境研究 (1):7–21
+- 赵思雄, 孙建华, 陈红, 齐琳琳, 赵翼浚, 李爱国, 李云云 (2002) 北京“12·7”降雪过程的分析研究. 气候与环境研究 (1):7–21
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵思雄, 贝耐芳, 孙建华, 陈红, 张凤, 祁立新 (2002b) 亚澳中低纬度区域暴雨天气系统研究. 气候与环境研究 (4):377–385
+- 赵思雄, 贝耐芳, 孙建华, 陈红, 张凤, 祁立新 (2002) 亚澳中低纬度区域暴雨天气系统研究. 气候与环境研究 (4):377–385
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-赵琳娜, 孙建华, 赵思雄 (2002c) 一次引发华北和北京沙尘(暴)天气起沙机制的数值模拟研究. 气候与环境研究 (3):279–294
+- 赵琳娜, 孙建华, 赵思雄 (2002) 一次引发华北和北京沙尘(暴)天气起沙机制的数值模拟研究. 气候与环境研究 (3):279–294
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -762,10 +757,10 @@ Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convectio
 <br>
 <h2 style="text-indent: 1em;">2001</h2>
 
-孙建华, 陈红, 赵思雄, 曾庆存 (2001) 青藏高原人工水汽通道对西北地区夏季降水及环流的影响——Ⅱ.对月降水量的模拟试验. 气候与环境研究 (4):380–390
+- 孙建华, 陈红, 赵思雄, 曾庆存 (2001) 青藏高原人工水汽通道对西北地区夏季降水及环流的影响——Ⅱ.对月降水量的模拟试验. 气候与环境研究 (4):380–390
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-陈红, 孙建华, 赵思雄, 曾庆存 (2001) 青藏高原人工水汽通道对西北地区夏季降水及环流的影响——I.对降水过程个例的模拟试验. 气候与环境研究 (4):371–379
+- 陈红, 孙建华, 赵思雄, 曾庆存 (2001) 青藏高原人工水汽通道对西北地区夏季降水及环流的影响——I.对降水过程个例的模拟试验. 气候与环境研究 (4):371–379
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -775,10 +770,10 @@ Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convectio
 <br>
 <h2 style="text-indent: 1em;">2000</h2>
 
-孙建华, 赵思雄 (2000a) 一次罕见的华南大暴雨过程的诊断与数值模拟研究. 大气科学 (3):381–392
+- 孙建华, 赵思雄 (2000) 一次罕见的华南大暴雨过程的诊断与数值模拟研究. 大气科学 (3):381–392
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-孙建华, 赵思雄 (2000b) 登陆台风引发的暴雨过程之诊断研究. 大气科学 (2):223–237
+- 孙建华, 赵思雄 (2000) 登陆台风引发的暴雨过程之诊断研究. 大气科学 (2):223–237
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -788,10 +783,10 @@ Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convectio
 <br>
 <h2 style="text-indent: 1em;">1999</h2>
 
-孙建华, 陈红, 赵思雄, 曾庆存, 谢庄, 崔继良, 刘海涛 (1999) 华北和北京的酷暑天气 II.模拟试验和机理分析. 气候与环境研究 (4):334–345
+- 孙建华, 陈红, 赵思雄, 曾庆存, 谢庄, 崔继良, 刘海涛 (1999) 华北和北京的酷暑天气 II.模拟试验和机理分析. 气候与环境研究 (4):334–345
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-谢庄, 崔继良, 刘海涛, 赵思雄, 孙建华, 陈红, 曾庆存 (1999) 华北和北京的酷暑天气 I.历史概况及个例分析. 气候与环境研究 (4):323–333
+- 谢庄, 崔继良, 刘海涛, 赵思雄, 孙建华, 陈红, 曾庆存 (1999) 华北和北京的酷暑天气 I.历史概况及个例分析. 气候与环境研究 (4):323–333
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
@@ -802,10 +797,10 @@ Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convectio
 <br>
 <h2 style="text-indent: 1em;">1998</h2>
 
-赵思雄, 孙建华, 陈红, 张凤 (1998) 1998年7月长江流域特大洪水期间暴雨特征的分析研究. 气候与环境研究 (4):81–94
+- 赵思雄, 孙建华, 陈红, 张凤 (1998) 1998年7月长江流域特大洪水期间暴雨特征的分析研究. 气候与环境研究 (4):81–94
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-陈红, 孙建华, 贝耐芳, 王俊, 张宝严, 杜长萱, 蔡则怡, 赵思雄 (1998) 1998年中国科学院大气物理研究所气候与环境预测研究中心汛期暴雨短期数值预测. 气候与环境研究 (4):95–102
+- 陈红, 孙建华, 贝耐芳, 王俊, 张宝严, 杜长萱, 蔡则怡, 赵思雄 (1998) 1998年中国科学院大气物理研究所气候与环境预测研究中心汛期暴雨短期数值预测. 气候与环境研究 (4):95–102
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
