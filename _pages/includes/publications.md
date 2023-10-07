@@ -78,10 +78,10 @@
 <button><a href="http://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2023.003" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 汤欢, 傅慎明, 孙建华, 周象贤 (2023) 基于高分辨率再分析风场的高原涡三维识别技术及应用. 大气科学 47(3):698–712
-<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=DQXK202303008&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2112.21127" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 张元春, 孙建华, 傅慎明, 汪汇洁, 付亚男, 汤欢, 魏倩 (2023) “21·7”河南特大暴雨的中尺度系统活动特征. 大气科学 47(4):1196–1216
-<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=KiAZ1SjiA-5fg6jvYz3bD4uXwy5ZM9LCOfR-F4Ug0_4gtQEOunORZJ8OSNO9y8Ix-hi6fbg6rCsXF_ahYHt6MaWxsB7ZnB43clzbA8uW-bezOYxCqYtS8BLPUwc5dvcrD7MhVnCfsM7Kx_OKTgQNVw==&uniplatform=NZKPT&language=CHS" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2302.22135" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 周晓敏, 田付友, 郑永光, 孙建华, 王超 (2023). 中国短时强降雨对暴雨的贡献特征. 气象, 49(3), 267–278.
 <button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=DQXK202304022&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -119,7 +119,7 @@
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 杨雯婷, 傅慎明, 孙建华, 郑飞, 卫捷 (2022) 近32年泰国降水的主要变化趋势研究. 大气科学 46(2):263–274
-<button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2107.21001" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
@@ -217,7 +217,7 @@
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXogtAEVH7LBKtePRiE-ZWdmI1BHWnfY9NUlruq0weRMYw&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 汤欢, 傅慎明, 孙建华, 麦子, 靳双龙, 张元春 (2020). 一次高原东移MCS与下游西南低涡作用并产生强降水事件的研究. 大气科学, 44(6), 1275–1290.
-<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXokr9uh7kYa-IZwOkFkOiS1HV7VKAHvRy7MXhqvkNp4MD&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.1911.19206" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
@@ -247,7 +247,7 @@
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.894" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 刘瑞鑫, 孙建华, 陈鲍发 (2019). 华南暖区暴雨事件的筛选与分类研究. 大气科学, 43(1), 119–130.
-<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoCa0psMaYebC8ZlejAMYVVVg3okwQngPjxbfDSqsplNt&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.1803.17245" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 姜立智, 傅慎明, 孙建华, 刘靓珂, 沈新勇 (2019). 2014年11月上旬西北太平洋一次极端强度爆发气旋的数值模拟和分片位涡反演分析. 气候与环境研究, 24(2), 152–168.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoJ6n7BrI_bwFPZXhgYlZMGpWm7nedXlyRc4_H7GPmr9h&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -283,13 +283,13 @@
 <button><a href="https://journals.ametsoc.org/view/journals/atsc/75/3/jas-d-17-0197.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 孙建华, 卫捷, 傅慎明, 张元春, 汪汇洁 (2018). 江淮流域持续性强降水过程的多尺度物理模型. 大气科学, 42(04), 741–754.
-<button><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=DQXK201804003&v=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.1803.17246" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 赵思雄, 孙建华, 鲁蓉, 傅慎明 (2018). “7·20”华北和北京大暴雨过程的分析. 气象, 44(3), 351–360.
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i0-kJR0HYBJ80QN9L51zrP0K5M2FSoHLda8iKwXlpxtCakf5e2xGa-UULk-NVVwj9&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 鲁蓉, 孙建华, 傅慎明 (2018). 近海水汽初值和对流影响一次华南前汛期沿海强降水对流系统发展过程的机理研究. 大气科学, 42(1), 1–15.
-<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XSavCI-tGXlP1g-QA50JD4dFNdKeOIc6rriALDMmEDZS&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.1705.16261" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
@@ -358,7 +358,7 @@
 <button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ijP0rjQD-AVm8oHBO0FTadu7p9doPbhu2Kjag4jffc3zLfUCiX2ePdilt9gD_tl7N&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - 郑淋淋, 孙建华 (2016). 风切变对中尺度对流系统强度和组织结构影响的数值试验. 大气科学, 40(2), 324–340.
-<button><a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ijP0rjQD-AVm8oHBO0FTadlIGgCgIHIpf4k8ZP2NoM9faof78kXUzR7y_kAeU3w3f&uniplatform=NZKPT" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.1505.14311" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
