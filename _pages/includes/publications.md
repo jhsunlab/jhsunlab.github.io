@@ -225,7 +225,7 @@
 <br>
 <h2 style="text-indent: 1em;">2019</h2>
 
-- FU S, MAI Z, SUN J, TANG H (2019). On the physical significance and use of a set of horizontal and vertical helicity budget equations. Atmospheric and Oceanic Science Letters, 12(6), 417–423. https://doi.org/10.1080/16742834.2019.1661755
+- Fu S, Mai Z, Sun J, Tang H (2019). On the physical significance and use of a set of horizontal and vertical helicity budget equations. Atmospheric and Oceanic Science Letters, 12(6), 417–423. https://doi.org/10.1080/16742834.2019.1661755
 <button><a href="https://journals.ametsoc.org/view/journals/atsc/76/12/jas-d-18-0331.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Fu S, Mai Z, Sun J, Li W, Ding Y, Wang Y (2019). Impacts of convective activity over the Tibetan Plateau on Plateau vortex, southwest vortex, and downstream precipitation. Journal of the Atmospheric Sciences, 76(12), 3803–3830. https://doi.org/10.1175/JAS-D-18-0331.1
