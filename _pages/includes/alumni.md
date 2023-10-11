@@ -47,7 +47,7 @@
   <ul>
     <li>汤欢，2022届博士毕业生</li>
     <ul>
-      <li>博士论文 《近42年暖季高原涡的统计特征、演变机理及其与MCS的相互作用》</li>
+      <li>博士论文 《近42年暖季高原涡的统计特征、演变机理及其与MCS的相互作用》<button><a href="/pdf/dissertation/2022-tanghuan.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
       <li>中国气象局 气象干部培训学院</li>
     </ul>
   </ul>
