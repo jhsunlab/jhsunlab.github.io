@@ -318,6 +318,12 @@
 - Zhang Y, Sun J (2017). Comparison of the diurnal variations of precipitation east of the Tibetan Plateau among sub-periods of Meiyu season. Meteorology and Atmospheric Physics, 129(5), 539–554. https://doi.org/10.1007/s00703-016-0484-7
 <button><a href="https://doi.org/10.1007/s00703-016-0484-7" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- 张斌, 田向军, 张立凤, 孙建华 (2017) 基于NLS-4DVar方法的雷达资料同化及其在暴雨预报中的应用. 大气科学 41(2):321–332
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.1605.16107" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 李津, 赵思雄, 孙建华 (2017) 一次华北破纪录暴雪成因的分析研究. 气候与环境研究 22(6):683–698
+<button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2017.16121" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 - 杨新林, 孙建华, 鲁蓉, 张弦 (2017). 华南雷暴大风天气的环境条件分布特征. 气象, 43(7), 769–780.
 <button><a href="http://qxqk.nmc.cn/qx/ch/reader/view_abstract.aspx?flag=1&file_no=20170701&journal_id=qx" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
