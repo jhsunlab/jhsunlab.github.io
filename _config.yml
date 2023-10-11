@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "暴雨强对流研究团队"
 description              : "  "
-repository               : "IAP-FuYaNan/iap-fuyanan.github.io"
+repository               : "jhsunlab/jhsunlab.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "IAP-FuYaNan"
+  github           : "jhsunlab"
   google_plus      :
   keybase          :
   instagram        :
