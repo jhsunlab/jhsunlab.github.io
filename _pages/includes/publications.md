@@ -366,6 +366,9 @@
 <br>
 <h2 style="text-indent: 1em;">2015</h2>
 
+- Fu S, Li W, Ling J (2015) On the evolution of a long‐lived mesoscale vortex over the Yangtze River Basin: Geometric features and interactions among systems of different scales. JGR Atmospheres 120(23). https://doi.org/10.1002/2015JD023700
+<button><a href="https://doi.org/10.1002/2015JD023700" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 - Fu S, Li W, Sun J, Zhang J, Zhang Y (2015). Universal evolution mechanisms and energy conversion characteristics of long-lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters, 16(2), 127–134. https://doi.org/10.1002/asl2.533
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl2.533" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
