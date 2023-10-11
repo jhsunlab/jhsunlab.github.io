@@ -25,7 +25,7 @@
   <ul>
     <li>马铮，2022届博士毕业生</li>
     <ul>
-      <li>博士论文 《静止气象卫星大气探测的反演与短临预报应用研究》</li>
+      <li>博士论文 《静止气象卫星大气探测的反演与短临预报应用研究》<button><a href="/pdf/dissertation/2022-mazheng.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
       <li>Cooperative Institute for Meteorological Satellite Studies, University of Wisconsin-Madison</li>
     </ul>
   </ul>
@@ -36,7 +36,7 @@
   <ul>
     <li>刘翠，2022届博士毕业生</li>
     <ul>
-      <li>博士论文 《西南地区强降水的数值模式预报偏差特征及其成因研究》</li>
+      <li>博士论文 《西南地区强降水的数值模式预报偏差特征及其成因研究》<button><a href="/pdf/dissertation/2022-liucui.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
       <li>中国气象局 国家卫星气象中心</li>
     </ul>
   </ul>
@@ -69,7 +69,7 @@
   <ul>
     <li>姜立智，2021届博士毕业生</li>
     <ul>
-      <li>博士论文 《北半球爆发气旋近四十年的统计特征及影响因子研究》</li>
+      <li>博士论文 《北半球爆发气旋近四十年的统计特征及影响因子研究》<button><a href="/pdf/dissertation/2021-jianglizhi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
       <li>福建省气象局 气象科学研究所</li>
     </ul>
   </ul>
@@ -102,7 +102,7 @@
   <ul>
     <li>田付友，2018届博士毕业生</li>
     <ul>
-      <li>博士论文 《我国东部短时强降水天气成因及潜势预报方法研究》</li>
+      <li>博士论文 《我国东部短时强降水天气成因及潜势预报方法研究》<button><a href="/pdf/dissertation/2018-tianfuyou.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
       <li>中国气象局 国家气象中心</li>
     </ul>
   </ul>
@@ -189,7 +189,7 @@
   <ul>
     <li>于翡，2012届博士毕业生</li>
     <ul>
-      <li>博士论文 《多梅年暴雨中尺度涡旋特征及发展移动机理研究》</li>
+      <li>博士论文 《多梅年暴雨中尺度涡旋特征及发展移动机理研究》<button><a href="/pdf/dissertation/2012-yufei.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
       <li>中国气象局 国家气象中心</li>
     </ul>
   </ul>
@@ -211,7 +211,7 @@
   <ul>
     <li>徐广阔，2009届博士毕业生</li>
     <ul>
-      <li>博士论文 《江淮流域中尺度对流诱生涡旋的结构和演变特征研究》</li>
+      <li>博士论文 《江淮流域中尺度对流诱生涡旋的结构和演变特征研究》<button><a href="/pdf/dissertation/2009-xuguangkuo.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
     </ul>
   </ul>
 </div>
@@ -254,7 +254,7 @@
   <ul>
     <li>梁建宇，2011届硕士毕业生</li>
     <ul>
-      <li>硕士论文 《2009年6月两次造成地面大风的飑线的结构特征对比研究》</li>
+      <li>硕士论文 《2009年6月两次造成地面大风的飑线的结构特征对比研究》<button><a href="/pdf/dissertation/2011-liangjianyu.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
     </ul>
   </ul>
 </div>
@@ -264,7 +264,7 @@
   <ul>
     <li>孟庆涛，2009届硕士毕业生</li>
     <ul>
-      <li>硕士论文 《2007年江淮流域梅雨期中尺度对流系统（MCS）特征研究》</li>
+      <li>硕士论文 《2007年江淮流域梅雨期中尺度对流系统（MCS）特征研究》<button><a href="/pdf/dissertation/2009-mengqingtao.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button></li>
       <li>中国气象局 国家气象中心</li>
     </ul>
   </ul>
