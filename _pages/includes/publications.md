@@ -342,9 +342,6 @@
 - Fu S, Zhang J, Sun J, Zhao T (2016). Composite analysis of long-lived mesoscale vortices over the middle reaches of the Yangtze River valley: Octant features and evolution mechanisms. Journal of Climate, 29(2), 761–781. https://doi.org/10.1175/JCLI-D-15-0175.1
 <button><a href="https://doi.org/10.1175/JCLI-D-15-0175.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-- Li D, Sun J, Fu S, Wei J, Wang S, Tian F (2016). Spatiotemporal characteristics of hourly precipitation over central eastern China during the warm season of 1982–2012. International Journal of Climatology, 36(8), 3148–3160. https://doi.org/10.1002/joc.4543
-<button><a href="https://doi.org/10.1002/joc.4543" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
 - Liu R, Sun J, Wei J, Fu S (2016). Classification of persistent heavy rainfall events over South China and associated moisture source analysis. Journal of Meteorological Research, 30(5), 678–693. https://doi.org/10.1007/s13351-016-6042-x
 <button><a href="https://doi.org/10.1007/s13351-016-6042-x" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
