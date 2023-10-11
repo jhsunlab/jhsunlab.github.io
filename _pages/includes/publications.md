@@ -306,9 +306,6 @@
 - Yang X, Sun J, Zheng Y (2017). A 5-yr climatology of severe convective wind events over China. Weather and Forecasting, 32(4), 1289–1299. https://doi.org/10.1175/WAF-D-16-0101.1
 <button><a href="https://journals.ametsoc.org/view/journals/wefo/32/4/waf-d-16-0101_1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-- Zhang B, Tian X, Zhang L, Sun J (2017). The radar data assimilation system based on NLS-4DVar and its application in heavy rain forecast. Chinese Journal of Atmospheric Sciences, 41(2), 321–332. https://doi.org/10.3878/j.issn.1006-9895.1605.16107
-<button><a href="[https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050453848&doi=10.3878%2fj.issn.1006-9895.1605.16107&partnerID=40&md5=6c90f7416dc61f651648db9a0eec01f4](https://doi.org/10.3878/j.issn.1006-9895.1605.16107)" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
 - Zhang B, Tian X, Zhang L, Sun J (2017). Handling non-linearity in radar data assimilation using the non-linear least squares enhanced POD-4DVar. Science China Earth Sciences, 60(3), 478–490. https://doi.org/10.1007/s11430-015-0271-4
 <button><a href="https://doi.org/10.1007/s11430-015-0271-4" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
