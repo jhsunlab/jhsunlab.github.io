@@ -661,6 +661,9 @@
 - Fu S, Sun J, Zhao S, Li W (2009) An analysis of the eddy kinetic energy budget of a Southwest Vortex during heavy rainfall over South China. Atmospheric and Oceanic Science Letters 2(3):135–141. https://doi.org/10.1080/16742834.2009.11446791
 <button><a href="https://doi.org/10.1080/16742834.2009.11446791" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- 高守亭, 孙建华, 崔晓鹏 (2008) 暴雨中尺度系统数值模拟与动力诊断研究. 大气科学 (4):854–866
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2008.04.13" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 - 孟庆涛, 孙建华, 乔枫雪 (2009) 20世纪90年代以来东北暴雨过程特征分析. 气候与环境研究 14(6):596–612
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2009.06.03" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
