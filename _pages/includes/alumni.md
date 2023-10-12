@@ -115,7 +115,7 @@
     <ul>
       <li>
         博士论文 《青藏高原暖季对流的活动特征及东移影响下游降水的机理》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20158202&title=%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E6%9A%96%E5%AD%A3%E5%AF%B9%E6%B5%81%E7%9A%84%E6%B4%BB%E5%8A%A8%E7%89%B9%E5%BE%81%E5%8F%8A%E4%B8%9C%E7%A7%BB%E5%BD%B1%E5%93%8D%E4%B8%8B%E6%B8%B8%E9%99%8D%E6%B0%B4%E7%9A%84%E6%9C%BA%E7%90%86&author=%E9%BA%A6%E5%AD%90&highsearch=title_all%253A345345345%25E9%259D%2592%25E8%2597%258F%25E9%25AB%2598%25E5%258E%259F%25E6%259A%2596%25E5%25AD%25A3%25E5%25AF%25B9%25E6%25B5%2581%25E7%259A%2584%25E6%25B4%25BB%25E5%258A%25A8%25E7%2589%25B9%25E5%25BE%2581%25E5%258F%258A%25E4%25B8%259C%25E7%25A7%25BB%25E5%25BD%25B1%25E5%2593%258D%25E4%25B8%258B%25E6%25B8%25B8%25E9%2599%258D%25E6%25B0%25B4%25E7%259A%2584%25E6%259C%25BA%25E7%2590%2586345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E6%9A%96%E5%AD%A3%E5%AF%B9%E6%B5%81%E7%9A%84%E6%B4%BB%E5%8A%A8%E7%89%B9%E5%BE%81%E5%8F%8A%E4%B8%9C%E7%A7%BB%E5%BD%B1%E5%93%8D%E4%B8%8B%E6%B8%B8%E9%99%8D%E6%B0%B4%E7%9A%84%E6%9C%BA%E7%90%86" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>中国气象局 国家气象中心</li>
     </ul>
@@ -129,7 +129,7 @@
     <ul>
       <li>
         博士论文 《我国东部短时强降水天气成因及潜势预报方法研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20158727&title=%E6%88%91%E5%9B%BD%E4%B8%9C%E9%83%A8%E7%9F%AD%E6%97%B6%E5%BC%BA%E9%99%8D%E6%B0%B4%E5%A4%A9%E6%B0%94%E6%88%90%E5%9B%A0%E5%8F%8A%E6%BD%9C%E5%8A%BF%E9%A2%84%E6%8A%A5%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6&author=%E7%94%B0%E4%BB%98%E5%8F%8B&highsearch=title_all%253A345345345%25E6%2588%2591%25E5%259B%25BD%25E4%25B8%259C%25E9%2583%25A8%25E7%259F%25AD%25E6%2597%25B6%25E5%25BC%25BA%25E9%2599%258D%25E6%25B0%25B4%25E5%25A4%25A9%25E6%25B0%2594%25E6%2588%2590%25E5%259B%25A0%25E5%258F%258A%25E6%25BD%259C%25E5%258A%25BF%25E9%25A2%2584%25E6%258A%25A5%25E6%2596%25B9%25E6%25B3%2595%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E6%88%91%E5%9B%BD%E4%B8%9C%E9%83%A8%E7%9F%AD%E6%97%B6%E5%BC%BA%E9%99%8D%E6%B0%B4%E5%A4%A9%E6%B0%94%E6%88%90%E5%9B%A0%E5%8F%8A%E6%BD%9C%E5%8A%BF%E9%A2%84%E6%8A%A5%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
         <button><a href="/pdf/dissertation/2018-tianfuyou.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
       </li>
       <li>中国气象局 国家气象中心</li>
@@ -144,7 +144,7 @@
     <ul>
       <li>
         博士论文 《2011-2015年华南暖季中尺度强对流系统的特征及机理研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20147428&title=2011-2015%E5%B9%B4%E5%8D%8E%E5%8D%97%E6%9A%96%E5%AD%A3%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%BC%BA%E5%AF%B9%E6%B5%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%89%B9%E5%BE%81%E5%8F%8A%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6&author=%E9%B2%81%E8%93%89&highsearch=title_all%253A3453453452011%255C-2015%25E5%25B9%25B4%25E5%258D%258E%25E5%258D%2597%25E6%259A%2596%25E5%25AD%25A3%25E4%25B8%25AD%25E5%25B0%25BA%25E5%25BA%25A6%25E5%25BC%25BA%25E5%25AF%25B9%25E6%25B5%2581%25E7%25B3%25BB%25E7%25BB%259F%25E7%259A%2584%25E7%2589%25B9%25E5%25BE%2581%25E5%258F%258A%25E6%259C%25BA%25E7%2590%2586%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=2011-2015%E5%B9%B4%E5%8D%8E%E5%8D%97%E6%9A%96%E5%AD%A3%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%BC%BA%E5%AF%B9%E6%B5%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%89%B9%E5%BE%81%E5%8F%8A%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>南京市气象局</li>
     </ul>
@@ -158,7 +158,7 @@
     <ul>
       <li>
         博士论文 《华南暖区暴雨统计特征及触发机理研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20147473&title=%E5%8D%8E%E5%8D%97%E6%9A%96%E5%8C%BA%E6%9A%B4%E9%9B%A8%E7%BB%9F%E8%AE%A1%E7%89%B9%E5%BE%81%E5%8F%8A%E8%A7%A6%E5%8F%91%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6&author=%E5%88%98%E7%91%9E%E9%91%AB&highsearch=title_all%253A345345345%25E5%258D%258E%25E5%258D%2597%25E6%259A%2596%25E5%258C%25BA%25E6%259A%25B4%25E9%259B%25A8%25E7%25BB%259F%25E8%25AE%25A1%25E7%2589%25B9%25E5%25BE%2581%25E5%258F%258A%25E8%25A7%25A6%25E5%258F%2591%25E6%259C%25BA%25E7%2590%2586%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E5%8D%8E%E5%8D%97%E6%9A%96%E5%8C%BA%E6%9A%B4%E9%9B%A8%E7%BB%9F%E8%AE%A1%E7%89%B9%E5%BE%81%E5%8F%8A%E8%A7%A6%E5%8F%91%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>北京市气象局</li>
     </ul>
@@ -171,10 +171,10 @@
     <li>杨新林，2018届博士毕业生</li>
     <ul>
       <li>
-        博士论文 《华北雷暴大风对流系统特征及发展机理研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        博士论文 《华北雷暴大风对流系统特征及机理研究》
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20145944&title=%E5%8D%8E%E5%8C%97%E9%9B%B7%E6%9A%B4%E5%A4%A7%E9%A3%8E%E5%AF%B9%E6%B5%81%E7%B3%BB%E7%BB%9F%E7%89%B9%E5%BE%81%E5%8F%8A%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6&author=%E6%9D%A8%E6%96%B0%E6%9E%97&highsearch=author_name%253A345345345%25E6%259D%25A8%25E6%2596%25B0%25E6%259E%2597345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E6%9D%A8%E6%96%B0%E6%9E%97" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
-      <li>中国民用航空飞行学院</li>
+      <li>中国民用航空飞行学院（现工作单位）</li>
     </ul>
   </ul>
 </div>
@@ -199,7 +199,7 @@
     <ul>
       <li>
         博士论文 《我国南方暖季持续性暴雨的多尺度特征及机理研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20015415&title=%E6%88%91%E5%9B%BD%E5%8D%97%E6%96%B9%E6%9A%96%E5%AD%A3%E6%8C%81%E7%BB%AD%E6%80%A7%E6%9A%B4%E9%9B%A8%E7%9A%84%E5%A4%9A%E5%B0%BA%E5%BA%A6%E7%89%B9%E5%BE%81%E5%8F%8A%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6&author=%E6%B1%AA%E6%B1%87%E6%B4%81&highsearch=title_all%253A345345345%25E6%2588%2591%25E5%259B%25BD%25E5%258D%2597%25E6%2596%25B9%25E6%259A%2596%25E5%25AD%25A3%25E6%258C%2581%25E7%25BB%25AD%25E6%2580%25A7%25E6%259A%25B4%25E9%259B%25A8%25E7%259A%2584%25E5%25A4%259A%25E5%25B0%25BA%25E5%25BA%25A6%25E7%2589%25B9%25E5%25BE%2581%25E5%258F%258A%25E6%259C%25BA%25E7%2590%2586%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E6%88%91%E5%9B%BD%E5%8D%97%E6%96%B9%E6%9A%96%E5%AD%A3%E6%8C%81%E7%BB%AD%E6%80%A7%E6%9A%B4%E9%9B%A8%E7%9A%84%E5%A4%9A%E5%B0%BA%E5%BA%A6%E7%89%B9%E5%BE%81%E5%8F%8A%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>中国科学院 大气物理研究所</li>
     </ul>
@@ -212,8 +212,8 @@
     <li>张元春，2013届博士毕业生</li>
     <ul>
       <li>
-        博士论文 《青藏高原东部东移对流系统影响江淮流域降水研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        博士论文 《青藏高原东部对流系统东移影响江淮流域降水研究》
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20126557&title=%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E4%B8%9C%E9%83%A8%E5%AF%B9%E6%B5%81%E7%B3%BB%E7%BB%9F%E4%B8%9C%E7%A7%BB%E5%BD%B1%E5%93%8D%E6%B1%9F%E6%B7%AE%E6%B5%81%E5%9F%9F%E9%99%8D%E6%B0%B4%E7%A0%94%E7%A9%B6&author=%E5%BC%A0%E5%85%83%E6%98%A5&highsearch=author_name%253A345345345%25E5%25BC%25A0%25E5%2585%2583%25E6%2598%25A5345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E5%BC%A0%E5%85%83%E6%98%A5" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>中国科学院 大气物理研究所</li>
     </ul>
@@ -227,7 +227,7 @@
     <ul>
       <li>
         博士论文 《我国江淮和黄淮流域中尺度对流系统的特征研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20126544&title=%E6%88%91%E5%9B%BD%E6%B1%9F%E6%B7%AE%E5%92%8C%E9%BB%84%E6%B7%AE%E6%B5%81%E5%9F%9F%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%AF%B9%E6%B5%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6&author=%E9%83%91%E6%B7%8B%E6%B7%8B&highsearch=title_all%253A345345345%25E6%2588%2591%25E5%259B%25BD%25E6%25B1%259F%25E6%25B7%25AE%25E5%2592%258C%25E9%25BB%2584%25E6%25B7%25AE%25E6%25B5%2581%25E5%259F%259F%25E4%25B8%25AD%25E5%25B0%25BA%25E5%25BA%25A6%25E5%25AF%25B9%25E6%25B5%2581%25E7%25B3%25BB%25E7%25BB%259F%25E7%259A%2584%25E7%2589%25B9%25E5%25BE%2581%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E6%88%91%E5%9B%BD%E6%B1%9F%E6%B7%AE%E5%92%8C%E9%BB%84%E6%B7%AE%E6%B5%81%E5%9F%9F%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%AF%B9%E6%B5%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>安徽省气象局</li>
     </ul>
@@ -241,7 +241,7 @@
     <ul>
       <li>
         博士论文 《多梅年暴雨中尺度涡旋特征及发展移动机理研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20112105&title=%E5%A4%9A%E6%A2%85%E5%B9%B4%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%B0%BA%E5%BA%A6%E6%B6%A1%E6%97%8B%E7%89%B9%E5%BE%81%E5%8F%8A%E5%8F%91%E5%B1%95%E7%A7%BB%E5%8A%A8%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6&author=%E4%BA%8E%E7%BF%A1&highsearch=title_all%253A345345345%25E5%25A4%259A%25E6%25A2%2585%25E5%25B9%25B4%25E6%259A%25B4%25E9%259B%25A8%25E4%25B8%25AD%25E5%25B0%25BA%25E5%25BA%25A6%25E6%25B6%25A1%25E6%2597%258B%25E7%2589%25B9%25E5%25BE%2581%25E5%258F%258A%25E5%258F%2591%25E5%25B1%2595%25E7%25A7%25BB%25E5%258A%25A8%25E6%259C%25BA%25E7%2590%2586%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E5%A4%9A%E6%A2%85%E5%B9%B4%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%B0%BA%E5%BA%A6%E6%B6%A1%E6%97%8B%E7%89%B9%E5%BE%81%E5%8F%8A%E5%8F%91%E5%B1%95%E7%A7%BB%E5%8A%A8%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
         <button><a href="/pdf/dissertation/2012-yufei.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
       </li>
       <li>中国气象局 国家气象中心</li>
@@ -282,8 +282,8 @@
     <li>张立生，2008届博士毕业生</li>
     <ul>
       <li>
-        博士论文 《淮河流域致洪暴雨及其中尺度涡旋的发生发展研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        博士论文 《江淮流域中尺度对流诱生涡旋的结构和演变特征研究》
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20046445&title=%E6%B1%9F%E6%B7%AE%E6%B5%81%E5%9F%9F%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%AF%B9%E6%B5%81%E8%AF%B1%E7%94%9F%E6%B6%A1%E6%97%8B%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E6%BC%94%E5%8F%98%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6&author=%E5%BE%90%E5%B9%BF%E9%98%94&highsearch=author_name%253A345345345%25E5%25BE%2590%25E5%25B9%25BF%25E9%2598%2594345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E5%BE%90%E5%B9%BF%E9%98%94" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>中国气象局 国家气象中心</li>
     </ul>
@@ -325,7 +325,7 @@
     <ul>
       <li>
         硕士论文 《2009年6月两次造成地面大风的飑线的结构特征对比研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20108688&title=2009%E5%B9%B46%E6%9C%88%E4%B8%A4%E6%AC%A1%E9%80%A0%E6%88%90%E5%9C%B0%E9%9D%A2%E5%A4%A7%E9%A3%8E%E7%9A%84%E9%A3%91%E7%BA%BF%E7%9A%84%E7%BB%93%E6%9E%84%E7%89%B9%E5%BE%81%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6&author=%E6%A2%81%E5%BB%BA%E5%AE%87&highsearch=author_name%253A345345345%25E6%25A2%2581%25E5%25BB%25BA%25E5%25AE%2587345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E6%A2%81%E5%BB%BA%E5%AE%87" style="text-decoration: none; color: #3F50B6;">Link</a></button>
         <button><a href="/pdf/dissertation/2011-liangjianyu.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
       </li>
     </ul>
@@ -339,7 +339,7 @@
     <ul>
       <li>
         硕士论文 《2007年江淮流域梅雨期中尺度对流系统（MCS）特征研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20055179&title=2007%E5%B9%B4%E6%B1%9F%E6%B7%AE%E6%B5%81%E5%9F%9F%E6%A2%85%E9%9B%A8%E6%9C%9F%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%AF%B9%E6%B5%81%E7%B3%BB%E7%BB%9F%EF%BC%88MCS%EF%BC%89%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6&author=%E5%AD%9F%E5%BA%86%E6%B6%9B&highsearch=author_name%253A345345345%25E5%25AD%259F%25E5%25BA%2586%25E6%25B6%259B345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E5%AD%9F%E5%BA%86%E6%B6%9B" style="text-decoration: none; color: #3F50B6;">Link</a></button>
         <button><a href="/pdf/dissertation/2009-mengqingtao.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
       </li>
       <li>中国气象局 国家气象中心</li>
@@ -368,9 +368,9 @@
     <ul>
       <li>
         硕士论文 《东北暴雨天气气候特征及东北低涡结构研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20042742&title=%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%94%E6%B0%94%E5%80%99%E7%89%B9%E5%BE%81%E5%8F%8A%E4%B8%9C%E5%8C%97%E4%BD%8E%E6%B6%A1%E7%BB%93%E6%9E%84%E7%A0%94%E7%A9%B6&author=%E4%B9%94%E6%9E%AB%E9%9B%AA&highsearch=title_all%253A345345345%25E4%25B8%259C%25E5%258C%2597%25E6%259A%25B4%25E9%259B%25A8%25E5%25A4%25A9%25E6%25B0%2594%25E6%25B0%2594%25E5%2580%2599%25E7%2589%25B9%25E5%25BE%2581%25E5%258F%258A%25E4%25B8%259C%25E5%258C%2597%25E4%25BD%258E%25E6%25B6%25A1%25E7%25BB%2593%25E6%259E%2584%25E7%25A0%2594%25E7%25A9%25B6345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%94%E6%B0%94%E5%80%99%E7%89%B9%E5%BE%81%E5%8F%8A%E4%B8%9C%E5%8C%97%E4%BD%8E%E6%B6%A1%E7%BB%93%E6%9E%84%E7%A0%94%E7%A9%B6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
-      <li>华东师范大学</li>
+      <li>华东师范大学（现工作单位）</li>
     </ul>
   </ul>
 </div>
