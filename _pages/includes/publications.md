@@ -729,21 +729,27 @@
 
 - Sun J, Zhao L (2008) Numerical simulation of two East Asian dust storms in spring 2006. Earth Surface Processes and Landforms 33(12):1892–1911. https://doi.org/10.1002/esp.1734
 <button><a href="https://doi.org/10.1002/esp.1734" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2008/sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 高守亭, 孙建华, 崔晓鹏 (2008) 暴雨中尺度系统数值模拟与动力诊断研究. 大气科学 (4):854–866
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2008.04.13" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2008/zz-gaoshouting.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵思雄 (2008) 2008年初南方雨雪冰冻灾害天气静止锋与层结结构分析. 气候与环境研究 (4):368–384
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2008.04.03" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2008/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵思雄 (2008) 2008年初南方雨雪冰冻灾害天气的大气层结和地面特征的数值模拟. 气候与环境研究 (4):510–519
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2008.04.15" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2008/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵思雄, 孙建华 (2008) 2008年初南方雨雪冰冻天气的环流场与多尺度特征. 气候与环境研究 (4):351–367
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2008.04.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2008/zz-zhaosixiong.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 黄翠银, 沈新勇, 孙建华, 齐琳琳 (2008) 一次由海岸锋引发山东半岛暴雪过程的研究. 气候与环境研究 (4):567–583
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2008.04.21" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2008/zz-huangcuiyin.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -753,36 +759,47 @@
 
 - Zhao S, Bei N, Sun J (2007) Mesoscale analysis of a heavy rainfall event over Hong Kong during a pre-rainy season in South China. Advance in Atmospheric Sciences 24(4):555–572. https://doi.org/10.1007/s00376-007-0555-2
 <button><a href="https://doi.org/10.1007/s00376-007-0555-2" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zhaosixiong-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Zhao S, Sun J (2007) Study on cut-off low-pressure systems with floods over Northeast Asia. Meteorol Atmos Phys 96(1):159–180. https://doi.org/10.1007/s00703-006-0226-3
 <button><a href="https://doi.org/10.1007/s00703-006-0226-3" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zhaosixiong-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 乔枫雪, 赵思雄, 孙建华 (2007) 一次引发暴雨的东北低涡的涡度和水汽收支分析. 气候与环境研究 (3):397–412
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.03.21" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-qiaofengxue.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 卫捷, 孙建华 (2007) 华北地区夏季高温闷热天气特征的分析. 气候与环境研究 (3):453–463
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.03.25" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-weijie-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 卫捷, 陈红, 孙建华, 陶诗言, 张庆云, 赵思雄 (2007) 2006年夏季中国的异常气候——中国科学院大气物理研究所短期气候预测检验. 气候与环境研究 (1):1–7
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.01.01" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-weijie-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵琳娜, 赵思雄 (2007) 2006年春季一次引起华北地区强沉降的沙尘暴过程的模拟研究. 气候与环境研究 (3):339–349
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.03.15" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 齐琳琳, 朱江, 赵思雄 (2007) 三维变分系统在我国夏季降雨预测中的应用试验. 气候与环境研究 (3):413–425
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.03.22" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 张立生, 孙建华, 赵思雄, 亓翠云 (2007) 长江中游暖切变型暴雨的分析研究. 气候与环境研究 (2):165–180
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.02.06" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-zhanglisheng.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵思雄, 张立生, 孙建华 (2007) 2007年淮河流域致洪暴雨及其中尺度系统特征的分析. 气候与环境研究 (6):713–727
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.06.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-zhangsixiong.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵琳娜, 孙建华, 王超, 赵思雄 (2007) 2006年春季最强沙尘暴过程的数值分析. 气候与环境研究 (3):309–319
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.03.12" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-zhaolinna.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 陈红, 卫捷, 孙建华, 赵思雄, 陶诗言 (2007) 2006年夏季主要天气系统及环流特征分析. 气候与环境研究 (1):8–19
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2007.01.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2007/zz-chenhong.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -792,27 +809,35 @@
 
 - Qi L, Sun J (2006) Application of ATOVS microwave radiance assimilation to rainfall prediction in Summer 2004. Advance in Atmospheric Sciences 23(5):815–830. https://doi.org/10.1007/s00376-006-0815-6
 <button><a href="https://doi.org/10.1007/s00376-006-0815-6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/qilinlin.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Sun J, Zhao L, Zhao S, Zhang R (2006) An integrated dust storm prediction system suitable for east Asia and its simulation results. Global and Planetary Change 52(1):71–87. https://doi.org/10.1016/j.gloplacha.2006.02.005
 <button><a href="https://doi.org/10.1016/j.gloplacha.2006.02.005" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 卫捷, 孙建华, 陶诗言, 张庆云 (2006) 2005年夏季中国东部气候异常分析——中国科学院大气物理研究所短期气候预测检验. 气候与环境研究 (2):155–168
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2006.02.03" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/zz-weijie.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 夏茹娣, 赵思雄, 孙建华 (2006) 一类华南锋前暖区暴雨β中尺度系统环境特征的分析研究. 大气科学 (5):988–1008
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2006.05.26" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/zz-xiarudi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 卫捷, 赵思雄, 陶诗言 (2006) 2005年夏季的主要天气及其环流分析. 气候与环境研究 (2):138–154
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2006.02.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 周海光, 赵思雄 (2006) 2003年7月3~5日淮河流域大暴雨中尺度对流系统的观测分析. 大气科学 (6):1103–1118
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2006.06.05" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 齐琳琳, 赵思雄 (2006) “9608”号台风登陆北上引发北方特大暴雨的中尺度对流系统研究. 气象学报 (1):57–71
 <button><a href="http://qxxb.cmsjournal.net/cn/article/doi/10.11676/qxxb2006.006" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/zz-sunjianhua-3.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 齐琳琳, 孙建华, 连樱, 马环宇 (2006) 热带气旋“蒲公英”两次登陆过程的灾害与结构特征. 气候与环境研究 (4):499–513
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2006.04.07" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2006/zz-qilinlin.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -822,21 +847,27 @@
 
 - Sun J, Zhang X, Qi L, Zhao S (2005) An analysis of a meso-β system in a mei-yu front using the intensive observation data during CHeRES 2002. Advance in Atmospheric Sciences 22(2):278–289. https://doi.org/10.1007/BF02918517
 <button><a href="https://doi.org/10.1007/BF02918517" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2005/sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Zhang R, Arimoto R, An J, Yabuki S, Sun J (2005) Ground observations of a strong dust storm in Beijing in March 2002. Journal of Geophysical Research: Atmospheres 110(D18). https://doi.org/10.1029/2004JD004589
 <button><a href="https://doi.org/10.1029/2004JD004589" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2005/zhangrenjian.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 卫捷, 张小玲, 赵思雄, 陶诗言 (2005) 2004年夏季的天气及预测试验. 气候与环境研究 (1):1–18
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2005.01.01" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2005/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 张小玲, 卫捷, 赵思雄 (2005) 20世纪90年代华北大暴雨过程特征的分析研究. 气候与环境研究 (3):214–228
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2005/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 雷航, 林朝晖, 孙建华 (2005) 一个改进的沙尘天气数值预测系统及其模拟试验. 气候与环境研究 (3):391–405
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2005.03.20" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2005/zz-leihang.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 齐琳琳, 孙建华, 张小玲, 赵思雄 (2005) ATOVS资料在长江流域一次暴雨过程模拟中的应用. 大气科学 (5):780–794
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2005.05.11" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2005/zz-qilinlin.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -846,24 +877,31 @@
 
 - 孙建华, 卫捷, 张小玲, 陈红, 赵思雄, 陶诗言 (2004) 2003年夏季的异常天气及预测试验. 气候与环境研究 (1):203–217
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2004.01.20" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2004/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 张小玲, 齐琳琳, 张高英, 赵思雄, 陶诗言 (2004) 2002年中国暴雨试验期间一次低涡切变上发生发展的中尺度对流系统研究. 大气科学 (5):675–691
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2004.05.03" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2004/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 张小玲, 齐琳琳, 张高英, 赵思雄, 陶诗言 (2004) 2002年6月20～24日梅雨锋中尺度对流系统发生发展分析. 气象学报 (4):423–438
 <button><a href="http://qxxb.cmsjournal.net/cn/article/doi/10.11676/qxxb2004.043" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2004/zz-sunjianhua-3.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵琳娜, 赵思雄 (2004) 华北强沙尘暴的数值模拟及沙源分析. 气候与环境研究 (1):139–154
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2004.01.14" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2004/zz-sunjianhua-4.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 张小玲, 孙建华, 陶诗言, 赵思雄 (2004) 2002年8月湖南致洪强降水过程与成因分析. 气候与环境研究 (3):475–493
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2004.03.07" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2004/zz-zhangxiaoling.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 张高英, 赵思雄, 孙建华 (2004) 近年来强沙尘暴天气气候特征的分析研究. 气候与环境研究 (1):101–115
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2004.01.11" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2004/zz-zhanggaoying.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵琳娜, 孙建华, 赵思雄 (2004) 2002年3月20日沙尘暴天气的影响系统、起沙和输送的数值模拟. 干旱区资源与环境 (S1):72–80
 <button><a href="https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=GHZH2004S1011&DbName=CJFD2004&DbCode=CJFD&yx=&pr=&URLID=" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2004/zz-zhaolinna.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -874,15 +912,19 @@
 
 - 孙建华, 赵思维 (2003) 华北地区“12·7”降雪过程的数值模拟研究. 气候与环境研究 (4):387–401
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2003.04.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2003/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵思雄 (2003) 1998年夏季长江流域梅雨期环流演变的特殊性探讨. 气候与环境研究 (3):291–306
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2003.03.04" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2003/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵琳娜, 赵思雄 (2003) 一个适用于我国北方的沙尘暴天气数值预测系统及其应用试验. 气候与环境研究 (2):125–142
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2003.02.01" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2003/zz-sunjianhua-3.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 林朝晖, 孙建华, 卫捷, 周广庆, 张小玲, 陈红, 郎咸梅 (2003) 2002年夏季气候及汛期实时预测与检验. 气候与环境研究 (3):241–257
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2003.03.01" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2003/zz-linzhaohui.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -893,21 +935,27 @@
 
 - Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convection band over the Korean Peninsula. Journal of the Meteorological Society of Japan 80(5):1221–1245. https://doi.org/10.2151/jmsj.80.1221
 <button><a href="https://doi.org/10.2151/jmsj.80.1221" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2002/sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵思雄 (2002) 华南“94·6”特大暴雨的中尺度对流系统及其环境场研究 Ⅰ.引发暴雨的β中尺度对流系统的数值模拟研究. 大气科学 (4):541–557
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2002.04.11" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2002/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵思雄 (2002) 华南“94·6”特大暴雨的中尺度对流系统及其环境场研究 Ⅱ.物理过程、环境场以及地形对中尺度对流系统的作用. 大气科学 (5):633–646
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2002.05.05" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2002/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵思雄, 孙建华, 陈红, 齐琳琳, 赵翼浚, 李爱国, 李云云 (2002) 北京“12·7”降雪过程的分析研究. 气候与环境研究 (1):7–21
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2002.01.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2002/zz-zhaosixiong-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵思雄, 贝耐芳, 孙建华, 陈红, 张凤, 祁立新 (2002) 亚澳中低纬度区域暴雨天气系统研究. 气候与环境研究 (4):377–385
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2002.04.01" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2002/zz-zhaosixiong-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵琳娜, 孙建华, 赵思雄 (2002) 一次引发华北和北京沙尘(暴)天气起沙机制的数值模拟研究. 气候与环境研究 (3):279–294
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2002.03.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2002/zz-zhaolinna.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -916,12 +964,13 @@
 <h2 style="text-indent: 1em;">2001</h2>
 <!-- <button><a href="/pdf/article/2001/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
-
 - 陈红, 孙建华, 赵思雄, 曾庆存 (2001) 青藏高原人工水汽通道对西北地区夏季降水及环流的影响——I.对降水过程个例的模拟试验. 气候与环境研究 (4):371–379
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2001.04.01" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2001/zz-chenhong.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 陈红, 赵思雄, 曾庆存 (2001) 青藏高原人工水汽通道对西北地区夏季降水及环流的影响——Ⅱ.对月降水量的模拟试验. 气候与环境研究 (4):380–390
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2001.04.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2001/zz-sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -933,9 +982,11 @@
 
 - 孙建华, 赵思雄 (2000) 一次罕见的华南大暴雨过程的诊断与数值模拟研究. 大气科学 (3):381–392
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2000.03.10" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2000/zz-sunjianhua-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 赵思雄 (2000) 登陆台风引发的暴雨过程之诊断研究. 大气科学 (2):223–237
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2000.02.11" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2000/zz-sunjianhua-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
