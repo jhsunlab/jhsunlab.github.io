@@ -497,33 +497,43 @@
 
 - Fu S, Sun J, Sun J (2014) Accelerating two-stage explosive development of an extratropical cyclone over the northwestern Pacific Ocean: a piecewise potential vorticity diagnosis. Tellus A: Dynamic Meteorology and Oceanography 66(1):23210. https://doi.org/10.3402/tellusa.v66.23210
 <button><a href="https://doi.org/10.3402/tellusa.v66.23210" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/fushenming-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Fu S, Sun J, Qi L (2014) Study on the Evolution of a Northeast China Cold Vortex during the Spring of 2010. Atmospheric and Oceanic Science Letters 7(2):149–156. https://doi.org/10.3878/j.issn.1674-2834.13.0077
 <button><a href="https://doi.org/10.3878/j.issn.1674-2834.13.0077" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/fushenming-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Fu S, Zhang J, Sun J, Shen X (2014) A fourteen-year climatology of the Southwest Vortex in summer. Atmospheric and Oceanic Science Letters 7(6):510–514. https://doi.org/10.3878/AOSL20140047
 <button><a href="https://doi.org/10.3878/AOSL20140047" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/fushenming-3.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Yang X, Sun J (2014) The characteristics of cloud-to-ground lightning activity with severe thunderstorm wind in South and North China. Atmospheric and Oceanic Science Letters 7(6):571–576. https://doi.org/10.3878/AOSL20140046
 <button><a href="https://doi.org/10.3878/AOSL20140046" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/yangxinlin.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Zhang Y, Sun J, Fu S (2014) Impacts of diurnal variation of mountain-plain solenoid circulations on precipitation and vortices east of the Tibetan Plateau during the mei-yu season. Advance in Atmospheric Sciences 31(1):139–153. https://doi.org/10.1007/s00376-013-2052-0
 <button><a href="https://doi.org/10.1007/s00376-013-2052-0" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/zhangyuanchun-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Zhang Y, Zhang F, Sun J (2014) Comparison of the diurnal variations of warm-season precipitation for East Asia vs. North America downstream of the Tibetan Plateau vs. the Rocky Mountains. Atmos Chem Phys 14(19):10741–10759. https://doi.org/10.5194/acp-14-10741-2014
 <button><a href="https://doi.org/10.5194/acp-14-10741-2014" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/zhangyuanchun-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 孙建华, 郑淋淋, 赵思雄 (2014) 水汽含量对飑线组织结构和强度影响的数值试验. 大气科学 38(4):742–755
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2013.13187" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/zz-sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 汪汇洁, 孙建华, 卫捷, 赵思雄 (2014) 近30年我国南方区域持续性暴雨过程的分类研究. 气候与环境研究 19(6):713–725
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2013.13143" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/zz-wanghuijie-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 汪汇洁, 孙建华, 赵思雄, 傅慎明 (2014) 2010年秋季一次海南东海岸特大暴雨的中尺度分析. 热带气象学报 30(3):518–532
 <button><a href="http://rdqx.ijournals.cn/ch/reader/view_abstract.aspx?file_no=20140313&flag=1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/zz-wanghuijie-2.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 王璐璐, 孙建华, 沈新勇, 黄伟 (2014) 江淮流域无层状云线状对流系统发生的环境条件和地面特征分析. 热带气象学报 30(3):551–558
 <button><a href="http://rdqx.ijournals.cn/ch/reader/view_abstract.aspx?file_no=20140316&flag=1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2014/zz-wanglulu.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
