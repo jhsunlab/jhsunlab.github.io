@@ -382,7 +382,6 @@
     <ul>
       <li>
         硕士论文 《沙尘（暴）天气数值预测系统的改进及其模拟和预测研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
     </ul>
   </ul>
