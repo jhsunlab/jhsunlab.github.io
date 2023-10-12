@@ -493,6 +493,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2014</h2>
+<!-- <button><a href="/pdf/article/2014/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Fu S, Sun J, Sun J (2014) Accelerating two-stage explosive development of an extratropical cyclone over the northwestern Pacific Ocean: a piecewise potential vorticity diagnosis. Tellus A: Dynamic Meteorology and Oceanography 66(1):23210. https://doi.org/10.3402/tellusa.v66.23210
 <button><a href="https://doi.org/10.3402/tellusa.v66.23210" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -502,6 +503,9 @@
 
 - Fu S, Zhang J, Sun J, Shen X (2014) A fourteen-year climatology of the Southwest Vortex in summer. Atmospheric and Oceanic Science Letters 7(6):510–514. https://doi.org/10.3878/AOSL20140047
 <button><a href="https://doi.org/10.3878/AOSL20140047" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Fu S, Li W, Sun J, Zhang J, Zhang Y (2015) Universal evolution mechanisms and energy conversion characteristics of long‐lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters 16(2):127–134. https://doi.org/10.1002/asl2.533
+<button><a href="https://doi.org/10.1002/asl2.533" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Yang X, Sun J (2014) The characteristics of cloud-to-ground lightning activity with severe thunderstorm wind in South and North China. Atmospheric and Oceanic Science Letters 7(6):571–576. https://doi.org/10.3878/AOSL20140046
 <button><a href="https://doi.org/10.3878/AOSL20140046" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -529,6 +533,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2013</h2>
+<!-- <button><a href="/pdf/article/2013/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Zheng L, Sun J, Zhang X, Liu C (2013) Organizational modes of mesoscale convective systems over central East China. Weather and Forecasting 28(5):1081–1098. https://doi.org/10.1175/WAF-D-12-00088.1
 <button><a href="https://doi.org/10.1175/WAF-D-12-00088.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -550,6 +555,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2012</h2>
+<!-- <button><a href="/pdf/article/2012/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Yu F, Fu S, Zhao S, Sun J (2012) Study on the dynamic characteristics of an eastward-offshore mesoscale vortex along the Meiyu-Baiu front. Atmospheric and Oceanic Science Letters 5(5):360–366. https://doi.org/10.1080/16742834.2012.11447016
 <button><a href="https://doi.org/10.1080/16742834.2012.11447016" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -583,6 +589,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2011</h2>
+<!-- <button><a href="/pdf/article/2011/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Bao X, Zhang F, Sun J (2011) Diurnal variations of warm-season precipitation east of the Tibetan Plateau over China. Monthly Weather Review 139(9):2790–2810. https://doi.org/10.1175/MWR-D-11-00006.1
 <button><a href="https://doi.org/10.1175/MWR-D-11-00006.1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -616,6 +623,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2010</h2>
+<!-- <button><a href="/pdf/article/2010/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Cui L, Sun J, Qi L (2010) Two bias correction dchemes for ATOVS radiance data. Journal of Tropical Meteorology 16(1):71–76
 <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -646,6 +654,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2009</h2>
+<!-- <button><a href="/pdf/article/2009/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Sun J, Zhao S (2009) The freezing precipitation over the middle-lower reaches of the Yangtze River during February-March 2009. Atmospheric and Oceanic Science Letters 2(3):177–182. https://doi.org/10.1080/16742834.2009.11446797
 <button><a href="https://doi.org/10.1080/16742834.2009.11446797" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -669,6 +678,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2008</h2>
+<!-- <button><a href="/pdf/article/2008/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Sun J, Zhao L (2008) Numerical simulation of two East Asian dust storms in spring 2006. Earth Surface Processes and Landforms 33(12):1892–1911. https://doi.org/10.1002/esp.1734
 <button><a href="https://doi.org/10.1002/esp.1734" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -689,6 +699,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2007</h2>
+<!-- <button><a href="/pdf/article/2007/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Zhao S, Bei N, Sun J (2007) Mesoscale analysis of a heavy rainfall event over Hong Kong during a pre-rainy season in South China. Advance in Atmospheric Sciences 24(4):555–572. https://doi.org/10.1007/s00376-007-0555-2
 <button><a href="https://doi.org/10.1007/s00376-007-0555-2" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -727,6 +738,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2006</h2>
+<!-- <button><a href="/pdf/article/2006/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Qi L, Sun J (2006) Application of ATOVS microwave radiance assimilation to rainfall prediction in Summer 2004. Advance in Atmospheric Sciences 23(5):815–830. https://doi.org/10.1007/s00376-006-0815-6
 <button><a href="https://doi.org/10.1007/s00376-006-0815-6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -756,6 +768,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2005</h2>
+<!-- <button><a href="/pdf/article/2005/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Sun J, Zhang X, Qi L, Zhao S (2005) An analysis of a meso-β system in a mei-yu front using the intensive observation data during CHeRES 2002. Advance in Atmospheric Sciences 22(2):278–289. https://doi.org/10.1007/BF02918517
 <button><a href="https://doi.org/10.1007/BF02918517" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -779,6 +792,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2004</h2>
+<!-- <button><a href="/pdf/article/2004/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - 孙建华, 卫捷, 张小玲, 陈红, 赵思雄, 陶诗言 (2004) 2003年夏季的异常天气及预测试验. 气候与环境研究 (1):203–217
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2004.01.20" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -806,6 +820,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2003</h2>
+<!-- <button><a href="/pdf/article/2003/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - 孙建华, 赵思维 (2003) 华北地区“12·7”降雪过程的数值模拟研究. 气候与环境研究 (4):387–401
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2003.04.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -824,6 +839,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2002</h2>
+<!-- <button><a href="/pdf/article/2002/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - Sun J, Lee T-Y (2002) A numerical study of an intense quasi-stationary convection band over the Korean Peninsula. Journal of the Meteorological Society of Japan 80(5):1221–1245. https://doi.org/10.2151/jmsj.80.1221
 <button><a href="https://doi.org/10.2151/jmsj.80.1221" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -848,6 +864,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2001</h2>
+<!-- <button><a href="/pdf/article/2001/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 
 - 陈红, 孙建华, 赵思雄, 曾庆存 (2001) 青藏高原人工水汽通道对西北地区夏季降水及环流的影响——I.对降水过程个例的模拟试验. 气候与环境研究 (4):371–379
@@ -862,6 +879,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">2000</h2>
+<!-- <button><a href="/pdf/article/2000/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - 孙建华, 赵思雄 (2000) 一次罕见的华南大暴雨过程的诊断与数值模拟研究. 大气科学 (3):381–392
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2000.03.10" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -875,6 +893,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">1999</h2>
+<!-- <button><a href="/pdf/article/1999/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - 孙建华, 陈红, 赵思雄, 曾庆存, 谢庄, 崔继良, 刘海涛 (1999) 华北和北京的酷暑天气 II.模拟试验和机理分析. 气候与环境研究 (4):334–345
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.1999.04.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -889,6 +908,7 @@
 
 <br>
 <h2 style="text-indent: 1em;">1998</h2>
+<!-- <button><a href="/pdf/article/1998/.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button> -->
 
 - 陈红, 孙建华, 贝耐芳, 王俊, 张宝严, 杜长萱, 蔡则怡, 赵思雄 (1998) 1998年中国科学院大气物理研究所气候与环境预测研究中心汛期暴雨短期数值预测. 气候与环境研究 (4):95–102
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.1998.04.10" style="text-decoration: none; color: #3F50B6;">Link</a></button>
