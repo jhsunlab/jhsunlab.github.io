@@ -998,9 +998,11 @@
 
 - 孙建华, 陈红, 赵思雄, 曾庆存, 谢庄, 崔继良, 刘海涛 (1999) 华北和北京的酷暑天气 II.模拟试验和机理分析. 气候与环境研究 (4):334–345
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.1999.04.02" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/1999/zz-sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 谢庄, 崔继良, 刘海涛, 赵思雄, 孙建华, 陈红, 曾庆存 (1999) 华北和北京的酷暑天气 I.历史概况及个例分析. 气候与环境研究 (4):323–333
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.1999.04.01" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/1999/zz-xiezhuang.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
@@ -1013,10 +1015,11 @@
 
 - 陈红, 孙建华, 贝耐芳, 王俊, 张宝严, 杜长萱, 蔡则怡, 赵思雄 (1998) 1998年中国科学院大气物理研究所气候与环境预测研究中心汛期暴雨短期数值预测. 气候与环境研究 (4):95–102
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.1998.04.10" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/1998/zz-chenhong.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 赵思雄, 孙建华, 陈红, 张凤 (1998) 1998年7月长江流域特大洪水期间暴雨特征的分析研究. 气候与环境研究 (4):81–94
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.1998.04.09" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
+<button><a href="/pdf/article/1998/zz-zhaosixiong.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 
 
