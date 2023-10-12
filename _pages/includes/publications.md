@@ -83,11 +83,9 @@
 
 - 汤欢, 傅慎明, 孙建华, 周象贤 (2023) 基于高分辨率再分析风场的高原涡三维识别技术及应用. 大气科学 47(3):698–712
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2112.21127" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2023/zz-tanghuan.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 张元春, 孙建华, 傅慎明, 汪汇洁, 付亚男, 汤欢, 魏倩 (2023) “21·7”河南特大暴雨的中尺度系统活动特征. 大气科学 47(4):1196–1216
 <button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2302.22135" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2023/zz-zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 周晓敏, 田付友, 郑永光, 孙建华, 王超 (2023). 中国短时强降雨对暴雨的贡献特征. 气象, 49(3), 267–278.
 <button><a href="http://qxqk.nmc.cn/qx/ch/reader/view_abstract.aspx?flag=1&file_no=20230302&journal_id=qx" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -116,7 +114,6 @@
 
 - Jiang L, Fu S, Sun J, Fu R, Li W, Zhao S, Wang H (2022) Surface wind and vertical extent features of the explosive cyclones in the Northern Hemisphere based on the ERA-I reanalysis data. International Journal of Climatology 42(2):993–1014. https://doi.org/10.1002/joc.7284
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.7284" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2022/jianglizhi.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Sun J, Fu S, Wang H, Zhang Y, Chen Y, Su A, Wang Y, Tang H, Ma R (2022) Primary characteristics of the extreme heavy rainfall event over Henan in July 2021. Atmospheric Science Letters 24(1):e1131. https://doi.org/10.1002/asl.1131
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asl.1131" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -280,7 +277,6 @@
 
 - Li W, Xia R, Sun J, Fu S, Jiang L, Chen B, Tian F (2019). Layer-wise formation mechanisms of an entire-yroposphere-thick extratropical cyclone that induces a record-breaking catastrophic rainstorm in Beijing. Journal of Geophysical Research: Atmospheres, 124(20), 10567–10591. https://doi.org/10.1029/2019JD030868
 <button><a href="https://onlinelibrary.wiley.com/doi/abs/10.1029/2019JD030868" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2019/liwanli.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Meng Z, Zhang F, Luo D, Tan Z, Fang J, Sun J, et al. (2019). Review of Chinese atmospheric science research over the past 70 years: Synoptic meteorology. Science China Earth Sciences, 62(12), 1946–1991. https://doi.org/10.1007/s11430-019-9534-6
 <button><a href="https://doi.org/10.1007/s11430-019-9534-6" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -308,7 +304,6 @@
 
 - 孟亚楠, 孙建华, 卫捷, 赵琳娜 (2019). 1981～2015年华北地区持续霾事件的特征及其环流分类研究. 气候与环境研究, 24(3), 341–358.
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2018.18016" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2019/zz-mengyanan.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - 张元春, 李娟,  孙建华 (2019). 青藏高原热力对四川盆地西部一次持续性暴雨影响的数值模拟. 气候与环境研究, 24(1), 37–49.
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2018.17166" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -364,7 +359,6 @@
 
 - Fu S, Cao J, Jiang X, Sun J (2017). On the variation of divergent flow: an eddy-flux form equation based on the quasi-geostrophic balance and its application. Advances in Atmospheric Sciences, 34(5), 599–612. https://doi.org/10.1007/s00376-016-6212-x
 <button><a href="https://doi.org/10.1007/s00376-016-6212-x" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2017/fushenming-1.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
 - Fu S, Sun J, Luo Y, Zhang Y (2017). Formation of long-lived summertime mesoscale vortices over Central East China:Semi-idealized simulations based on a 14-year vortex statistic. Journal of the Atmospheric Sciences, 74(12), 3955–3979. https://doi.org/10.1175/JAS-D-16-0328.1
 <button><a href="https://journals.ametsoc.org/view/journals/atsc/74/12/jas-d-16-0328.1.xml" style="text-decoration: none; color: #3F50B6;">Link</a></button>
@@ -487,13 +481,12 @@
 <button><a href="http://qxqk.nmc.cn/qx/ch/reader/view_abstract.aspx?flag=1&file_no=20150502&journal_id=qx" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2015/zz-sunjianhua.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
 
-- 张敬萍, 傅慎明, 孙建华, 沈新勇, 张元春 (2015). 夏季长江流域两类中尺度涡旋的统计与合成研究. 气候与环境研究, 20(3), 319–336.
-<button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2015.14164" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2015/zz-zhangjingping.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-
 - 王璐璐, 孙建华, 陈潇潇, 钱昊钟, 周彬, 沈雨辰, 查书瑶 (2015). 梅雨期一次线状对流系统的结构特征研究. 热带气象学报, 31(6), 766–781. https://doi.org/10.16032/j.issn.1004-4965.2015.06.005
 <button><a href="http://rdqx.ijournals.cn/ch/reader/view_abstract.aspx?file_no=20150605&flag=1" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 <button><a href="/pdf/article/2015/zz-wanglulu.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+- 张敬萍, 傅慎明, 孙建华, 沈新勇, 张元春 (2015). 夏季长江流域两类中尺度涡旋的统计与合成研究. 气候与环境研究, 20(3), 319–336.
+<button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2015.14164" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
