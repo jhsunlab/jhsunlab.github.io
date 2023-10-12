@@ -646,6 +646,8 @@
 - 齐琳琳, 王晓丹, 宁应惠, 孙建华 (2010) 耦合模式在局地辐射雾三维数值模拟研究中的应用. 气候与环境研究 15(1):53–63
 <button><a href="http://www.iapjournals.ac.cn/qhhj/cn/article/doi/10.3878/j.issn.1006-9585.2010.01.06" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
+- 赵文斌, 齐琳琳, 何宏让, 孙建华 (2010) 暴雨模拟中多普勒雷达径向速度变分同化的应用. 气象科技 38(1):37–43. https://doi.org/10.19517/j.1671-6345.2010.01.008
+<button><a href="https://doi.org/10.19517/j.1671-6345.2010.01.008" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 
 
