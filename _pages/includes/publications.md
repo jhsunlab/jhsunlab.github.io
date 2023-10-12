@@ -504,9 +504,6 @@
 - Fu S, Zhang J, Sun J, Shen X (2014) A fourteen-year climatology of the Southwest Vortex in summer. Atmospheric and Oceanic Science Letters 7(6):510–514. https://doi.org/10.3878/AOSL20140047
 <button><a href="https://doi.org/10.3878/AOSL20140047" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
-- Fu S, Li W, Sun J, Zhang J, Zhang Y (2015) Universal evolution mechanisms and energy conversion characteristics of long‐lived mesoscale vortices over the Sichuan Basin. Atmospheric Science Letters 16(2):127–134. https://doi.org/10.1002/asl2.533
-<button><a href="https://doi.org/10.1002/asl2.533" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-
 - Yang X, Sun J (2014) The characteristics of cloud-to-ground lightning activity with severe thunderstorm wind in South and North China. Atmospheric and Oceanic Science Letters 7(6):571–576. https://doi.org/10.3878/AOSL20140046
 <button><a href="https://doi.org/10.3878/AOSL20140046" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
