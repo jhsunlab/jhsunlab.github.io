@@ -375,17 +375,7 @@
   </ul>
 </div>
 
-<div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
-  <ul>
-    <li>雷航，2006届硕士毕业生</li>
-    <ul>
-      <li>
-        硕士论文 《沙尘（暴）天气数值预测系统的改进及其模拟和预测研究》
-      </li>
-    </ul>
-  </ul>
-</div>
+
 
 <br><br><br>
 
