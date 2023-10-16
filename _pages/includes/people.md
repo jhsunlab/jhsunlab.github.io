@@ -20,7 +20,7 @@
 <p style="text-indent: 1.5em; font-size: 17px;">副研究员</p>
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/zhangyuanchun.jpg" alt="zyc" width="200" style="border-radius: 10%; margin-right: 10px">
-  <p style="text-indent: 2em; font-size: 16px;">中国科学院大气物理研究所副研究员，硕士生导师，中国科学院青年促进会成员。主要从事中尺度气象学和强对流天气的研究，发表学术论文30余篇（SCI收录10余篇），主持国家自然科学基金青年项目1项、面上项目2项。</p>
+  <p style="text-indent: 2em; font-size: 16px;">中国科学院大气物理研究所副研究员，硕士生导师，中国科学院青年促进会成员。主要从事中尺度气象学和强对流天气的研究，发表学术论文30余篇（SCI收录10余篇），主持国家自然科学基金青年项目1项、面上项目2项。button><a href="/pdf/cv_zhangyuanchun.pdf" style="text-decoration: none; color: #3F50B6;">CV</a></button></p>
 </div>
 <br>
 
