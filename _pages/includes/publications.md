@@ -67,7 +67,12 @@
 
 - Fu Y, Sun J, Fu S, Zhang Y (2023) Comparison between warm-sector and frontal heavy rainfall events in South China and the objective classification of warm-sector heavy rainfall events. Meteorology and Atmospheric Physics 135(1):11. https://doi.org/10.1007/s00703-022-00949-8
 <button><a href="https://link.springer.com/10.1007/s00703-022-00949-8" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-<button><a href="/pdf/article/2023/fushenming.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+<button><a href="/pdf/article/2023/fuyanan-map-2023.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
+- Fu Y, Sun J, Fu S, Zhang Y, Ma Z (2023) Initiations of Mesoscale Convective Systems in the Middle Reaches of the Yangtze River Basin Based on FY-4A Satellite Data: Statistical Characteristics and Environmental Conditions. Journal of Geophysical Research: Atmospheres 128(22):e2023JD038630. https://doi.org/10.1029/2023JD038630
+<button><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JD038630" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+<button><a href="/pdf/article/2023/fuyanan-jgr-2023.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+
 
 - Ma Z, Li Z, Li J, Min M, Sun J, Wei X, Schmit TJ, Cucurull L (2023) An enhanced storm warning and nowcasting model in pre-convection environments. Remote Sensing 15(10):2672. https://doi.org/10.3390/rs15102672
 <button><a href="https://www.mdpi.com/2072-4292/15/10/2672" style="text-decoration: none; color: #3F50B6;">Link</a></button>
