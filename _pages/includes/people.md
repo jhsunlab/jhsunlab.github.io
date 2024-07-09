@@ -50,10 +50,6 @@
     <p><br><b>黄玥</b><br>硕士研究生</p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/lizirui.jpg" alt="lzr" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
-    <p><br><b>李梓睿</b><br>硕士研究生</p>
-  </figure>
-  <figure style="text-align:left;">
     <img src="images/avatar/xixuejie.jpg" alt="xxj" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>席雪洁</b><br>硕士研究生</p>
   </figure>
