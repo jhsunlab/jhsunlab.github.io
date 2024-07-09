@@ -1,6 +1,27 @@
 # 毕业生及去向
 
 <div style="display: flex; align-items: center; padding: 10px;">
+  <img src="images/avatar/weiqian.jpg" alt="zjp" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
+  <ul>
+    <li>魏倩，2024届博士毕业生</li>
+    <ul>
+      <li>博士论文 《长江中游地区强对流系统的统计特征和触发机理研究》</li>
+      <li>中国科学院西北生态环境资源研究院</li>
+    </ul>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center; padding: 10px;">
+  <img src="images/avatar/lizirui.jpg" alt="zjp" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
+  <ul>
+    <li>李梓睿，2024届硕士毕业生（云南大学联培）</li>
+    <ul>
+      <li>云南省气象局</li>
+    </ul>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/avatar.jpg" alt="zjp" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
   <ul>
     <li>张敬萍，2023届博士毕业生</li>
@@ -196,6 +217,20 @@
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
   <ul>
+    <li>李娟，2015届硕士毕业生（南京信息工程大学客座）</li>
+    <ul>
+      <li>
+        硕士论文 《四川盆地西部与东部持续性暴雨过程的对比研究》
+        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+      </li>
+      <li>温州市气象局</li>
+    </ul>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center; padding: 10px;">
+  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
+  <ul>
     <li>汪汇洁，2014届博士毕业生</li>
     <ul>
       <li>
@@ -238,6 +273,20 @@
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
   <ul>
+    <li>王璐璐，2013届硕士毕业生（南京信息工程大学客座）</li>
+    <ul>
+      <li>
+        硕士论文 《江淮流域无层状云对流线的环境条件和结构特征研究》
+        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+      </li>
+      <li>无锡市气象局</li>
+    </ul>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center; padding: 10px;">
+  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
+  <ul>
     <li>于翡，2012届博士毕业生</li>
     <ul>
       <li>
@@ -246,6 +295,20 @@
         <button><a href="/pdf/dissertation/2012-yufei.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
       </li>
       <li>中国气象局 国家气象中心</li>
+    </ul>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center; padding: 10px;">
+  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
+  <ul>
+    <li>梁建宇，2011届硕士毕业生</li>
+    <ul>
+      <li>
+        硕士论文 《2009年6月两次造成地面大风的飑线的结构特征对比研究》
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20108688&title=2009%E5%B9%B46%E6%9C%88%E4%B8%A4%E6%AC%A1%E9%80%A0%E6%88%90%E5%9C%B0%E9%9D%A2%E5%A4%A7%E9%A3%8E%E7%9A%84%E9%A3%91%E7%BA%BF%E7%9A%84%E7%BB%93%E6%9E%84%E7%89%B9%E5%BE%81%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6&author=%E6%A2%81%E5%BB%BA%E5%AE%87&highsearch=author_name%253A345345345%25E6%25A2%2581%25E5%25BB%25BA%25E5%25AE%2587345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E6%A2%81%E5%BB%BA%E5%AE%87" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+        <button><a href="/pdf/dissertation/2011-liangjianyu.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
+      </li>
     </ul>
   </ul>
 </div>
@@ -280,62 +343,6 @@
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
   <ul>
-    <li>张立生，2008届博士毕业生</li>
-    <ul>
-      <li>
-        博士论文 《江淮流域中尺度对流诱生涡旋的结构和演变特征研究》
-        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20046445&title=%E6%B1%9F%E6%B7%AE%E6%B5%81%E5%9F%9F%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%AF%B9%E6%B5%81%E8%AF%B1%E7%94%9F%E6%B6%A1%E6%97%8B%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E6%BC%94%E5%8F%98%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6&author=%E5%BE%90%E5%B9%BF%E9%98%94&highsearch=author_name%253A345345345%25E5%25BE%2590%25E5%25B9%25BF%25E9%2598%2594345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E5%BE%90%E5%B9%BF%E9%98%94" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-      </li>
-      <li>中国气象局 国家气象中心</li>
-    </ul>
-  </ul>
-</div>
-
-<div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
-  <ul>
-    <li>李娟，2015届硕士毕业生（南京信息工程大学客座）</li>
-    <ul>
-      <li>
-        硕士论文 《四川盆地西部与东部持续性暴雨过程的对比研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-      </li>
-      <li>温州市气象局</li>
-    </ul>
-  </ul>
-</div>
-
-<div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
-  <ul>
-    <li>王璐璐，2013届硕士毕业生（南京信息工程大学客座）</li>
-    <ul>
-      <li>
-        硕士论文 《江淮流域无层状云对流线的环境条件和结构特征研究》
-        <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-      </li>
-      <li>无锡市气象局</li>
-    </ul>
-  </ul>
-</div>
-
-<div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
-  <ul>
-    <li>梁建宇，2011届硕士毕业生</li>
-    <ul>
-      <li>
-        硕士论文 《2009年6月两次造成地面大风的飑线的结构特征对比研究》
-        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20108688&title=2009%E5%B9%B46%E6%9C%88%E4%B8%A4%E6%AC%A1%E9%80%A0%E6%88%90%E5%9C%B0%E9%9D%A2%E5%A4%A7%E9%A3%8E%E7%9A%84%E9%A3%91%E7%BA%BF%E7%9A%84%E7%BB%93%E6%9E%84%E7%89%B9%E5%BE%81%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6&author=%E6%A2%81%E5%BB%BA%E5%AE%87&highsearch=author_name%253A345345345%25E6%25A2%2581%25E5%25BB%25BA%25E5%25AE%2587345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E6%A2%81%E5%BB%BA%E5%AE%87" style="text-decoration: none; color: #3F50B6;">Link</a></button>
-        <button><a href="/pdf/dissertation/2011-liangjianyu.pdf" style="text-decoration: none; color: #3F50B6;">PDF</a></button>
-      </li>
-    </ul>
-  </ul>
-</div>
-
-<div style="display: flex; align-items: center; padding: 10px;">
-  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
-  <ul>
     <li>孟庆涛，2009届硕士毕业生</li>
     <ul>
       <li>
@@ -358,6 +365,20 @@
         <button><a href="" style="text-decoration: none; color: #3F50B6;">Link</a></button>
       </li>
       <li>南宁市气象局</li>
+    </ul>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center; padding: 10px;">
+  <img src="images/avatar/avatar.jpg" alt="jlz" width="100" style="border-radius: 100%; margin-right: 10px; border: 3px solid #f0f0f0;">
+  <ul>
+    <li>张立生，2008届博士毕业生</li>
+    <ul>
+      <li>
+        博士论文 《江淮流域中尺度对流诱生涡旋的结构和演变特征研究》
+        <button><a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20046445&title=%E6%B1%9F%E6%B7%AE%E6%B5%81%E5%9F%9F%E4%B8%AD%E5%B0%BA%E5%BA%A6%E5%AF%B9%E6%B5%81%E8%AF%B1%E7%94%9F%E6%B6%A1%E6%97%8B%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E6%BC%94%E5%8F%98%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6&author=%E5%BE%90%E5%B9%BF%E9%98%94&highsearch=author_name%253A345345345%25E5%25BE%2590%25E5%25B9%25BF%25E9%2598%2594345345345&sortField=score%2520desc%252Cid&start=0&actionType=Browse&searchText=%E5%BE%90%E5%B9%BF%E9%98%94" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+      </li>
+      <li>中国气象局 国家气象中心</li>
     </ul>
   </ul>
 </div>
