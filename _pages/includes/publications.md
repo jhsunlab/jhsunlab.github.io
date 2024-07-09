@@ -61,9 +61,33 @@
 
 
 
+<br>
+<h2 style="text-indent: 1em;">2024</h2>
+
+- Yang X, Sun J, Luo S (2024) Preconvective environments of severe convective winds over North China and South China. Atmospheric Research. https://doi.org/10.1016/j.atmosres.2024.107384
+<button><a href="https://www.sciencedirect.com/science/article/abs/pii/S0169809524001662" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Wei Q, Sun J, Fu S, Zhang Y, Wang X (2024) Spatiotemporal Characteristics of Rainfall over Different Terrain Features in the Middle Reaches of the Yangtze River Basin during the Warm Seasons of 2016–20. Advances in Atmospheric Sciences 41:915-936. https://doi.org/10.1007/s00376-023-3034-5
+<button><a href="https://link.springer.com/article/10.1007/s00376-023-3034-5" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Huang T, Fu S, Wang Z, Zhao S, Sun J, Zhang Y, Wang S (2024) A Case Study on the Rainstorm-Producing Mesoscale Vortices in Central-Eastern China. Journal of Geophysical Research: Atmospheres 129(5): e2023JD039573. https://doi.org/10.1029/2023JD039573
+<button><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039573?af=R" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- Fu Y, Sun J, Wu Z, Chen T, Song X, Sun S, Fu S (2024) Formation Mechanisms of the Extreme Rainfall and Mesoscale Convective Systems over South China during the Dragon Boat Rainy Season of 2022. Asia-Pacific Journal of Atmospheric Sciences. https://doi.org/10.1007/s13143-024-00357-5
+<button><a href="https://link.springer.com/article/10.1007/s13143-024-00357-5" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 杨雯婷, 孙建华, 傅慎明, 赵黎京 (2024) 1981～2020 年华南地区区域性极端降水事件研究. 大气科学 48(3) 906-922. https://doi.org/10.3878/j.issn.1006-9895.2211.22056
+<button><a href="http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2211.22056" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
+- 孙建华, 周玉淑, 傅慎明, 杨帅, 张元春, 汪汇洁, 黄玥 (2024) 近十年我国涡旋系统的研究进展. 大气科学. https://doi.org/10.3878/j.issn.1006-9895.2311.23323
+<button><a href="http://www.dqkxqk.ac.cn/dqkx/dqkx/article/abstract/2023323C" style="text-decoration: none; color: #3F50B6;">Link</a></button>
+
 
 <br>
 <h2 style="text-indent: 1em;">2023</h2>
+
+- Wei Q, Sun J, Zhang Y, Liu D, Sun Z, Liu M, Ma Z (2024) Statistical Characteristics of Thunderstorm Activity in the Middle Reaches of the Yangtze River Basin Based on a Five-Year Cloud-To-Ground Lighting Data Set. Geophysical Research Letters 50(24): e2023GL106498. https://doi.org/10.1029/2023GL106498
+<button><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106498" style="text-decoration: none; color: #3F50B6;">Link</a></button>
 
 - Fu Y, Sun J, Fu S, Zhang Y, Ma Z (2023) Initiations of Mesoscale Convective Systems in the Middle Reaches of the Yangtze River Basin Based on FY-4A Satellite Data: Statistical Characteristics and Environmental Conditions. Journal of Geophysical Research: Atmospheres 128(22):e2023JD038630. https://doi.org/10.1029/2023JD038630
 <button><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JD038630" style="text-decoration: none; color: #3F50B6;">Link</a></button>
