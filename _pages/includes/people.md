@@ -62,7 +62,7 @@
     <p><br><b>程宝洋</b><br>硕士研究生</p>
   </figure>
   <figure style="text-align:left;">
-    <img src="images/avatar/avatar.jpg" alt="syl" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
+    <img src="images/avatar/suyanlu.jpg" alt="syl" style="width:120px; border-radius: 10%; margin-bottom: 10px; margin-left: 30px; margin-right: 5px;">
     <p><br><b>苏衍陆</b><br>博士研究生</p>
   </figure>
 </div>
